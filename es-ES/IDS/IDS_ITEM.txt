@@ -67,7 +67,7 @@ Dragón Caos Máximo de Ojos Azules
 [IDS_ITEM.ID1000034]
 Terrogarra Luz-Heart
 [IDS_ITEM.ID1000035]
-coming soon
+Diabellstar la Bruja Negra
 [IDS_ITEM.ID1000036]
 Aleister, el que Invoka
 [IDS_ITEM.ID1000037]
@@ -412,6 +412,10 @@ Enlilgirsu, el Mekk-Caballero Orcust
 Espora la Semilla Hada
 [IDS_ITEM.ID1010119]
 Morgana la Bruja de Ojos
+[IDS_ITEM.ID1010121]
+Diabellstar la Bruja Negra
+[IDS_ITEM.ID1010122]
+Caballero Valiente
 [IDS_ITEM.ID1010128]
 Chica Gagagaga
 [IDS_ITEM.ID1011001]
@@ -1176,6 +1180,8 @@ Reencender
 Marco púrpura y amarillo
 [IDS_ITEM.ID1030037]
 Marco amarillo y azul
+[IDS_ITEM.ID1030038]
+Diabellstar la Bruja Negra
 [IDS_ITEM.ID1030039]
 Fusión de Caballero-Gema
 [IDS_ITEM.ID1031001]
@@ -1506,10 +1512,20 @@ La Receta Especial del Chef
 Exodia, el Prohibido (WCS2025)
 [IDS_ITEM.ID1070131]
 Dragoncella Amadellaves
+[IDS_ITEM.ID1070132]
+Diabellstar la Bruja Negra
+[IDS_ITEM.ID1070133]
+Dama Labrislinto del Castillo Plateado
+[IDS_ITEM.ID1070134]
+Dama Labrislinto del Castillo Plateado
+[IDS_ITEM.ID1070135]
+Olla de la Extravagancia
 [IDS_ITEM.ID1070138]
 Caza del Cielo As = Cero
 [IDS_ITEM.ID1070140]
 Número F0: Futuro Utópico Zexal
+[IDS_ITEM.ID1070142]
+Arcalixir de la Tierra Dorada Gloriosa
 [IDS_ITEM.ID1070143]
 Ligresa Bailarina de la Lunaluz
 [IDS_ITEM.ID1070147]
@@ -1754,6 +1770,10 @@ Caza del Cielo As - Roze
 Tierra Abismal
 [IDS_ITEM.ID1082022]
 Orcust
+[IDS_ITEM.ID1082024]
+Diabellstar la Bruja Negra
+[IDS_ITEM.ID1082025]
+Labrislinto
 [IDS_ITEM.ID1083001]
 Blanco y azul
 [IDS_ITEM.ID1090001]
@@ -1826,6 +1846,8 @@ Zona de simulación Estratagema Golpeadora
 Cementerio de Infinidad de Almas
 [IDS_ITEM.ID1090036]
 Despía, Teatro de los Señalados
+[IDS_ITEM.ID1090037]
+Laberinto Labrislinto
 [IDS_ITEM.ID1090040]
 Estado de fútbol
 [IDS_ITEM.ID1092001]
@@ -1902,6 +1924,8 @@ Zona de simulación Estratagema Golpeadora
 Cementerio de Infinidad de Almas
 [IDS_ITEM.ID1100036]
 Despía, Teatro de los Señalados
+[IDS_ITEM.ID1100037]
+Laberinto Labrislinto
 [IDS_ITEM.ID1100040]
 Estado de fútbol
 [IDS_ITEM.ID1101001]
@@ -2038,6 +2062,8 @@ Zona de simulación Estratagema Golpeadora
 Cementerio de Infinidad de Almas
 [IDS_ITEM.ID1110036]
 Despía, Teatro de los Señalados
+[IDS_ITEM.ID1110037]
+Laberinto Labrislinto
 [IDS_ITEM.ID1110040]
 Estado de fútbol
 [IDS_ITEM.ID1111001]
@@ -2402,6 +2428,14 @@ Lácrima las Lágrimas Carmesíes
 Galatea-I, el Autómata Orcust
 [IDS_ITEM.ID1130092]
 Hospitalidad Dragoncella
+[IDS_ITEM.ID1130095]
+Diabellstar la Bruja Negra
+[IDS_ITEM.ID1130096]
+Dama Labrislinto del Castillo Plateado
+[IDS_ITEM.ID1130097]
+Fallo Fantasmagórico del Archidemonio
+[IDS_ITEM.ID1130098]
+Arcalich el Señor Dorado
 [IDS_ITEM.ID1130104]
 El Primero de los Señores Dragón
 [IDS_ITEM.ID1132001]
@@ -2431,7 +2465,7 @@ Dragoncella
 [IDS_ITEM.ID1170003]
 coming soon
 [IDS_ITEM.ID1170004]
-coming soon
+Labrislinto
 [IDS_ITEM.ID1170005]
 coming soon
 [IDS_ITEM.ID1170006]
@@ -2453,9 +2487,9 @@ Dragoncella
 [IDS_ITEM.ID1180006]
 coming soon
 [IDS_ITEM.ID1180007]
-coming soon
+Labrislinto
 [IDS_ITEM.ID1180008]
-coming soon
+Arcalich el Señor Dorado
 [IDS_ITEM.ID1180009]
 coming soon
 [IDS_ITEM.ID1180010]

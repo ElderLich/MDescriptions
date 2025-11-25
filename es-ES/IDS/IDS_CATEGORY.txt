@@ -213,7 +213,7 @@ Asaltorrapaz
 [IDS_CATEGORY.NAME_107]
 Monarca
 [IDS_CATEGORY.NAME_108]
-coming soon
+Arcalich
 [IDS_CATEGORY.NAME_109]
 coming soon
 [IDS_CATEGORY.NAME_110]
@@ -251,7 +251,7 @@ Dragón de Trueno
 [IDS_CATEGORY.NAME_126]
 Tri-Brigada
 [IDS_CATEGORY.NAME_127]
-coming soon
+Labrislinto
 [IDS_CATEGORY.NAME_128]
 coming soon
 [IDS_CATEGORY.NAME_129]

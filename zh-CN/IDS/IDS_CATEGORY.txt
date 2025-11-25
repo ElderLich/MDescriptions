@@ -213,7 +213,7 @@ coming soon
 [IDS_CATEGORY.NAME_107]
 帝王
 [IDS_CATEGORY.NAME_108]
-coming soon
+埃尔德里奇
 [IDS_CATEGORY.NAME_109]
 coming soon
 [IDS_CATEGORY.NAME_110]
@@ -251,7 +251,7 @@ coming soon
 [IDS_CATEGORY.NAME_126]
 铁兽
 [IDS_CATEGORY.NAME_127]
-coming soon
+拉比丽斯
 [IDS_CATEGORY.NAME_128]
 coming soon
 [IDS_CATEGORY.NAME_129]

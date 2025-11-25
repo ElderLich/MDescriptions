@@ -96,6 +96,9 @@ Mit seiner immensen Kraft, die seinem chaotischen Namen gerecht wird, lässt er 
 [IDS_ITEMDESC.ID1000034]
 Ein Wesen, das einem Mann auf der Reise hilft, sein wahres Ich wiederzufinden.
 Obwohl es hätte verschwinden müssen, tauchte es wieder auf, vielleicht weil das Selbstverständnis des Mannes noch unvollständig war.
+[IDS_ITEMDESC.ID1000035]
+Eine in Schwarz gehüllte Schatzsucherin, die Magie beherrscht.
+Die rücksichtslose Art, mit der sie ihre Ziele verfolgt, hat ihr den Spitznamen „Dämonin“ eingebracht.
 [IDS_ITEMDESC.ID1000036]
 Ein begnadeter Magier aus alten Zeiten, der viele verbotene Künste beherrschte.
 Mit dem Aufkommen von „<card mrk='10282'/>“ verschwand er spurlos aus den Geschichtsbüchern.
@@ -696,9 +699,11 @@ Sie hat sich „<card mrk='20747'/>“ in einem tödlichen Überlebenskampf gest
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+Ein Symbol, das eine mysteriöse Geschichtenerzählerin darstellt.
+Das Märchen von „<card mrk='21195'/>“ wird weitererzählt.
 [IDS_ITEMDESC.ID1010122]
-coming soon
+Ein Symbol, das einen Ritter zeigt, der gegen eine von alten Legenden umwobene Burg antritt.
+Der tapfere Ritter überwindet mühelos die zahlreichen tödlichen Fallen, die auf ihn lauern.
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1830,6 +1835,9 @@ Die Farben, die an die Dämmerung erinnert, ruft eine Flut von Emotionen wach.
 [IDS_ITEMDESC.ID1030037]
 Ein gelb-blauer Symbol-Rahmen, der an eine goldene Sonne erinnert, die über dem Meer aufgeht.
 Er erinnert an helle Sommertage mit glitzerndem, vom Sonnenlicht bestrahlten Meer.
+[IDS_ITEMDESC.ID1030038]
+Ein Symbol-Rahmen, der an die rätselhafte Geschichtenerzählerin erinnert.
+Die Stimme eines Mädchens ist zu hören, scheinbar aus dem Nirgendwo.
 [IDS_ITEMDESC.ID1030039]
 Ein Symbol-Rahmen, der die Kraft der Fusion heraufbeschwört – die Grundlage der Pyroxen-Krieger.
 Es belastet ihren Kern, kann aber mehrmals hintereinander verwendet werden.
@@ -2322,13 +2330,17 @@ Für diejenigen, die die Welt herausfordern.
 Kartenhüllen, die ein Dienstmädchen darstellen, die das oberste Dienstmädchen mit der Federpflege beschäftigt.
 Für alle, die ihre Dankbarkeit mit einer besonderen Überraschung zum Ausdruck bringen möchten.
 [IDS_ITEMDESC.ID1070132]
-coming soon
+Kartenhüllen, auf denen eine mysteriöse Geschichtenerzählerin abgebildet ist.
+Für diejenigen, die die Geschichte der Hexe spinnen.
 [IDS_ITEMDESC.ID1070133]
-coming soon
+Kartenhüllen, die die Herrin der Burg zeigen, wie sie eilig hinausstürzt, nachdem sie nicht länger warten konnte.
+Für diejenigen, die auf ihren strahlenden Ritter warten.
 [IDS_ITEMDESC.ID1070134]
-coming soon
+Kartenhüllen, die eine Frau von unvergleichlicher, aber vergänglicher Schönheit darstellen.
+Für diejenigen, die alles zurückweisen, was auf sie zukommt.
 [IDS_ITEMDESC.ID1070135]
-coming soon
+Kartenhüllen, auf denen das goldene Land und dessen schreckliche goldene Armee abgebildet sind, bereit für eine Invasion.
+Für diejenigen, deren Macht aus Gier entspringt.
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2344,7 +2356,8 @@ Für diejenigen, die Hoffnung für die Zukunft wecken möchten.
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+Kartenhüllen, auf denen der goldene Lord abgebildet ist, dessen Gier unersättlich ist.
+Für diejenigen, die sich alles zu eigen machen wollen.
 [IDS_ITEMDESC.ID1070143]
 Kartenhüllen, die eine Königin unter Königinnen darstellen, die über eine mondbeschienene Bühne huscht.
 Für diejenigen, die zwischen Mondstrahlen aus glitzerndem Silber tanzen.
@@ -2717,6 +2730,12 @@ Ein Kartenetui, auf dem ein kontinentweiter Konflikt abgebildet ist.
 Perfekt für die Decks derjenigen, die in den nördlichen Territorien kämpfen.
 [IDS_ITEMDESC.ID1082022]
 Ein Kartenetui, auf dem eine mechanisierte Armee, die als Nebenprodukt entstanden ist, abgebildet ist.Perfekt für Decks, die unzählige Tests durchlaufen haben.
+[IDS_ITEMDESC.ID1082024]
+Ein Kartenetui, auf dem ein Gegenstand abgebildet ist, der von einer mysteriösen Hexe verwendet wird.
+Perfekt für Decks mit Hexen, die ein grausames Schicksal erdulden müssen.
+[IDS_ITEMDESC.ID1082025]
+Ein Kartenetui, das eine uneinnehmbare Burg zeigt, die alle Eindringlinge abweist.
+Perfekt für Decks, die viele Fallenkarten enthalten.
 [IDS_ITEMDESC.ID1083001]
 Ein exklusives Kartenetui, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1090001]
@@ -2825,6 +2844,9 @@ Sogar an diesem Abend zieht die Stille dieses Ortes einen endlosen Strom von Tot
 [IDS_ITEMDESC.ID1090036]
 Ein Duell-Spielfeld mit einem gigantischen Bauwerk, das in eine unheimliche Atmosphäre gehüllt ist.
 Tief im Inneren öffnet sich langsam, aber unaufhaltsam das Tor zur Katastrophe.
+[IDS_ITEMDESC.ID1090037]
+Ein Duell-Spielfeld in Form eines <card mrk='17367'/>.
+Der Fluch kann nur gebrochen werden, wenn der wahre Schatz, der sich angeblich im Schloss befindet, geborgen wird.
 [IDS_ITEMDESC.ID1090040]
 Ein Duell-Spielfeld in Form eines Fußballstadions.
 Der Jubel der begeisterten Fans hallt über den Rasen.
@@ -2936,6 +2958,9 @@ Die Gräber scheinen erst vor Kurzem ausgehoben worden zu sein.
 [IDS_ITEMDESC.ID1100036]
 Spielfeldteile aus Despia, Theater der Markierten.
 Der Grad an Raffinesse passt perfekt zu dem Schloss voller Dunkelheit.
+[IDS_ITEMDESC.ID1100037]
+Spielfeldteile aus dem <card mrk='17367'/>.
+Ihre kunstvollen Verzierungen verleihen ihnen einen hohen Wert als Dekorationsstücke.
 [IDS_ITEMDESC.ID1100040]
 Spielfeldteile eines Fußballstadions.
 Ein temporäres Verlassen ist Teil der Leistung. Das Ass kommt aus dem Loch zurück und ist bereit, zurückzuschlagen.
@@ -3193,6 +3218,9 @@ Die Bedeutung der eingravierten Markierungen ist noch unklar, man sollte jedoch 
 [IDS_ITEMDESC.ID1110036]
 Ein Stand aus Despia, Theater der Markierten.
 Sie ist eines von unzähligen Löchern, die in den Himmel gemeißelt wurden.
+[IDS_ITEMDESC.ID1110037]
+Ein Stand aus dem <card mrk='17367'/>.
+Die Gastfreundschaft gegenüber Gästen spiegelt sich in der raffinierten Gestaltung wider.
 [IDS_ITEMDESC.ID1110040]
 Eine Tribüne eines Fußballstadions. Leidenschaft rast über das Feld, die grüne Bühne hallt bei jedem Schuss wider.
 [IDS_ITEMDESC.ID1111001]
@@ -3714,13 +3742,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+Und so wurde der Weiße Wald wieder zu dem friedlichen, mysteriösen Wald, der er einst war.
+Die Geschichten vom „<card mrk='21195'/>“.
 [IDS_ITEMDESC.ID1130096]
-coming soon
+Unvergleichliche Schönheit, so zart wie Seide und so flüchtig wie der Mond am Nachthimmel.
+Diese wunderschöne Herrin der Burg liegt in den mit Silber ausgekleideten Mauern ihrer verfluchten Burg und wartet.
 [IDS_ITEMDESC.ID1130097]
-coming soon
+Die jüngsten Schwestern des Porzellanmädchens.
+Trotz all ihrer hektischen Vorbereitungen hinter den Kulissen mussten sie sich letztendlich selbst dem Ritter stellen.
 [IDS_ITEMDESC.ID1130098]
-coming soon
+Dem ersten und ewigen Lord des goldenen Landes.
+Durch seine eigene Gier bezwang und verschlang er den Fluch, der unzählige Begierden und Neid entfesselte.
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -3783,7 +3815,8 @@ Es heißt, dass die Prestigetore hell erstrahlen werden, wenn die <category id='
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+Ein Sammelordner, der diejenigen darstellt, die innerhalb der silbernen, dämonischen Burg lauern.
+Es heißt, dass die uneinnehmbaren Tore hell erstrahlen werden, wenn die <category id='127'/> versammelt sind.
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -3811,9 +3844,11 @@ Der in ihre Oberfläche eingravierte Drache schimmert hell.
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+Eine Münze, deren Motiv eine uneinnehmbare Burg ist, die alle Eindringlinge abweist.
+Ihre Fallen schimmern prächtig, während sie auf ahnungslose Opfer lauern.
 [IDS_ITEMDESC.ID1180008]
-coming soon
+Eine Münze, deren Motiv der Lord des goldenen Landes ist.
+Besessen von einer unersättlichen Gier, die habgierig schimmert.
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]

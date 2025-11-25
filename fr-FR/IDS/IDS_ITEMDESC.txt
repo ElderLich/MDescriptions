@@ -96,6 +96,9 @@ Sa puissance colossale, chaotique, fouette ses ennemis et les détruit instantan
 [IDS_ITEMDESC.ID1000034]
 Un être qui aide un homme dans son voyage vers la reconquête de son vrai moi.
 Alors qu'il aurait dû disparaître, il est réapparu, peut-être parce que le sentiment d'identité de l'homme était encore incomplet.
+[IDS_ITEMDESC.ID1000035]
+Une chasseuse de trésors habillée de noir qui manie la magie.
+La manière dont elle poursuit son but sans relâche lui vaut le surnom de "Démon".
 [IDS_ITEMDESC.ID1000036]
 Un magicien talentueux des temps anciens, qui maîtrisait une forme de magie interdite.
 Il a disparu de l'Histoire sans laisser de trace après l'arrivée de "<card mrk='10282'/>".
@@ -696,9 +699,11 @@ Elle a affronté "<card mrk='20747'/>" dans une lutte sans pitié pour la survie
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+Une icône représentant une mystérieuse conteuse.
+Le conte de "<card mrk='21195'/>" se transmet par la tradition orale.
 [IDS_ITEMDESC.ID1010122]
-coming soon
+Une Icône représentant un chevalier prenant d'assaut un château sorti tout droit d'anciennes légendes.
+Le chevalier vaillant franchit facilement tous les pièges mortels qu'il rencontre.
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1830,6 +1835,9 @@ Les couleurs rappellent le crépuscule et suscitent tout un flot d'émotions.
 [IDS_ITEMDESC.ID1030037]
 Un cadre d'icône jaune et bleu qui évoque un soleil doré se levant au-dessus de la mer.
 Il rappelle ces belles journées d'été pendant lesquels la lumière du soleil se reflète sur l'eau étincelante de l'océan.
+[IDS_ITEMDESC.ID1030038]
+Un cadre d'icône évoquant une conteuse énigmatique.
+Une voix de fille peut être entendue, sortant de nulle part.
 [IDS_ITEMDESC.ID1030039]
 Un cadre d'icône qui évoque le pouvoir de la Fusion, la fondation même des Guerriers Pyroxènes.
 Elle affaiblit leur cœur, mais peut être utilisée en continu.
@@ -2321,13 +2329,17 @@ Pour tous ceux qui défient le reste du monde.
 Protège-cartes représentant une servante prenant soin de ses ailes.
 Pour ceux qui souhaitent partager leur gratitude avec une surprise spéciale.
 [IDS_ITEMDESC.ID1070132]
-coming soon
+Des Protège-cartes représentant une mystérieuse conteuse.
+Pour tous ceux qui tissent le conte de la sorcière.
 [IDS_ITEMDESC.ID1070133]
-coming soon
+Des Protège-cartes représentant la châtelaine se précipitant dehors, incapable d'attendre plus longtemps.
+Pour toutes les personnes qui attentent leur preux chevalier.
 [IDS_ITEMDESC.ID1070134]
-coming soon
+Des Protège-cartes représentant une femme d'une beauté incomparable, bien qu'éphémère.
+Pour tous ceux qui rejettent le passé.
 [IDS_ITEMDESC.ID1070135]
-coming soon
+Des Protège-cartes représentant la Terre d'Or et sa terrible armée dorée prête à lancer une invasion.
+Pour tous ceux qui puisent leur puissance dans l'avarice.
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2343,7 +2355,8 @@ Pour tous ceux qui souhaitent retrouver espoir en l'avenir.
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+Des Protège-cartes représentant le Seigneur d'Or, dont l'avarice est infinie.
+Pour tous ceux qui veulent tout s'approprier.
 [IDS_ITEMDESC.ID1070143]
 Des Protège-cartes représentant une reine parmi les reines, virevoltant sur une scène éclairée par la lune.
 Pour ceux qui dansent au milieu des rayons argentés scintillants de la lune.
@@ -2716,6 +2729,12 @@ Parfait pour ceux qui se battent dans les territoires du Nord.
 [IDS_ITEMDESC.ID1082022]
 Une Boîte de cartes illustrée d'une armée mécanique créée par accident.
 Elle est parfaite pour les Decks ayant subi de nombreux essais.
+[IDS_ITEMDESC.ID1082024]
+Une Boîte de cartes représentant un objet utilisé par une mystérieuse sorcière.
+Idéale pour les Decks avec des sorcières qui portent le fardeau d'un cruel destin.
+[IDS_ITEMDESC.ID1082025]
+Une Boîte de cartes représentant un château impénétrable qui repousse tous ceux qui tentent de s'y infiltrer.
+Idéal pour les Decks remplis de Cartes Piège.
 [IDS_ITEMDESC.ID1083001]
 Une Boîte de cartes exclusive offerte lors d'occasions spéciales.
 [IDS_ITEMDESC.ID1090001]
@@ -2824,6 +2843,9 @@ La tranquillité de cet endroit attire un flot infini de morts.
 [IDS_ITEMDESC.ID1090036]
 Un Terrain de Duel d'une structure gigantesque dans une atmosphère sinistre.
 En son cœur, la porte du cataclysme s'ouvre, lentement mais inexorablement.
+[IDS_ITEMDESC.ID1090037]
+Un Terrain de Duel de "<card mrk='17367'/>".
+La malédiction ne peut être levée à moins que le véritable trésor ne soit retrouvé dans le château.
 [IDS_ITEMDESC.ID1090040]
 Un Terrain de Duel dans un stade de football.
 Les encouragements des fans enthousiastes y résonnent.
@@ -2935,6 +2957,9 @@ Les tombes ont l'air d'avoir été fraîchement creusées.
 [IDS_ITEMDESC.ID1100036]
 Parties de Terrain inspirées de Despia, Théâtre des Marqués.
 Le niveau de raffinement est à la hauteur de ce château où règne l'obscurité.
+[IDS_ITEMDESC.ID1100037]
+Des Parties de Terrain issues de "<card mrk='17367'/>".
+Leurs motifs complexes en font de belles pièces décoratives.
 [IDS_ITEMDESC.ID1100040]
 Parties de Terrain provenant d'un terrain de football.
 Une issue temporaire qui fait partie de la performance. L'as revient de la trappe, prêt à riposter.
@@ -3191,6 +3216,9 @@ Le sens des inscriptions gravées dessus est peu clair, mais il est certain qu'i
 [IDS_ITEMDESC.ID1110036]
 Un Stand issu de Despia, Théâtre des Marqués.
 C'est l'une des innombrables crevasses qui ont été creusées dans le ciel.
+[IDS_ITEMDESC.ID1110037]
+Un Stand issu de <card mrk='17367'/>.
+L'esprit d'hospitalité est illustré par son apparence raffinée.
 [IDS_ITEMDESC.ID1110040]
 Tribune d'un stade de football. La passion déferle sur le terrain, la scène verdoyante résonnant à chaque tir.
 [IDS_ITEMDESC.ID1111001]
@@ -3712,13 +3740,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+Ainsi, la Forêt Blanche redevient le lieu paisible et mystérieux qu'elle était autrefois.
+Le conte de "<card mrk='21195'/>".
 [IDS_ITEMDESC.ID1130096]
-coming soon
+Une beauté sans pareil, aussi délicate que la soie et éphémère que la lune dans le ciel nocturne.
+Cette magnifique châtelaine se languit entre les murs argentés de son château maudit.
 [IDS_ITEMDESC.ID1130097]
-coming soon
+Les jeunes sœurs de la demoiselle en porcelaine.
+Malgré toutes leurs préparations, elles ont dû affronter le chevalier seules.
 [IDS_ITEMDESC.ID1130098]
-coming soon
+Le premier et dernier seigneur de la Terre d'Or !
+Sa cupidité l'a poussé à dominer et à absorber la malédiction qui a libéré d'innombrables désirs et ressentiments.
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -3781,7 +3813,8 @@ Il paraît que lorsque les <category id='101'/> se rassemblent, la porte prestig
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+Un Dossier de Collectionneur représentant les personnes qui se languissent dans le château argenté maléfique.
+Il paraît que lorsque les <category id='127'/> se rassembleront, ses portes impénétrables se mettront à briller de mille feux.
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -3809,9 +3842,11 @@ Le dragon gravé sur sa surface est étincelant.
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+Une Pièce ornée d'un château impénétrable qui repousse tous ceux qui tentent de s'y infiltrer.
+Ses pièges resplendissent en attendant leurs victimes.
 [IDS_ITEMDESC.ID1180008]
-coming soon
+Une Pièce dont le motif est le seigneur de la Terre d'Or.
+Son désir insatiable brille de mille feux.
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]

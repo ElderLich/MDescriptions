@@ -96,6 +96,9 @@ Seu poder colossal, condizente com seu apelido caótico, lança seu chicote de a
 [IDS_ITEMDESC.ID1000034]
 Um ser que ajuda um homem em uma jornada para recuperar seu verdadeiro eu.
 Embora devesse ter desaparecido, ele apareceu mais uma vez, talvez porque o senso de identidade do homem ainda estivesse incompleto.
+[IDS_ITEMDESC.ID1000035]
+Caçadora de tesouros com trajes negros que manipula magia.
+Recebeu a alcunha de "Demônio" pela frieza que apresenta para alcançar seus objetivos.
 [IDS_ITEMDESC.ID1000036]
 Um mago talentoso da antiguidade que dominou muitas artes proibidas.
 Ele desapareceu da história sem deixar rastros com o advento de "<card mrk='10282'/>".
@@ -696,9 +699,11 @@ Ela já enfrentou "<card mrk='20747'/>" em um duelo mortal por sobrevivência.
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+Ícone que retrata uma misteriosa narradora.
+Assim se transmite o conto de "<card mrk='21195'/>".
 [IDS_ITEMDESC.ID1010122]
-coming soon
+Ícone que retrata um cavaleiro avançando rumo um castelo repleto de lendas de outrora.
+Cavaleiro valente que desarma com astúcia as inúmeras armadilhas à espreita.
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1830,6 +1835,9 @@ Evocando a imagem do crepúsculo, as cores trazem diversas emoções.
 [IDS_ITEMDESC.ID1030037]
 Uma Moldura de Ícone amarela e azul que evoca um sol dourado nascendo acima do oceano.
 Traz à mente dias de verão ensolarados, com a água do mar cintilando à luz do sol.
+[IDS_ITEMDESC.ID1030038]
+Moldura de Ícone que evoca uma misteriosa narradora.
+Uma voz de menina ecoa, mas não se sabe de onde.
 [IDS_ITEMDESC.ID1030039]
 Moldura de Ícone que evoca o poder da Fusão, o alicerce dos Guerreiros Piroxênios.
 Apesar de estressar o núcleo, pode-se usar de forma consecutiva.
@@ -2322,13 +2330,17 @@ Para aqueles que desafiaram o mundo.
 Protetores que retratam uma servente que mantém a chefe ocupada com os cuidados das penas.
 Para quem pensa em mostrar gratidão por meio de surpresas especiais.
 [IDS_ITEMDESC.ID1070132]
-coming soon
+Protetores que retratam uma misteriosa narradora.
+Para quem tece o conto da bruxa.
 [IDS_ITEMDESC.ID1070133]
-coming soon
+Protetores que retratam uma castelã às pressa, pois não aguentava mais esperar um segundo sequer.
+Para quem aguarda o cavaleiro em armadura cintilante.
 [IDS_ITEMDESC.ID1070134]
-coming soon
+Protetores que retratam uma mulher de beleza ímpar, porém efêmera.
+Para quem rejeita tudo que surge no caminho.
 [IDS_ITEMDESC.ID1070135]
-coming soon
+Protetores que retratam o pavoroso exército da Terra Dourada, pronto para dar início a uma invasão.
+Para quem tem poder oriundo da ganância.
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2344,7 +2356,8 @@ Para quem deseja promover esperança pelo futuro.
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+Protetores que retratam o Senhor Dourado, cuja ganância é insaciável.
+Para quem deseja se apossar de tudo.
 [IDS_ITEMDESC.ID1070143]
 Protetores que retratam uma rainha ímpar, que flutua em um palco ao luar.
 Para quem dança em meio aos feixes prateados e reluzentes do luar.
@@ -2718,6 +2731,12 @@ Perfeito para os Decks daqueles que batalham nos territórios do norte.
 [IDS_ITEMDESC.ID1082022]
 Porta-cards que retrata um exército mecânico que surgiu como subproduto.
 Ideal para Decks que passaram por inúmeras provações.
+[IDS_ITEMDESC.ID1082024]
+Porta-cards que retrata o item de uma bruxa misteriosa.
+Perfeito para Decks com bruxas que carregam o fardo de um destino cruel.
+[IDS_ITEMDESC.ID1082025]
+Porta-cards que retrata um castelo inexpugnável que afasta todos os invasores.
+Perfeito para Decks repletos de Cards de Armadilha.
 [IDS_ITEMDESC.ID1083001]
 Porta-cards exclusivo, disponível em ocasiões especiais.
 [IDS_ITEMDESC.ID1090001]
@@ -2826,6 +2845,9 @@ Mesmo nesta noite, a tranquilidade deste lugar atrai um fluxo inesgotável de mo
 [IDS_ITEMDESC.ID1090036]
 Um Campo de Duelo com uma estrutura gigantesca envolta em uma atmosfera sinistra.
 Em suas profundezas, o portão do cataclismo se abre de forma lenta porém inexorável.
+[IDS_ITEMDESC.ID1090037]
+Campo de Duelo de <card mrk='17367'/>.
+Apenas o tesouro verdadeiro que jaz dentro do castelo pode quebrar a maldição.
 [IDS_ITEMDESC.ID1090040]
 Um Campo de Duelo de um estádio de futebol.
 Os gritos de empolgação da torcida ecoam pelo gramado.
@@ -2937,6 +2959,9 @@ Pelo visto, os túmulos foram escavados recentemente.
 [IDS_ITEMDESC.ID1100036]
 Componentes de Campo de Despia, o Teatro dos Marcados.
 O nível de refinamento condiz com o castelo que emana escuridão.
+[IDS_ITEMDESC.ID1100037]
+Componentes de Campo de <card mrk='17367'/>.
+Apresenta design ornamental que valoriza as peças decorativas.
 [IDS_ITEMDESC.ID1100040]
 Componentes de Campo de um estádio de futebol.
 Uma saída temporária faz parte do desempenho. O ás retorna do buraco, pronto para contra-atacar.
@@ -3194,6 +3219,9 @@ O significado das inscrições permanece um mistério. Contudo, o manuseio reque
 [IDS_ITEMDESC.ID1110036]
 Um Pedestal de Despia, o Teatro dos Marcados.
 Esse é um dos inúmeros buracos que foram esculpidos no céu.
+[IDS_ITEMDESC.ID1110037]
+Pedestal de <card mrk='17367'/>.
+O design sofisticado reflete o espírito de hospitalidade com visitantes.
 [IDS_ITEMDESC.ID1110040]
 Um pedestal de um estádio de futebol. A paixão percorre todo o campo, um palco verdejante que vibra a cada jogada.
 [IDS_ITEMDESC.ID1111001]
@@ -3715,13 +3743,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+E assim, a paz voltou a reinar na misteriosa Floresta Branca, tal como outrora.
+O conto de "<card mrk='21195'/>".
 [IDS_ITEMDESC.ID1130096]
-coming soon
+Beleza ímpar, delicada como a seda e efêmera como a lua no céu noturno.
+Bela castelã que vive à espera dentro de seu castelo amaldiçoado com muralhas de prata.
 [IDS_ITEMDESC.ID1130097]
-coming soon
+Irmãs mais novas da donzela de porcelana.
+Apesar dos incessantes esforços nos bastidores, tiveram de enfrentar o cavaleiro por conta própria.
 [IDS_ITEMDESC.ID1130098]
-coming soon
+Primeiro e eterno senhor da Terra Dourada.
+Com ganância irrefreável, subjugou e consumiu a maldição que alastrou inúmeros desejos e ressentimentos.
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -3784,7 +3816,8 @@ Dizem que ao reunir <category id='101'/>, os ilustres portões brilharão com fu
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+Acervo de Colecionador que retrata quem vive à espera em um castelo demoníaco e prateado.
+Dizem que ao reunir <category id='127'/>, o portão inexpugnável brilhará com fulgor.
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -3812,9 +3845,11 @@ O dragão gravado na superfície reluz com fulgor.
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+Moeda cuja inspiração é um castelo inexpugnável que afasta todos os invasores.
+Tem armadilhas que brilham com fulgor enquanto espreitam as vítimas incautas.
 [IDS_ITEMDESC.ID1180008]
-coming soon
+Moeda cujo emblema é o senhor da Terra Dourada.
+Possui uma ganância insaciável que reluz com avareza.
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]

@@ -96,6 +96,9 @@ L'immensa potenza del Chaos, che si addice al suo nome, porta le cose al livello
 [IDS_ITEMDESC.ID1000034]
 Un essere che aiuta un uomo in un viaggio alla ricerca del suo vero sé.
 Anche se sarebbe dovuto scomparire, è apparso di nuovo, forse perché la percezione di se stesso di quell'uomo era ancora incompleta.
+[IDS_ITEMDESC.ID1000035]
+Una cacciatrice di tesori vestita di nero che sfrutta la magia.
+Il modo spietato con cui persegue i suoi obiettivi le è valso il soprannome di "Demone".
 [IDS_ITEMDESC.ID1000036]
 Un mago molto dotato dei tempi antichi in grado di padroneggiare diverse arti proibite.
 È scomparso senza lasciare traccia con l'arrivo di "<card mrk='10282'/>".
@@ -696,9 +699,11 @@ Ha affrontato "<card mrk='20747'/>" in una lotta mortale per la sopravvivenza.
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+Un'icona che raffigura una misteriosa narratrice.
+Il racconto di "<card mrk='21195'/>" viene tramandato.
 [IDS_ITEMDESC.ID1010122]
-coming soon
+Un'icona che raffigura un cavaliere che affronta un castello intriso di antiche leggende.
+Il cavaliere valoroso supera facilmente le numerose trappole mortali in agguato.
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1829,6 +1834,9 @@ I colori, che ricordano il tramonto, generano un variegato flusso di emozioni.
 [IDS_ITEMDESC.ID1030037]
 Una cornice icona gialla e blu che evoca un sole dorato che sorge sul mare.
 Richiama alla mente le calde giornate estive con le acque dell'oceano che brillano sotto i raggi del sole.
+[IDS_ITEMDESC.ID1030038]
+Una cornice icona che raffigura un'enigmatica narratrice.
+Si ode la voce di una ragazza, come se provenisse dal nulla.
 [IDS_ITEMDESC.ID1030039]
 Una cornice icona che evoca il potere della Fusione, la base dei guerrieri di pyroxene.
 Affatica il loro Nucleo, ma si può utilizzare più volte di seguito.
@@ -2320,13 +2328,17 @@ Per coloro che sfidano il mondo.
 Protettori che raffigurano una cameriera che tiene occupata la capocameriera prendendosi cura delle piume.
 Per chi vuole esprimere la propria gratitudine con una sorpresa speciale.
 [IDS_ITEMDESC.ID1070132]
-coming soon
+Protettori che raffigurano una misteriosa narratrice.
+Per chi tesse la storia della strega.
 [IDS_ITEMDESC.ID1070133]
-coming soon
+Protettori che raffigurano la castellana che si precipita fuori, non riuscendo più ad attendere.
+Per chi attende il proprio cavaliere in una brillante armatura.
 [IDS_ITEMDESC.ID1070134]
-coming soon
+Protettori che raffigurano una donna dalla bellezza incomparabile, ma effimera.
+Per chi rifiuta tutto ciò che è venuto prima di loro.
 [IDS_ITEMDESC.ID1070135]
-coming soon
+Protettori che raffigurano la Terra Dorata e la sua terrificante armata dorata, pronta a dare vita a un'invasione.
+Per chi trae il proprio potere dall'avidità.
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2342,7 +2354,8 @@ Per chi cerca di infondere speranza per il futuro.
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+Protettori che raffigurano il Signore Dorato, contraddistinto da un'avidità insaziabile.
+Per chi desidera possedere ogni cosa.
 [IDS_ITEMDESC.ID1070143]
 Protettori che raffigurano una regina tra le regine che si muove leggera su un palcoscenico al chiaro di luna.
 Per chi danza tra i raggi di luna d'argento lucente.
@@ -2716,6 +2729,12 @@ Perfetta per i Deck di coloro che combattono nei territori del nord.
 [IDS_ITEMDESC.ID1082022]
 Una custodia carte che raffigura un esercito meccanizzato creato come sottoprodotto.
 Perfetta per i Deck che hanno svolto infinite prove.
+[IDS_ITEMDESC.ID1082024]
+Una custodia carte che raffigura un oggetto utilizzato da una strega misteriosa.
+Perfetta per Deck con streghe gravate da un destino crudele.
+[IDS_ITEMDESC.ID1082025]
+Una Custodia carte che raffigura un castello inespugnabile che respinge tutti gli intrusi.
+Perfetta per Deck con molte Carte Trappola.
 [IDS_ITEMDESC.ID1083001]
 Una Custodia carte esclusiva offerta in occasioni speciali.
 [IDS_ITEMDESC.ID1090001]
@@ -2824,6 +2843,9 @@ Anche in questa serata, la quiete di questo luogo attrae un flusso infinito di a
 [IDS_ITEMDESC.ID1090036]
 Un Terreno che raffigura una struttura gigantesca avvolta da un'atmosfera inquietante.
 Nascosta nelle sue profondità, la porta della fine inizia ad aprirsi, lentamente ma inesorabilmente.
+[IDS_ITEMDESC.ID1090037]
+Un Terreno Duello di <card mrk='17367'/>.
+La maledizione non può essere spezzata a meno che non venga recuperato il vero tesoro, che si dice sia nascosto nel castello.
 [IDS_ITEMDESC.ID1090040]
 Un Terreno Duello pari a uno stadio di calcio.
 Le grida dei tifosi appassionati risuonano in tutto il campo.
@@ -2935,6 +2957,9 @@ Le tombe sembrano essere state scavate di recente.
 [IDS_ITEMDESC.ID1100036]
 Parti del Terreno provenienti da "Dispia, Teatro dei Marchiati".
 Il livello di raffinatezza si addice al castello da cui emanano le tenebre.
+[IDS_ITEMDESC.ID1100037]
+Parti del Terreno provenienti da <card mrk='17367'/>.
+I motivi elaborati conferiscono loro un grande valore come pezzi decorativi.
 [IDS_ITEMDESC.ID1100040]
 Parti del Terreno provenienti da uno stadio di calcio.
 Un'uscita temporanea fa parte della prestazione. L'asso esce dalla manica, pronto a contrattaccare.
@@ -3192,6 +3217,9 @@ Il significato delle sue incisioni resta oscuro, ma va indubbiamente trattato co
 [IDS_ITEMDESC.ID1110036]
 Uno stand proveniente da "Dispia, Teatro dei Marchiati".
 È uno degli innumerevoli squarci che si sono formati nel cielo.
+[IDS_ITEMDESC.ID1110037]
+Uno stand proveniente da <card mrk='17367'/>.
+Lo spirito dell'accoglienza verso gli ospiti viene riflesso nel suo motivo raffinato.
 [IDS_ITEMDESC.ID1110040]
 Uno stand proveniente da uno stadio di calcio. La passione corre sul campo, un palcoscenico verdeggiante che risuona a ogni tiro.
 [IDS_ITEMDESC.ID1111001]
@@ -3713,13 +3741,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+E così, la Foresta Bianca tornò a essere la foresta pacifica e misteriosa di un tempo.
+Il racconto di "<card mrk='21195'/>".
 [IDS_ITEMDESC.ID1130096]
-coming soon
+Una bellezza incomparabile e delicata come la seta, nonché sfuggente come la luna nel cielo notturno.
+La bella castellana attende silenziosa tra le mura illuminate d'argento del suo castello maledetto.
 [IDS_ITEMDESC.ID1130097]
-coming soon
+Le sorelle più giovani della fanciulla di porcellana.
+Nonostante tutti i loro frenetici preparativi dietro le quinte, alla fine hanno dovuto affrontare il cavaliere di persona.
 [IDS_ITEMDESC.ID1130098]
-coming soon
+Il primo ed eterno signore della Terra Dorata.
+Attraverso la sua avidità, soggiogò e assorbì la maledizione che aveva dato vita a innumerevoli desideri e risentimenti.
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -3782,7 +3814,8 @@ Si dice che quando si ottengono più carte <category id='101'/>, le porte presti
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+Un Album del Collezionista che raffigura chi giace in attesa all'interno di un castello argenteo e demoniaco.
+Si dice che quando si ottengono più carte <category id='127'/>, le porte inespugnabili risplenderanno luminose.
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -3810,9 +3843,11 @@ Il drago inciso sulla sua superficie brilla splendente.
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+Una Moneta il cui motivo raffigura un castello inespugnabile che respinge tutti gli intrusi.
+Le sue trappole scintillano splendenti mentre giacciono in agguato per le vittime ignare.
 [IDS_ITEMDESC.ID1180008]
-coming soon
+Una moneta il cui motivo è il signore della Terra Dorata.
+Consumata da un'avidità insaziabile che luccica con brama sfrenata.
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]

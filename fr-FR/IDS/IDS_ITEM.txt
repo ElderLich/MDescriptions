@@ -67,7 +67,7 @@ Dragon du Chaos MAX aux Yeux Bleus
 [IDS_ITEM.ID1000034]
 Lumière-Heart Griffrayeur
 [IDS_ITEM.ID1000035]
-coming soon
+Diabellstar la Sorcière Sombre
 [IDS_ITEM.ID1000036]
 Aleister l'Invokhateur
 [IDS_ITEM.ID1000037]
@@ -412,6 +412,10 @@ Enlilgirsu, le Mekk-Chevalier Orcust
 Spore la Graine Féerique
 [IDS_ITEM.ID1010119]
 Morgana la Sorcière des Yeux
+[IDS_ITEM.ID1010121]
+Diabellstar la Sorcière Sombre
+[IDS_ITEM.ID1010122]
+Chevalier Vaillant
 [IDS_ITEM.ID1010128]
 Fille Gagagaga
 [IDS_ITEM.ID1011001]
@@ -1176,6 +1180,8 @@ Explosion Infernale
 Cadre violet et jaune
 [IDS_ITEM.ID1030037]
 Cadre jaune et bleu
+[IDS_ITEM.ID1030038]
+Diabellstar la Sorcière Sombre
 [IDS_ITEM.ID1030039]
 Fusion Chevalier-Gemmes
 [IDS_ITEM.ID1031001]
@@ -1506,10 +1512,20 @@ Recette Spéciale du Chef
 Éxodia l'Interdit (WCS2025)
 [IDS_ITEM.ID1070131]
 Maison Dragonirène
+[IDS_ITEM.ID1070132]
+Diabellstar la Sorcière Sombre
+[IDS_ITEM.ID1070133]
+Mademoiselle Labrynth du Château d'Argent
+[IDS_ITEM.ID1070134]
+Mademoiselle Labrynth du Château d'Argent
+[IDS_ITEM.ID1070135]
+Pot de l'Extravagance
 [IDS_ITEM.ID1070138]
 Assaut de l'Air - As = Zéro
 [IDS_ITEM.ID1070140]
 Numéro F0 : Futur Utopique Zexal
+[IDS_ITEM.ID1070142]
+Surnalixir de la Glorieuse Terre d'Or
 [IDS_ITEM.ID1070143]
 Ligre Danseuse de Clair de Lune
 [IDS_ITEM.ID1070147]
@@ -1754,6 +1770,10 @@ Assaut de l'Air - As - Roze
 Terre des Abysses
 [IDS_ITEM.ID1082022]
 Orcust
+[IDS_ITEM.ID1082024]
+Diabellstar la Sorcière Sombre
+[IDS_ITEM.ID1082025]
+Labrynth
 [IDS_ITEM.ID1083001]
 Blanc et bleu
 [IDS_ITEM.ID1090001]
@@ -1826,6 +1846,8 @@ Zone de Simulation du Stratagème Éclatant
 Cimetière des Âmes Abondantes
 [IDS_ITEM.ID1090036]
 Despia, Théâtre des Marqués
+[IDS_ITEM.ID1090037]
+Labyrinthe Labrynth
 [IDS_ITEM.ID1090040]
 Stade de football
 [IDS_ITEM.ID1092001]
@@ -1902,6 +1924,8 @@ Zone de Simulation du Stratagème Éclatant
 Cimetière des Âmes Abondantes
 [IDS_ITEM.ID1100036]
 Despia, Théâtre des Marqués
+[IDS_ITEM.ID1100037]
+Labyrinthe Labrynth
 [IDS_ITEM.ID1100040]
 Stade de football
 [IDS_ITEM.ID1101001]
@@ -2038,6 +2062,8 @@ Zone de Simulation du Stratagème Éclatant
 Cimetière des Âmes Abondantes
 [IDS_ITEM.ID1110036]
 Despia, Théâtre des Marqués
+[IDS_ITEM.ID1110037]
+Labyrinthe Labrynth
 [IDS_ITEM.ID1110040]
 Stade de football
 [IDS_ITEM.ID1111001]
@@ -2402,6 +2428,14 @@ Lacrima les Larmes Cramoisies
 Galatea-I, l'Androïde Orcust
 [IDS_ITEM.ID1130092]
 Dragonirène Hospitalité
+[IDS_ITEM.ID1130095]
+Diabellstar la Sorcière Sombre
+[IDS_ITEM.ID1130096]
+Mademoiselle Labrynth du Château d'Argent
+[IDS_ITEM.ID1130097]
+Effroyable Ruse de l'Archdémon
+[IDS_ITEM.ID1130098]
+Surnaliche le Seigneur d'Or
 [IDS_ITEM.ID1130104]
 Premier des Seigneurs Dragon
 [IDS_ITEM.ID1132001]
@@ -2431,7 +2465,7 @@ Dragonirène
 [IDS_ITEM.ID1170003]
 coming soon
 [IDS_ITEM.ID1170004]
-coming soon
+Labrynth
 [IDS_ITEM.ID1170005]
 coming soon
 [IDS_ITEM.ID1170006]
@@ -2453,9 +2487,9 @@ Dragonirène
 [IDS_ITEM.ID1180006]
 coming soon
 [IDS_ITEM.ID1180007]
-coming soon
+Labrynth
 [IDS_ITEM.ID1180008]
-coming soon
+Surnaliche le Seigneur d'Or
 [IDS_ITEM.ID1180009]
 coming soon
 [IDS_ITEM.ID1180010]

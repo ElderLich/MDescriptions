@@ -67,7 +67,7 @@ Blue-Eyes Chaos MAX Dragon
 [IDS_ITEM.ID1000034]
 Scareclaw Light-Heart
 [IDS_ITEM.ID1000035]
-coming soon
+Diabellstar the Black Witch
 [IDS_ITEM.ID1000036]
 Aleister the Invoker
 [IDS_ITEM.ID1000037]
@@ -412,6 +412,10 @@ Enlilgirsu, the Orcust Mekk-Knight
 Spore the Fairy Seed
 [IDS_ITEM.ID1010119]
 Morgana the Witch of Eyes
+[IDS_ITEM.ID1010121]
+Diabellstar the Black Witch
+[IDS_ITEM.ID1010122]
+Valiant Knight
 [IDS_ITEM.ID1010128]
 Gagagaga Girl
 [IDS_ITEM.ID1011001]
@@ -1176,6 +1180,8 @@ Rekindling
 Purple & Yellow Frame
 [IDS_ITEM.ID1030037]
 Yellow & Blue Frame
+[IDS_ITEM.ID1030038]
+Diabellstar the Black Witch
 [IDS_ITEM.ID1030039]
 Gem-Knight Fusion
 [IDS_ITEM.ID1031001]
@@ -1506,10 +1512,20 @@ Chef's Special Recipe
 Exodia the Forbidden One (WCS2025)
 [IDS_ITEM.ID1070131]
 House Dragonmaid
+[IDS_ITEM.ID1070132]
+Diabellstar the Black Witch
+[IDS_ITEM.ID1070133]
+Lady Labrynth of the Silver Castle
+[IDS_ITEM.ID1070134]
+Lady Labrynth of the Silver Castle
+[IDS_ITEM.ID1070135]
+Pot of Extravagance
 [IDS_ITEM.ID1070138]
 Sky Striker Ace = Zero
 [IDS_ITEM.ID1070140]
 Number F0: Utopic Future Zexal
+[IDS_ITEM.ID1070142]
+Eldlixir of the Glorious Golden Land
 [IDS_ITEM.ID1070143]
 Lunalight Liger Dancer
 [IDS_ITEM.ID1070147]
@@ -1754,6 +1770,10 @@ Sky Striker Ace - Roze
 Abyssal Land
 [IDS_ITEM.ID1082022]
 Orcust
+[IDS_ITEM.ID1082024]
+Diabellstar the Black Witch
+[IDS_ITEM.ID1082025]
+Labrynth
 [IDS_ITEM.ID1083001]
 White & Blue
 [IDS_ITEM.ID1090001]
@@ -1826,6 +1846,8 @@ Striking Stratagem Simulation Area
 Graveyard of Myriad Souls
 [IDS_ITEM.ID1090036]
 Despia, Theater of the Branded
+[IDS_ITEM.ID1090037]
+Labrynth Labyrinth
 [IDS_ITEM.ID1090040]
 Football Stadium
 [IDS_ITEM.ID1092001]
@@ -1902,6 +1924,8 @@ Striking Stratagem Simulation Area
 Graveyard of Myriad Souls
 [IDS_ITEM.ID1100036]
 Despia, Theater of the Branded
+[IDS_ITEM.ID1100037]
+Labrynth Labyrinth
 [IDS_ITEM.ID1100040]
 Football Stadium
 [IDS_ITEM.ID1101001]
@@ -2038,6 +2062,8 @@ Striking Stratagem Simulation Area
 Graveyard of Myriad Souls
 [IDS_ITEM.ID1110036]
 Despia, Theater of the Branded
+[IDS_ITEM.ID1110037]
+Labrynth Labyrinth
 [IDS_ITEM.ID1110040]
 Football Stadium
 [IDS_ITEM.ID1111001]
@@ -2402,6 +2428,14 @@ Lacrima the Crimson Tears
 Galatea-I, the Orcust Automaton
 [IDS_ITEM.ID1130092]
 Dragonmaid Hospitality
+[IDS_ITEM.ID1130095]
+Diabellstar the Black Witch
+[IDS_ITEM.ID1130096]
+Lady Labrynth of the Silver Castle
+[IDS_ITEM.ID1130097]
+Archfiend's Ghastly Glitch
+[IDS_ITEM.ID1130098]
+Eldlich the Golden Lord
 [IDS_ITEM.ID1130104]
 First of the Dragonlords 
 [IDS_ITEM.ID1132001]
@@ -2433,7 +2467,7 @@ Dragonmaid
 [IDS_ITEM.ID1170003]
 coming soon
 [IDS_ITEM.ID1170004]
-coming soon
+Labrynth
 [IDS_ITEM.ID1170005]
 coming soon
 [IDS_ITEM.ID1170006]
@@ -2455,9 +2489,9 @@ Dragonmaid
 [IDS_ITEM.ID1180006]
 coming soon
 [IDS_ITEM.ID1180007]
-coming soon
+Labrynth
 [IDS_ITEM.ID1180008]
-coming soon
+Eldlich the Golden Lord
 [IDS_ITEM.ID1180009]
 coming soon
 [IDS_ITEM.ID1180010]

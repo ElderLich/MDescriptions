@@ -96,6 +96,9 @@ Su inmenso poder, acorde con su caótico apodo, desata su látigo de aniquilaci�
 [IDS_ITEMDESC.ID1000034]
 Un ser que ayuda a un hombre en su andadura para reclamar su verdadero yo.
 Aunque debería haber desaparecido, reapareció, quizá porque la identidad del hombre aún seguía incompleta.
+[IDS_ITEMDESC.ID1000035]
+Una cazadora de tesoros ataviada de negro que sabe usar magia.
+Se ha ganado el apodo de "Diablesa" por el despiadado modo en el que persigue sus objetivos.
 [IDS_ITEMDESC.ID1000036]
 Un talentoso mago de tiempos ancestrales que ha dominado multitud de artes prohibidas.
 Desapareció sin dejar ni rastro con la llegada de "<card mrk='10282'/>".
@@ -696,9 +699,11 @@ Se ha enfrentado a "<card mrk='20747'/>" en una lucha mortal por la supervivenci
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+Un icono que representa a una misteriosa cuentacuentos.
+La historia de la "<card mrk='21195'/>" ha pervivido.
 [IDS_ITEMDESC.ID1010122]
-coming soon
+Un icono que representa a un caballero que asalta un castillo repleto de leyendas antiguas.
+El valiente caballero supera una a una las numerosas y letales trampas que le aguardan.
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1830,6 +1835,9 @@ Sus colores, que recuerdan al crepúsculo, despiertan un torrente de emociones.
 [IDS_ITEMDESC.ID1030037]
 Un marco de icono amarillo y azul que recuerda a un sol dorado que surge del mar.
 Recuerda a los animados días de verano en los que las cristalinas aguas del mar resplandecen con el brillo del sol.
+[IDS_ITEMDESC.ID1030038]
+Un marco de icono que evoca a una enigmática cuentacuentos.
+Se oye la voz de una niña, que parece surgir de la nada.
 [IDS_ITEMDESC.ID1030039]
 Un marco de icono que evoca el poder de la fusión, los cimientos de los guerreros Piroxénicos.
 Esto agota su núcleo, pero se puede usar una vez tras otra.
@@ -2322,13 +2330,17 @@ Para quienes desafían al mundo.
 Protectores que representan a una criada manteniendo ocupada a su supervisora con el acicalamiento de plumas.
 Para quienes piensan en compartir su gratitud con una sorpresa especial.
 [IDS_ITEMDESC.ID1070132]
-coming soon
+Protectores que representan a una misteriosa cuentacuentos.
+Para quienes tejen la historia de la bruja.
 [IDS_ITEMDESC.ID1070133]
-coming soon
+Protectores que representan a la gobernadora de un castillo que se abalanza apresuradamente al ataque.
+Para quienes aguardan a su salvador.
 [IDS_ITEMDESC.ID1070134]
-coming soon
+Protectores que representan a una mujer de una belleza incomparable y fugaz.
+Para quienes rechazan todo lo que se muestra ante ellos.
 [IDS_ITEMDESC.ID1070135]
-coming soon
+Protectores que representan la Tierra Dorada y su aterrador ejército dorado, listo para lanzar una invasión.
+Para aquellos cuyo poder proviene de la codicia.
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2344,7 +2356,8 @@ Para quienes buscan infundir esperanza en el futuro.
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+Protectores que representan al Señor Dorado, cuya codicia es insaciable.
+Para quienes quieren hacerse con todo lo que ven.
 [IDS_ITEMDESC.ID1070143]
 Protectores que representan a una reina entre reinas que revolotea en un escenario a la luz de la luna.
 Para quienes danzan entre brillantes y plateados rayos de luna.
@@ -2718,6 +2731,12 @@ Perfecta para los Decks de quienes luchan en territorios septentrionales.
 [IDS_ITEMDESC.ID1082022]
 Una caja de cartas que representa a un ejército mecanizado creado como derivado.
 Es perfecta para Decks que han llevado a cabo numerosas pruebas.
+[IDS_ITEMDESC.ID1082024]
+Una caja de cartas que representa un objeto que usó una misteriosa bruja.
+Perfecta para Decks que tengan brujas que han sido víctimas de un cruel destino.
+[IDS_ITEMDESC.ID1082025]
+Una caja de cartas que representa un castillo impenetrable que repele a los intrusos.
+Perfecta para Decks repletos de Cartas de Trampa.
 [IDS_ITEMDESC.ID1083001]
 Una caja de cartas exclusiva que se ofrece en ocasiones especiales.
 [IDS_ITEMDESC.ID1090001]
@@ -2826,6 +2845,9 @@ Incluso en esta víspera, la serenidad del lugar atrae a un sinfín de muertos.
 [IDS_ITEMDESC.ID1090036]
 Un Campo de Duelo con una estructura gigante sumergida en una atmósfera inquietante.
 En su interior se abre, lenta pero inexorable, la puerta del cataclismo.
+[IDS_ITEMDESC.ID1090037]
+Un Campo de Duelo del <card mrk='17367'/>.
+La maldición solo se romperá al encontrar el verdadero tesoro que supuestamente yace en el castillo.
 [IDS_ITEMDESC.ID1090040]
 Un Campo de Duelo de un estadio de fútbol.
 Los vítores de los hinchas se oyen por todo el campo.
@@ -2937,6 +2959,9 @@ Las tumbas parecen haberse cavado recientemente.
 [IDS_ITEMDESC.ID1100036]
 Partes del Campo de Despía, Teatro de los Señalados.
 Su sofisticación está a la altura del castillo del que emanan las sombras.
+[IDS_ITEMDESC.ID1100037]
+Partes del Campo del <card mrk='17367'/>.
+Sus diseños ornamentados les otorgan gran valor como piezas de decoración.
 [IDS_ITEMDESC.ID1100040]
 Partes del Campo de un estadio de fútbol.
 Su salida temporal es parte del espectáculo. El jugador insignia sale del hoyo dispuesto a contraatacar.
@@ -3194,6 +3219,9 @@ El significado de las marcas grabadas aún se desconoce, pero no hay duda de que
 [IDS_ITEMDESC.ID1110036]
 Un enclave de Despía, Teatro de los Señalados.
 Uno de los innumerables agujeros que perforan el cielo.
+[IDS_ITEMDESC.ID1110037]
+Un enclave del <card mrk='17367'/>.
+En su refinado diseño se refleja el espíritu de la hospitalidad hacia los invitados.
 [IDS_ITEMDESC.ID1110040]
 Un enclave de un estado de fútbol. El campo vibra con la emoción y se estremece con cada disparo.
 [IDS_ITEMDESC.ID1111001]
@@ -3715,13 +3743,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+Y así, el Bosque Blanco volvió a ser el pacífico y misterioso lugar que era.
+El cuento de la "<card mrk='21195'/>".
 [IDS_ITEMDESC.ID1130096]
-coming soon
+Una belleza incomparable, tan delicada como la seda y tan fugaz con la luna en el cielo nocturno.
+Esta bella gobernadora aguarda desde el interior de los plateados muros de su castillo maldito.
 [IDS_ITEMDESC.ID1130097]
-coming soon
+Las hermanas menores de la doncella de porcelana.
+A pesar de todos sus preparativos entre bastidores, al final tuvieron que enfrentarse al caballero por su cuenta.
 [IDS_ITEMDESC.ID1130098]
-coming soon
+El primer y el eterno señor de la Tierra Dorada.
+Mediante su propia codicia, dominó y conjuró la maldición que liberó todo tipo de deseos y resentimientos.
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -3784,7 +3816,8 @@ Cuentan que, cuando los <category id='101'/> se reúnan, las prestigiosas puerta
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+Un Archivo de Coleccionista que representa a quienes aguardan en el interior de un plateado y siniestro castillo.
+Dicen que cuando sus <category id='127'/> se reúnan, las impenetrables puertas resplandecerán.
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -3812,9 +3845,11 @@ El dragón grabado en su superficie brilla intensamente.
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+Una moneda cuyo motivo es un castillo impenetrable que repele a los intrusos.
+Sus trampas resplandecen mientras aguardan a sus próximas víctimas.
 [IDS_ITEMDESC.ID1180008]
-coming soon
+Una moneda cuyo motivo es el señor de la Tierra Dorada.
+Está poseída por una insaciable codicia que la hace brillar con avidez.
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]

@@ -96,6 +96,9 @@ Its immense power, fitting of its chaotic moniker, mercifully unleashes its whip
 [IDS_ITEMDESC.ID1000034]
 A being that helps a man on a journey to reclaim his true self.
 Although it should have disappeared, it appeared once again, perhaps because the man's sense of self was still incomplete.
+[IDS_ITEMDESC.ID1000035]
+A treasure hunter dressed in black who wields magic.
+The ruthless way she pursues her goals has earned her the moniker of "Demon".
 [IDS_ITEMDESC.ID1000036]
 A gifted magician from ancient times who mastered many forbidden arts.
 He disappeared from history without a trace upon the advent of "<card mrk='10282'/>".
@@ -696,9 +699,11 @@ She has faced "<card mrk='20747'/>" in a deadly struggle for survival.
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+An Icon depicting a mysterious storyteller.
+The tale of "<card mrk='21195'/>" is passed down.
 [IDS_ITEMDESC.ID1010122]
-coming soon
+An Icon depicting a knight going up against a castle steeped in the legends of old.
+The valiant knight easily clears the numerous deadly traps lying in wait.
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1830,6 +1835,9 @@ The colors, reminiscent of twilight, stir a flood of emotions.
 [IDS_ITEMDESC.ID1030037]
 A yellow and blue Icon Frame that evokes a golden sun rising over the sea.
 It calls to mind bright summer days with sparkling ocean waters set aglow by sunlight.
+[IDS_ITEMDESC.ID1030038]
+An Icon Frame evoking an enigmatic storyteller.
+A girl's voice can be heard, seemingly from nowhere.
 [IDS_ITEMDESC.ID1030039]
 An Icon Frame that evokes the power of Fusion—the foundation of the Pyroxene Warriors.
  It strains their Core but can be used consecutively.
@@ -2321,13 +2329,17 @@ For those who challenge the world.
 Protectors depicting a maid keeping the head maid occupied with feather grooming.
 For those thinking to share their gratitude with a special surprise.
 [IDS_ITEMDESC.ID1070132]
-coming soon
+Protectors depicting a mysterious storyteller.
+For those who weave the witch's tale.
 [IDS_ITEMDESC.ID1070133]
-coming soon
+Protectors depicting the lady castellan rushing out after being unable to wait any longer.
+For those waiting for their knight in shining armor.
 [IDS_ITEMDESC.ID1070134]
-coming soon
+Protectors depicting a woman of matchless, yet fleeting beauty.
+For those who reject all that come before them.
 [IDS_ITEMDESC.ID1070135]
-coming soon
+Protectors depicting the Golden Land and its terrifying golden army ready to mount an invasion.
+For those whose power stems from greed.
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2343,7 +2355,8 @@ Protectors depicting an evolution of "<card mrk='11413'/>" spurred by the power 
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+Protectors depicting the Golden Lord, whose greed is insatiable.
+For those who desire to make all things their own.
 [IDS_ITEMDESC.ID1070143]
 Protectors depicting a queen among queens who flits upon a moonlit stage.
 For those who dance between moonbeams of glistening silver.
@@ -2717,6 +2730,12 @@ Perfect for the Decks of those battling in the northern territories.
 [IDS_ITEMDESC.ID1082022]
 A Card Case depicting a mechanized army created as a by-product.
 Perfect for Decks that have conducted countless trials.
+[IDS_ITEMDESC.ID1082024]
+A Card Case depicting an item used by a mysterious witch.
+Perfect for Decks featuring witches burdened with a cruel fate.
+[IDS_ITEMDESC.ID1082025]
+A Card Case depicting an impregnable castle that turns away all intruders.
+Perfect for Decks filled with plenty of Trap Cards.
 [IDS_ITEMDESC.ID1083001]
 An exclusive Card Case offered on special occasions.
 [IDS_ITEMDESC.ID1090001]
@@ -2825,6 +2844,9 @@ Even on this eve, the quietude of this place attracts an endless stream of the d
 [IDS_ITEMDESC.ID1090036]
 A Duel Field of a gigantic structure enveloped in an eerie atmosphere.
 Deep within, the gate of cataclysm is opening, slowly but inexorably.
+[IDS_ITEMDESC.ID1090037]
+A Duel Field of <card mrk='17367'/>.
+The curse cannot be broken unless the true treasure said to lie within the castle is retrieved.
 [IDS_ITEMDESC.ID1090040]
 A Duel Field of a football stadium.
 The cheers of enthusiastic fans echo across the turf.
@@ -2936,6 +2958,9 @@ The graves appear to have been dug recently.
 [IDS_ITEMDESC.ID1100036]
 Field Parts from Despia, Theater of the Branded.
 The level of refinement befits the darkness-emanating castle.
+[IDS_ITEMDESC.ID1100037]
+Field Parts from <card mrk='17367'/>.
+Their ornate designs give them great value as decorative pieces.
 [IDS_ITEMDESC.ID1100040]
 Field Parts from a football stadium.
 A temporary exit is part of the performance. The ace returns from the hole, ready to strike back.
@@ -3193,6 +3218,9 @@ The meaning of its engraved markings remains unclear, but it should undoubtedly 
 [IDS_ITEMDESC.ID1110036]
 A Stand from Despia, Theater of the Branded.
 It is one of countless holes that have been carved in the sky.
+[IDS_ITEMDESC.ID1110037]
+A Stand from <card mrk='17367'/>.
+The spirit of hospitality towards guests is reflected in its refined design.
 [IDS_ITEMDESC.ID1110040]
 A Stand from a football stadium. Passion races across the field, the verdant stage reverberating with each shot.
 [IDS_ITEMDESC.ID1111001]
@@ -3714,13 +3742,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+And so, the White Forest returned to the peaceful, mysterious forest it once was.
+The tale of "<card mrk='21195'/>".
 [IDS_ITEMDESC.ID1130096]
-coming soon
+Matchless beauty as delicate as silk and as fleeting as the moon in the night sky.
+This beautiful lady castellan lies waiting within her cursed castle's silver-lined walls.
 [IDS_ITEMDESC.ID1130097]
-coming soon
+The porcelain maiden's youngest sisters.
+Despite all their busy preparations behind the scenes, they ultimately had to face the knight themselves.
 [IDS_ITEMDESC.ID1130098]
-coming soon
+The first and eternal lord of the Golden Land.
+Through his own greed, he overpowered and consumed the curse that unleashed countless desires and resentments.
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -3783,7 +3815,8 @@ It is said that when the <category id='101'/> are gathered, the prestigious door
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+A Collector's File depicting those who lie in wait within the silvery, demonic castle.
+It is said that when the <category id='127'/>are gathered, the impregnable doors will shine brightly.
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -3811,9 +3844,11 @@ The dragon engraved on its surface glimmers brightly.
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+A Coin whose motif is an impregnable castle that turns away all intruders.
+Its traps shimmer resplendently while lying in wait for unsuspecting victims.
 [IDS_ITEMDESC.ID1180008]
-coming soon
+A Coin whose motif is the lord of the Golden Land.
+Possessed with an insatiable greed that glimmers avariciously.
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]

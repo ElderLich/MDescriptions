@@ -67,7 +67,7 @@ coming soon
 [IDS_ITEM.ID1000034]
 スケアクロー・ライトハート
 [IDS_ITEM.ID1000035]
-coming soon
+黒魔女ディアベルスター
 [IDS_ITEM.ID1000036]
 召喚師アレイスター
 [IDS_ITEM.ID1000037]
@@ -521,9 +521,9 @@ coming soon
 [IDS_ITEM.ID1010120]
 coming soon
 [IDS_ITEM.ID1010121]
-coming soon
+黒魔女ディアベルスター
 [IDS_ITEM.ID1010122]
-coming soon
+騎士様
 [IDS_ITEM.ID1010123]
 coming soon
 [IDS_ITEM.ID1010124]
@@ -1365,7 +1365,7 @@ coming soon
 [IDS_ITEM.ID1030037]
 イエロー&ブルーフレーム
 [IDS_ITEM.ID1030038]
-coming soon
+黒魔女ディアベルスター
 [IDS_ITEM.ID1030039]
 ジェムナイト・フュージョン
 [IDS_ITEM.ID1030040]
@@ -1793,13 +1793,13 @@ Recette de Spécialité～料理長自慢のレシピ～
 [IDS_ITEM.ID1070131]
 ドラゴンメイド・ハスキー
 [IDS_ITEM.ID1070132]
-coming soon
+黒魔女ディアベルスター
 [IDS_ITEM.ID1070133]
-coming soon
+迷宮城の白銀姫
 [IDS_ITEM.ID1070134]
-coming soon
+迷宮城の白銀姫
 [IDS_ITEM.ID1070135]
-coming soon
+強欲で金満な壺
 [IDS_ITEM.ID1070136]
 coming soon
 [IDS_ITEM.ID1070137]
@@ -1813,7 +1813,7 @@ FNo.0 未来皇ホープ・ゼアル
 [IDS_ITEM.ID1070141]
 coming soon
 [IDS_ITEM.ID1070142]
-coming soon
+貴き黄金郷のエルドリクシル
 [IDS_ITEM.ID1070143]
 月光舞獅子神姫
 [IDS_ITEM.ID1070144]
@@ -2293,9 +2293,9 @@ Live☆Twin
 [IDS_ITEM.ID1082023]
 coming soon
 [IDS_ITEM.ID1082024]
-coming soon
+黒魔女ディアベルスター
 [IDS_ITEM.ID1082025]
-coming soon
+ラビュリンス
 [IDS_ITEM.ID1082026]
 coming soon
 [IDS_ITEM.ID1082027]
@@ -2381,7 +2381,7 @@ Evil★Twin
 [IDS_ITEM.ID1090036]
 烙印劇城デスピア
 [IDS_ITEM.ID1090037]
-coming soon
+白銀の迷宮城
 [IDS_ITEM.ID1090038]
 coming soon
 [IDS_ITEM.ID1090039]
@@ -2493,7 +2493,7 @@ Evil★Twin
 [IDS_ITEM.ID1100036]
 烙印劇城デスピア
 [IDS_ITEM.ID1100037]
-coming soon
+白銀の迷宮城
 [IDS_ITEM.ID1100038]
 coming soon
 [IDS_ITEM.ID1100039]
@@ -2697,7 +2697,7 @@ Evil★Twin
 [IDS_ITEM.ID1110036]
 烙印劇城デスピア
 [IDS_ITEM.ID1110037]
-coming soon
+白銀の迷宮城
 [IDS_ITEM.ID1110038]
 coming soon
 [IDS_ITEM.ID1110039]
@@ -3155,13 +3155,13 @@ coming soon
 [IDS_ITEM.ID1130094]
 coming soon
 [IDS_ITEM.ID1130095]
-coming soon
+黒魔女ディアベルスター
 [IDS_ITEM.ID1130096]
-coming soon
+迷宮城の白銀姫
 [IDS_ITEM.ID1130097]
-coming soon
+悪魔の技
 [IDS_ITEM.ID1130098]
-coming soon
+黄金卿エルドリッチ
 [IDS_ITEM.ID1130099]
 coming soon
 [IDS_ITEM.ID1130100]
@@ -3221,7 +3221,7 @@ BBS
 [IDS_ITEM.ID1170003]
 coming soon
 [IDS_ITEM.ID1170004]
-coming soon
+ラビュリンス
 [IDS_ITEM.ID1170005]
 coming soon
 [IDS_ITEM.ID1170006]
@@ -3243,9 +3243,9 @@ coming soon
 [IDS_ITEM.ID1180006]
 coming soon
 [IDS_ITEM.ID1180007]
-coming soon
+ラビュリンス
 [IDS_ITEM.ID1180008]
-coming soon
+黄金卿エルドリッチ
 [IDS_ITEM.ID1180009]
 coming soon
 [IDS_ITEM.ID1180010]

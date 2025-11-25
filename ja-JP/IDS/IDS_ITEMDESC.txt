@@ -98,7 +98,8 @@ coming soon
 本当の自分を取り戻すために旅する男を助ける存在。
 消えたはずだったが、男の自我が不完全な故か、内側から姿を現した。
 [IDS_ITEMDESC.ID1000035]
-coming soon
+黒づくめの衣装をまとい魔術を操るトレジャーハンター。
+目的のためには容赦ないその姿から「悪魔」と評されている。
 [IDS_ITEMDESC.ID1000036]
 禁術を極めた古の天才魔術師。
 「<card mrk='10282'/>」の建造と入れ替わるように魔法史から姿を消した。
@@ -723,9 +724,11 @@ coming soon
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+不思議な語り部が描かれたアイコン。
+「<card mrk='21195'/>」のおはなしを語り継ぐ。
 [IDS_ITEMDESC.ID1010122]
-coming soon
+伝説渦巻く城を攻略する騎士が描かれたアイコン。
+数々の即死トラップを容易くクリアしてゆく。
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1914,7 +1917,8 @@ coming soon
 陽の光と澄んだ水を想起させるイエロー&ブルーのアイコンフレーム。
 光を受けてきらめく水面が、あの眩しい夏の日を思い出させる。
 [IDS_ITEMDESC.ID1030038]
-coming soon
+不思議な語り部を想起させるアイコンフレーム。
+どこからともなく少女の声が聞こえてきそうだ。
 [IDS_ITEMDESC.ID1030039]
 輝石の戦士たちにとって基本となる融合の力のアイコンフレーム。
 核石に負担は掛かるが連続で使用する事も可能だ。
@@ -2504,13 +2508,17 @@ Yu-Gi-Oh! World Championship 2025のキービジュアルがデザインされ�
 メイド長を羽根つくろいで足止めする様子がデザインされたプロテクター。
 感謝の意を示すサプライズを考えるあなたに。
 [IDS_ITEMDESC.ID1070132]
-coming soon
+謎の語り手がデザインされたプロテクター。
+魔女の物語を紡ぐあなたに。
 [IDS_ITEMDESC.ID1070133]
-coming soon
+待ちきれず飛び出した女城主がデザインされたプロテクター。
+騎士を待ち受けるあなたに。
 [IDS_ITEMDESC.ID1070134]
-coming soon
+繊細で儚い絶世の美姫がデザインされたプロテクター。
+何者をも拒絶するあなたに。
 [IDS_ITEMDESC.ID1070135]
-coming soon
+侵攻のため黄金兵団を生み出す黄金卿がデザインされたプロテクター。
+欲望を源泉とするあなたに。
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2526,7 +2534,8 @@ coming soon
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+欲望尽きぬ黄金卿がデザインされたプロテクター。
+全てを我が物とするあなたに。
 [IDS_ITEMDESC.ID1070143]
 月光の夜空を舞い統べる王の中の王がデザインされたプロテクター。
 月明かりに舞うあなたに。
@@ -3125,9 +3134,11 @@ coming soon
 [IDS_ITEMDESC.ID1082023]
 coming soon
 [IDS_ITEMDESC.ID1082024]
-coming soon
+不思議な魔女が扱う道具のイメージがデザインされたカードケース。
+過酷な運命を背負う魔女たちのデッキにおススメ。
 [IDS_ITEMDESC.ID1082025]
-coming soon
+何者をも拒絶する難攻不落の城のイメージがデザインされたカードケース。
+罠だらけのデッキにおススメ。
 [IDS_ITEMDESC.ID1082026]
 coming soon
 [IDS_ITEMDESC.ID1082027]
@@ -3249,7 +3260,8 @@ coming soon
 異様な雰囲気に包まれる巨大な建造物のフィールド。
 最奥ではゆっくりと、しかし確実に大厄災の扉が開いている。
 [IDS_ITEMDESC.ID1090037]
-coming soon
+<card mrk='17367'/>のフィールド。
+城内にあるとされる真の宝を持ち帰らねば呪いが解かれる事はない。
 [IDS_ITEMDESC.ID1090038]
 coming soon
 [IDS_ITEMDESC.ID1090039]
@@ -3396,7 +3408,8 @@ Evil★Twinのフィールドに設けられたフィールドパーツ。
 烙印劇城デスピアに設けられたフィールドパーツ。
 闇を放つ居城に相応しく洗練されている。
 [IDS_ITEMDESC.ID1100037]
-coming soon
+<card mrk='17367'/>に設けられたフィールドパーツ。
+美しい装飾が施された調度品としての価値も高い。
 [IDS_ITEMDESC.ID1100038]
 coming soon
 [IDS_ITEMDESC.ID1100039]
@@ -3661,7 +3674,8 @@ Evil★Twinのフィールドに設けられた台座。
 烙印劇城デスピアに設けられた台座。
 空に刻まれた無数の穴の一つのようだ。
 [IDS_ITEMDESC.ID1110037]
-coming soon
+<card mrk='17367'/>に設けられた台座。
+訪問者へのおもてなしの精神が格式高いデザインに表れている。
 [IDS_ITEMDESC.ID1110038]
 coming soon
 [IDS_ITEMDESC.ID1110039]
@@ -4272,13 +4286,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+こうして白き森はむかしのような平和で不思議な森に戻りました。
+「<card mrk='21195'/>」のおはなし――。
 [IDS_ITEMDESC.ID1130096]
-coming soon
+白糸の如く繊細で、月の如く儚い、絶世の美姫。
+呪われし白銀の巨城で待つ麗しの女城主。
 [IDS_ITEMDESC.ID1130097]
-coming soon
+白磁の乙女の末妹である少女たち。
+舞台裏で忙しく準備したが、結局自ら騎士の相手をすることになった。
 [IDS_ITEMDESC.ID1130098]
-coming soon
+始まりにして永久なる黄金郷の王。
+数多の欲望と怨嗟を放つ呪いを己の我欲でねじ伏せ取り込んだ。
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -4347,7 +4365,8 @@ coming soon
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+白銀の悪魔城で待ち受けるものたちのコレクトファイル。
+<category id='127'/>を集めし時、難攻不落の扉が輝くという。
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -4375,9 +4394,11 @@ coming soon
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+何者をも拒絶する難攻不落の城をモチーフとしたコイン。
+待ち受けるトラップがキラリと光る。
 [IDS_ITEMDESC.ID1180008]
-coming soon
+黄金郷の王をモチーフとしたコイン。
+尽きることのない欲望がキラリと光る。
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]

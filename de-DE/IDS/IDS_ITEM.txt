@@ -67,7 +67,7 @@ Blauäugiger Chaos-MAX-Drache
 [IDS_ITEM.ID1000034]
 Schreckensklaue Licht-Heart
 [IDS_ITEM.ID1000035]
-coming soon
+Diabellstar die schwarze Hexe
 [IDS_ITEM.ID1000036]
 Aleister der Beschwörer
 [IDS_ITEM.ID1000037]
@@ -412,6 +412,10 @@ Enlilgirsu, der Orcust-Mekk-Ritter
 Spore der Feensamen
 [IDS_ITEM.ID1010119]
 Morgana die Hexe der Augen
+[IDS_ITEM.ID1010121]
+Diabellstar die schwarze Hexe
+[IDS_ITEM.ID1010122]
+Tapferer Ritter
 [IDS_ITEM.ID1010128]
 Gagagaga-Mädchen
 [IDS_ITEM.ID1011001]
@@ -1176,6 +1180,8 @@ Wiederaufleben
 Lila-gelber Rahmen
 [IDS_ITEM.ID1030037]
 Gelb-blauer Rahmen
+[IDS_ITEM.ID1030038]
+Diabellstar die schwarze Hexe
 [IDS_ITEM.ID1030039]
 Fusion des Edelstein-Ritters
 [IDS_ITEM.ID1031001]
@@ -1506,10 +1512,20 @@ Spezial-Rezept des Küchenchefs
 Exodia, die Verbotene (WCS2025)
 [IDS_ITEM.ID1070131]
 Haus-Drachenmädchen
+[IDS_ITEM.ID1070132]
+Diabellstar die schwarze Hexe
+[IDS_ITEM.ID1070133]
+Lady Labrynth von der Silberburg
+[IDS_ITEM.ID1070134]
+Lady Labrynth von der Silberburg
+[IDS_ITEM.ID1070135]
+Topf der Extravaganz
 [IDS_ITEM.ID1070138]
 Himmelsjäger-Ass = Zero
 [IDS_ITEM.ID1070140]
 Nummer F0: Utopische Zukunft Zexal
+[IDS_ITEM.ID1070142]
+Eldlixir des glorreichen goldenen Landes
 [IDS_ITEM.ID1070143]
 Lunalicht Ligertänzerin
 [IDS_ITEM.ID1070147]
@@ -1754,6 +1770,10 @@ Himmelsjäger-Ass - Roze
 Land der Unterwelt
 [IDS_ITEM.ID1082022]
 Orcust
+[IDS_ITEM.ID1082024]
+Diabellstar die schwarze Hexe
+[IDS_ITEM.ID1082025]
+Labrynth
 [IDS_ITEM.ID1083001]
 Weiß & Blau
 [IDS_ITEM.ID1090001]
@@ -1826,6 +1846,8 @@ Schnellstrategie-Simulationszone
 Friedhof der unzähligen Seelen
 [IDS_ITEM.ID1090036]
 Despia, Theater der Markierten
+[IDS_ITEM.ID1090037]
+Labrynth-Labyrinth
 [IDS_ITEM.ID1090040]
 Fußballstadion
 [IDS_ITEM.ID1092001]
@@ -1902,6 +1924,8 @@ Schnellstrategie-Simulationszone
 Friedhof der unzähligen Seelen
 [IDS_ITEM.ID1100036]
 Despia, Theater der Markierten
+[IDS_ITEM.ID1100037]
+Labrynth-Labyrinth
 [IDS_ITEM.ID1100040]
 Fußballstadion
 [IDS_ITEM.ID1101001]
@@ -2038,6 +2062,8 @@ Schnellstrategie-Simulationszone
 Friedhof der unzähligen Seelen
 [IDS_ITEM.ID1110036]
 Despia, Theater der Markierten
+[IDS_ITEM.ID1110037]
+Labrynth-Labyrinth
 [IDS_ITEM.ID1110040]
 Fußballstadion
 [IDS_ITEM.ID1111001]
@@ -2402,6 +2428,14 @@ Lacrima, die blutroten Tränen
 Galatea-I, der Orcust-Automat
 [IDS_ITEM.ID1130092]
 Gastfreundschaft der Drachenmädchen
+[IDS_ITEM.ID1130095]
+Diabellstar die schwarze Hexe
+[IDS_ITEM.ID1130096]
+Lady Labrynth von der Silberburg
+[IDS_ITEM.ID1130097]
+Grausiger Trick des Erzunterweltlers
+[IDS_ITEM.ID1130098]
+Eldlich der goldene Lord
 [IDS_ITEM.ID1130104]
 Der erste Drachenherrscher
 [IDS_ITEM.ID1132001]
@@ -2431,7 +2465,7 @@ Drachenmädchen
 [IDS_ITEM.ID1170003]
 coming soon
 [IDS_ITEM.ID1170004]
-coming soon
+Labrynth
 [IDS_ITEM.ID1170005]
 coming soon
 [IDS_ITEM.ID1170006]
@@ -2453,9 +2487,9 @@ Drachenmädchen
 [IDS_ITEM.ID1180006]
 coming soon
 [IDS_ITEM.ID1180007]
-coming soon
+Labrynth
 [IDS_ITEM.ID1180008]
-coming soon
+Eldlich der goldene Lord
 [IDS_ITEM.ID1180009]
 coming soon
 [IDS_ITEM.ID1180010]

@@ -67,7 +67,7 @@ Dragão MÁX do Caos de Olhos Azuis
 [IDS_ITEM.ID1000034]
 Espantagarra Luz-Heart
 [IDS_ITEM.ID1000035]
-coming soon
+Diabellstar, a Bruxa Negra
 [IDS_ITEM.ID1000036]
 Aleister, Aquele que Invoka
 [IDS_ITEM.ID1000037]
@@ -412,6 +412,10 @@ Enlilgirsu, o Mekk-Cavaleiro Orcust
 Esporo, a Semente Fada
 [IDS_ITEM.ID1010119]
 Morgana, a Bruxa dos Olhos
+[IDS_ITEM.ID1010121]
+Diabellstar, a Bruxa Negra
+[IDS_ITEM.ID1010122]
+Cavaleiro Valente
 [IDS_ITEM.ID1010128]
 Garota Gagagaga
 [IDS_ITEM.ID1011001]
@@ -1176,6 +1180,8 @@ Reacender
 Moldura Roxa e Amarela
 [IDS_ITEM.ID1030037]
 Moldura Amarela e Azul
+[IDS_ITEM.ID1030038]
+Diabellstar, a Bruxa Negra
 [IDS_ITEM.ID1030039]
 Fusão Cavaleiro-Gema
 [IDS_ITEM.ID1031001]
@@ -1506,10 +1512,20 @@ Receita Especial do Chef
 Exodia, "O Proibido" (WCS2025)
 [IDS_ITEM.ID1070131]
 Dragãozela Caseira
+[IDS_ITEM.ID1070132]
+Diabellstar, a Bruxa Negra
+[IDS_ITEM.ID1070133]
+Senhora Labrinto do Castelo Prateado
+[IDS_ITEM.ID1070134]
+Senhora Labrinto do Castelo Prateado
+[IDS_ITEM.ID1070135]
+Pote da Extravagância
 [IDS_ITEM.ID1070138]
 Força Celeste - Ás = Zero
 [IDS_ITEM.ID1070140]
 Número F0: Futuro Utópico Zexal
+[IDS_ITEM.ID1070142]
+Eldlixir da Gloriosa Terra Dourada
 [IDS_ITEM.ID1070143]
 Ligre Dançarina Luzlunar
 [IDS_ITEM.ID1070147]
@@ -1754,6 +1770,10 @@ Força Celeste - Ás - Roze
 Terra Abissal
 [IDS_ITEM.ID1082022]
 Orcust
+[IDS_ITEM.ID1082024]
+Diabellstar, a Bruxa Negra
+[IDS_ITEM.ID1082025]
+Labrinto
 [IDS_ITEM.ID1083001]
 Branco e Azul
 [IDS_ITEM.ID1090001]
@@ -1826,6 +1846,8 @@ Evil★Gêmea
 Cemitério das Almas Incontáveis
 [IDS_ITEM.ID1090036]
 Despia, o Teatro dos Marcados
+[IDS_ITEM.ID1090037]
+Labirinto de Labrinto
 [IDS_ITEM.ID1090040]
 Estádio de Futebol
 [IDS_ITEM.ID1092001]
@@ -1902,6 +1924,8 @@ Evil★Gêmea
 Cemitério das Almas Incontáveis
 [IDS_ITEM.ID1100036]
 Despia, o Teatro dos Marcados
+[IDS_ITEM.ID1100037]
+Labirinto de Labrinto
 [IDS_ITEM.ID1100040]
 Estádio de Futebol
 [IDS_ITEM.ID1101001]
@@ -2038,6 +2062,8 @@ Evil★Gêmea
 Cemitério das Almas Incontáveis
 [IDS_ITEM.ID1110036]
 Despia, o Teatro dos Marcados
+[IDS_ITEM.ID1110037]
+Labirinto de Labrinto
 [IDS_ITEM.ID1110040]
 Estádio de Futebol
 [IDS_ITEM.ID1111001]
@@ -2402,6 +2428,14 @@ Lacrima, as Lágrimas Carmesim
 Galatea-I, a Orcust Mecânic
 [IDS_ITEM.ID1130092]
 Hospitalidade Dragãozela
+[IDS_ITEM.ID1130095]
+Diabellstar, a Bruxa Negra
+[IDS_ITEM.ID1130096]
+Senhora Labrinto do Castelo Prateado
+[IDS_ITEM.ID1130097]
+Falha Medonha do Arquidemônio
+[IDS_ITEM.ID1130098]
+Eldlich, o Senhor Dourado
 [IDS_ITEM.ID1130104]
 Primeiro dos Senhores Dragões
 [IDS_ITEM.ID1132001]
@@ -2431,7 +2465,7 @@ Dragãozela
 [IDS_ITEM.ID1170003]
 coming soon
 [IDS_ITEM.ID1170004]
-coming soon
+Labrinto
 [IDS_ITEM.ID1170005]
 coming soon
 [IDS_ITEM.ID1170006]
@@ -2453,9 +2487,9 @@ Dragãozela
 [IDS_ITEM.ID1180006]
 coming soon
 [IDS_ITEM.ID1180007]
-coming soon
+Labrinto
 [IDS_ITEM.ID1180008]
-coming soon
+Eldlich, o Senhor Dourado
 [IDS_ITEM.ID1180009]
 coming soon
 [IDS_ITEM.ID1180010]

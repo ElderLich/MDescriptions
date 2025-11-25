@@ -63,7 +63,7 @@
 [IDS_ITEM.ID1000034]
 恐懼爪・萊希哈忒
 [IDS_ITEM.ID1000035]
-coming soon
+黑魔女 迪亞貝爾斯塔
 [IDS_ITEM.ID1000036]
 召喚師阿萊斯特
 [IDS_ITEM.ID1000037]
@@ -408,6 +408,10 @@ GO-DDD神零王零神 零兒
 妖精胞 孢子
 [IDS_ITEM.ID1010119]
 瞳之魔女 摩爾嘉娜
+[IDS_ITEM.ID1010121]
+黑魔女 迪亞貝爾斯塔
+[IDS_ITEM.ID1010122]
+騎士大人
 [IDS_ITEM.ID1010128]
 我我我我女孩
 [IDS_ITEM.ID1011001]
@@ -1172,6 +1176,8 @@ coming soon
 紫＆黃邊框
 [IDS_ITEM.ID1030037]
 黃＆藍邊框
+[IDS_ITEM.ID1030038]
+黑魔女 迪亞貝爾斯塔
 [IDS_ITEM.ID1030039]
 寶石騎士・結合
 [IDS_ITEM.ID1031001]
@@ -1502,10 +1508,20 @@ Recette de Spécialité～主廚拿手菜食譜～
 被封印的艾克佐迪亞 (WCS2025)
 [IDS_ITEM.ID1070131]
 龍女僕 哈絲琪
+[IDS_ITEM.ID1070132]
+黑魔女 迪亞貝爾斯塔
+[IDS_ITEM.ID1070133]
+迷宮城的白銀姬・拉比麗斯
+[IDS_ITEM.ID1070134]
+迷宮城的白銀姬・拉比麗斯
+[IDS_ITEM.ID1070135]
+強欲且金滿之壺
 [IDS_ITEM.ID1070138]
 閃刀姬＝零蘿
 [IDS_ITEM.ID1070140]
 FNo.0 未來皇霍普ZEXAL
+[IDS_ITEM.ID1070142]
+高貴黃金鄉的埃爾德里希爾
 [IDS_ITEM.ID1070143]
 月光舞獅子神姬
 [IDS_ITEM.ID1070147]
@@ -1750,6 +1766,10 @@ coming soon
 深淵大地
 [IDS_ITEM.ID1082022]
 自鳴天琴
+[IDS_ITEM.ID1082024]
+黑魔女 迪亞貝爾斯塔
+[IDS_ITEM.ID1082025]
+拉比麗斯
 [IDS_ITEM.ID1083001]
 白色＆藍色
 [IDS_ITEM.ID1090001]
@@ -1822,6 +1842,8 @@ coming soon
 許多生命沉眠的墓地
 [IDS_ITEM.ID1090036]
 烙印劇城慘絕戲
+[IDS_ITEM.ID1090037]
+白銀之迷宮城的拉比麗斯
 [IDS_ITEM.ID1090040]
 足球場
 [IDS_ITEM.ID1092001]
@@ -1898,6 +1920,8 @@ WCS
 許多生命沉眠的墓地
 [IDS_ITEM.ID1100036]
 烙印劇城慘絕戲
+[IDS_ITEM.ID1100037]
+白銀之迷宮城的拉比麗斯
 [IDS_ITEM.ID1100040]
 足球場
 [IDS_ITEM.ID1101001]
@@ -2034,6 +2058,8 @@ WCS
 許多生命沉眠的墓地
 [IDS_ITEM.ID1110036]
 烙印劇城慘絕戲
+[IDS_ITEM.ID1110037]
+白銀之迷宮城的拉比麗斯
 [IDS_ITEM.ID1110040]
 足球場
 [IDS_ITEM.ID1111001]
@@ -2398,6 +2424,14 @@ No.41 泥睡魔獸睡夢貘
 自鳴天琴・伽拉忒亞i
 [IDS_ITEM.ID1130092]
 龍女僕的無微不至
+[IDS_ITEM.ID1130095]
+黑魔女 迪亞貝爾斯塔
+[IDS_ITEM.ID1130096]
+迷宮城的白銀姬・拉比麗斯
+[IDS_ITEM.ID1130097]
+惡魔詭技
+[IDS_ITEM.ID1130098]
+黃金卿埃爾德里奇
 [IDS_ITEM.ID1130104]
 始祖的龍王
 [IDS_ITEM.ID1132001]
@@ -2425,7 +2459,7 @@ BBS
 [IDS_ITEM.ID1170003]
 coming soon
 [IDS_ITEM.ID1170004]
-coming soon
+拉比麗斯
 [IDS_ITEM.ID1170005]
 coming soon
 [IDS_ITEM.ID1170006]
@@ -2447,9 +2481,9 @@ coming soon
 [IDS_ITEM.ID1180006]
 coming soon
 [IDS_ITEM.ID1180007]
-coming soon
+拉比麗斯
 [IDS_ITEM.ID1180008]
-coming soon
+黃金卿埃爾德里奇
 [IDS_ITEM.ID1180009]
 coming soon
 [IDS_ITEM.ID1180010]

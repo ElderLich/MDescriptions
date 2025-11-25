@@ -96,6 +96,9 @@ coming soon
 [IDS_ITEMDESC.ID1000034]
 它向那个寻找真正自我的男人伸出援手。
 原本应该已经消失，但由于男人的自我不完整，因此从内心中显现。
+[IDS_ITEMDESC.ID1000035]
+穿着一袭黑衣，能够施展魔法的宝物猎人。
+为达到目的能够不择手段，其行径被人们称为“恶魔”。
 [IDS_ITEMDESC.ID1000036]
 精通禁忌之术的古代天才魔术师。
 在“<card mrk='10282'/>”建造后，便从魔法史上销声匿迹。
@@ -695,9 +698,11 @@ coming soon
 [IDS_ITEMDESC.ID1010120]
 coming soon
 [IDS_ITEMDESC.ID1010121]
-coming soon
+描绘了奇妙说书人的头像。
+她将传颂“<card mrk='21195'/>”的故事。
 [IDS_ITEMDESC.ID1010122]
-coming soon
+描绘了攻克传说汇聚之城的骑士的头像。
+轻松突破各种各样的致命陷阱。
 [IDS_ITEMDESC.ID1010123]
 coming soon
 [IDS_ITEMDESC.ID1010124]
@@ -1828,6 +1833,9 @@ coming soon
 [IDS_ITEMDESC.ID1030037]
 令人联想到和煦阳光和清澈海水的黄蓝色头像边框。
 波光粼粼的水面，让人想起那个艳阳高照的夏日。
+[IDS_ITEMDESC.ID1030038]
+让人联想到奇妙说书人的头像边框。
+仿佛能听到某处传来少女的声音。
 [IDS_ITEMDESC.ID1030039]
 令人联想到对辉石的战士们而言必不可少的融合之力的头像边框。
 此力量还能够连续使用，然而会对核石造成负担。
@@ -2320,13 +2328,17 @@ coming soon
 设计有驻足梳理羽翼的女仆长的卡套。
 献给为表达感谢之意而策划一场惊喜的你。
 [IDS_ITEMDESC.ID1070132]
-coming soon
+设计有神秘说书人的卡套。
+献给谱写出魔女故事的你。
 [IDS_ITEMDESC.ID1070133]
-coming soon
+设计有迫不及待飞奔而出的女城主的卡套。
+献给等候骑士的你。
 [IDS_ITEMDESC.ID1070134]
-coming soon
+设计有纤细而梦幻的绝世美女的卡套。
+献给拒绝一切的你。
 [IDS_ITEMDESC.ID1070135]
-coming soon
+设计有黄金卿为展开侵略而打造出黄金军团的卡套。
+献给将欲望当成动力的你。
 [IDS_ITEMDESC.ID1070136]
 coming soon
 [IDS_ITEMDESC.ID1070137]
@@ -2342,7 +2354,8 @@ coming soon
 [IDS_ITEMDESC.ID1070141]
 coming soon
 [IDS_ITEMDESC.ID1070142]
-coming soon
+设计有欲望无穷的黄金卿的卡套。
+献给想将世间一切纳入手中的你。
 [IDS_ITEMDESC.ID1070143]
 设计有在月光中翩然飞舞的万物之王的卡套。
 献给在月光中起舞的你。
@@ -2716,6 +2729,12 @@ coming soon
 [IDS_ITEMDESC.ID1082022]
 设计有作为副产物而建立的机械军队景象的牌组盒。
 推荐给经过反复实验的牌组使用。
+[IDS_ITEMDESC.ID1082024]
+设计有奇妙的魔女所用工具的插图的牌组盒。
+推荐给背负残酷命运的魔女们的牌组使用。
+[IDS_ITEMDESC.ID1082025]
+设计有拒绝一切的不落之城插图的牌组盒。
+推荐给布满陷阱的牌组使用。
 [IDS_ITEMDESC.ID1083001]
 特殊机会下提供的限定牌组盒。
 [IDS_ITEMDESC.ID1090001]
@@ -2822,6 +2841,9 @@ coming soon
 [IDS_ITEMDESC.ID1090036]
 被异样氛围笼罩的巨大建筑物场地。
 在最深处，灾难之门正在缓慢开启。
+[IDS_ITEMDESC.ID1090037]
+<card mrk='17367'/>的场地。
+若不将传说中藏于城内的真正秘宝带回，诅咒就无法解除。
 [IDS_ITEMDESC.ID1090040]
 足球场的场地。
 欢声雷动，响彻布满青草的舞台。
@@ -2933,6 +2955,9 @@ coming soon
 [IDS_ITEMDESC.ID1100036]
 设有烙印剧城 惨绝戏的场地配件。
 与散发黑暗气息的城堡十分相配且精致。
+[IDS_ITEMDESC.ID1100037]
+设置在<card mrk='17367'/>的场地配件。
+作为带有精致装饰的家具，其本身也极具价值。
 [IDS_ITEMDESC.ID1100040]
 设置于足球场的场地配件。
 退场只是短暂的表演。王牌终将卷土重来。
@@ -3189,6 +3214,9 @@ coming soon
 [IDS_ITEMDESC.ID1110036]
 设有烙印剧城 惨绝戏的基座。
 仿佛天空中无数孔洞中的一个。
+[IDS_ITEMDESC.ID1110037]
+设置于<card mrk='17367'/>的基座。
+从其高级的设计便能看出对访客的款待之心。
 [IDS_ITEMDESC.ID1110040]
 设置于足球场的基座。
 热情地奔驰于翠绿的舞台，止不住沸腾的脉搏。
@@ -3710,13 +3738,17 @@ coming soon
 [IDS_ITEMDESC.ID1130094]
 coming soon
 [IDS_ITEMDESC.ID1130095]
-coming soon
+就这样，白森重回往日那般和平而神秘的模样。
+这就是“<card mrk='21195'/>”的故事——
 [IDS_ITEMDESC.ID1130096]
-coming soon
+如白丝般纤细，似银月般梦幻的绝世美女。
+在受诅咒的白银巨城中等待的美丽女城主。
 [IDS_ITEMDESC.ID1130097]
-coming soon
+在白瓷少女中排行最小的少女们。
+在舞台后方忙得焦头烂额后，最终仍得亲自对付骑士。
 [IDS_ITEMDESC.ID1130098]
-coming soon
+既是初代，也是永恒的黄金乡之王。
+仅凭一己之私，压制并吞噬了带有无数欲望与怨恨的诅咒。
 [IDS_ITEMDESC.ID1130099]
 coming soon
 [IDS_ITEMDESC.ID1130100]
@@ -3776,7 +3808,8 @@ coming soon
 [IDS_ITEMDESC.ID1170003]
 coming soon
 [IDS_ITEMDESC.ID1170004]
-coming soon
+在白银之城等候光临的恶魔们的收藏卡册。
+据说收集完<category id='127'/>后，固若金汤的门扉将散发光辉。
 [IDS_ITEMDESC.ID1170005]
 coming soon
 [IDS_ITEMDESC.ID1170006]
@@ -3804,9 +3837,11 @@ coming soon
 [IDS_ITEMDESC.ID1180006]
 coming soon
 [IDS_ITEMDESC.ID1180007]
-coming soon
+以拒绝一切的不落之城为概念所设计的硬币。
+埋伏猎物的陷阱闪着寒光。
 [IDS_ITEMDESC.ID1180008]
-coming soon
+以黄金乡之王为概念所设计的硬币。
+无尽的欲望散发光芒。
 [IDS_ITEMDESC.ID1180009]
 coming soon
 [IDS_ITEMDESC.ID1180010]
