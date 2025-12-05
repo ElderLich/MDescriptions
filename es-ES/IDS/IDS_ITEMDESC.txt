@@ -218,7 +218,8 @@ coming soon
 Los guerreros Piroxénicos, unos caballeros ecuánimes cuyos corazones anhelan la justicia en secreto.
 Ellos poseen la habilidad de fusionarse según lo vean necesario.
 [IDS_ITEMDESC.ID1001038]
-coming soon
+<category id='79'/> reside en el inframundo y ejerce de explorador.
+Este monstruo vigila el mundo humano bajo las órdenes del Dominio Rugiente.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
@@ -709,18 +710,25 @@ coming soon
 [IDS_ITEMDESC.ID1010124]
 coming soon
 [IDS_ITEMDESC.ID1010125]
-coming soon
+Un icono que representa a un joven que posee el poder de ver un futuro ineludible.
+Gracias a él, ha presenciado numerosos futuros desde su niñez.
 [IDS_ITEMDESC.ID1010126]
-coming soon
+Un icono que representa a una maga que recurre a las estrellas para invocar dragones.
+Usa el poder de los dragones para adoptar una nueva forma.
 [IDS_ITEMDESC.ID1010127]
-coming soon
+Un icono que representa a un hombre con una marca en las dos mejillas.
+Protege a "<card mrk='5231'/>" a la vez que irradia un aspecto majestuoso.
 [IDS_ITEMDESC.ID1010128]
 Un icono que representa a una niña convertida en Monstruo Xyz.
 Gracias a la evolución de los teléfonos celulares, se ha asegurado la clave para la victoria.
 [IDS_ITEMDESC.ID1010129]
-coming soon
+Icono que representa a un demonio rojizo que alza un gran saco.
+Tiene una gran cicatriz en forma de cruz en el pecho.
 [IDS_ITEMDESC.ID1010130]
 coming soon
+[IDS_ITEMDESC.ID1010131]
+Un icono que representa el emblema de la Academia.
+En caso de emergencia, los alumnos deben reunirse de inmediato.
 [IDS_ITEMDESC.ID1011001]
 Un icono que representa una pelota con cuadros negros y blancos.
 Ganar 3 Duelos seguidos no se llama "hat-trick".
@@ -908,11 +916,14 @@ Se concede a quienes han logrado grandes resultados en la Duelist Cup.
 Un icono con el logotipo broncíneo de la DC 2025 SEP. 
 Se concede a quienes han triunfado en numerosas batallas en la Duelist Cup.
 [IDS_ITEMDESC.ID1011063]
-coming soon
+Un icono con el logotipo dorado de la DC 2025 DEC. 
+Se concede a quienes han destacado por encima del resto en la Duelist Cup.
 [IDS_ITEMDESC.ID1011064]
-coming soon
+Un icono con el logotipo plateado de la DC 2025 DEC. 
+Se concede a quienes han logrado grandes resultados en la Duelist Cup.
 [IDS_ITEMDESC.ID1011065]
-coming soon
+Un icono con el logotipo broncíneo de la DC 2025 DEC. 
+Se concede a quienes han triunfado en numerosas batallas en la Duelist Cup.
 [IDS_ITEMDESC.ID1012001]
 Un icono que representa a un Krawler, monstruos que han invadido cierto mundo. Este forma parte de la nobleza.
 Destruyen sin piedad los esfuerzos de la civilización humana que lleva generaciones en pie.
@@ -1157,6 +1168,9 @@ Un icono exclusivo que se ofrece en ocasiones especiales.
 [IDS_ITEMDESC.ID1013010]
 Un icono que representa el logotipo de un partido de fútbol en el que equipos reales y de ensueño de 11 jugadores compiten por ser el mejor.
 Una acción emocionante de la mano de quienes nunca dejan de ponerse a prueba.
+[IDS_ITEMDESC.ID1013011]
+Un icono que representa la verdadera forma de "<card mrk='14440'/>".
+Dicen que solo "<card mrk='14439'/>" puede ver su verdadero rostro.
 [IDS_ITEMDESC.ID1020001]
 Un título que se concede a los duelistas que comienzan su trayectoria en los Duelos de Yu-Gi-Oh! MASTER DUEL.
 Nunca es demasiado tarde para empezar a luchar.
@@ -1720,6 +1734,24 @@ Forma una vanguardia inquebrantable apilando pieza sobre pieza, como si fueran p
 [IDS_ITEMDESC.ID1020188]
 Un título que se otorga a los duelistas que han logrado resultados notables con una estrategia que usa Invocaciones por Enlace.
 Vincula un monstruo tras monstruo para crear un grupo sin debilidades, como una falange perfectamente formada.
+[IDS_ITEMDESC.ID1020189]
+Un título otorgado a los duelistas que hayan logrado estar entre los 10 primeros en la DC 2025 DEC.
+Las historias de sus numerosos e impresionantes duelos, así como de su valentía al competir por el trono perdurarán en el tiempo.
+[IDS_ITEMDESC.ID1020190]
+Un título otorgado a los duelistas que hayan logrado estar entre los 100 primeros en la DC 2025 DEC.
+Es la prueba de un logro al que muchos duelistas aspiran.
+[IDS_ITEMDESC.ID1020191]
+Un título otorgado a los duelistas que hayan logrado estar entre los 500 primeros en la DC 2025 DEC.
+Solo los que se alzan victoriosos de entre los más fuertes pueden poseer un corazón como el tuyo, templado por muchos Duelos reñidos.
+[IDS_ITEMDESC.ID1020192]
+Un título otorgado a los duelistas que hayan logrado estar entre los 1000 primeros en la DC 2025 DEC.
+Enhorabuena a los duelistas que han seguido desarrollando sus Decks y sus tácticas hasta alcanzar este objetivo.
+[IDS_ITEMDESC.ID1020193]
+Un título otorgado a los duelistas que hayan logrado estar entre los 10000 primeros en la DC 2025 DEC.
+Ganado victoria tras victoria frente a feroces competidores en la 2nd STAGE.
+[IDS_ITEMDESC.ID1020194]
+Un título otorgado a los duelistas que llegaron a la 2nd Stage en la DC 2025 DEC.
+Es la prueba de tu logro de haber superado la reñida 1st Stage.
 [IDS_ITEMDESC.ID1020197]
 Un título que se otorga a los duelistas que han logrado buenos resultados en una batalla entre tres poderes.
 Sea cual sea la situación, tus habilidades brillarán con luz propia.
@@ -1841,6 +1873,9 @@ Se oye la voz de una niña, que parece surgir de la nada.
 [IDS_ITEMDESC.ID1030039]
 Un marco de icono que evoca el poder de la fusión, los cimientos de los guerreros Piroxénicos.
 Esto agota su núcleo, pero se puede usar una vez tras otra.
+[IDS_ITEMDESC.ID1030040]
+Un marco de icono azul y blanco que evoca un frío cielo de invierno.
+La blanca nieve cae del cielo azul y refleja la armonía de la luz.
 [IDS_ITEMDESC.ID1031001]
 Un marco de icono que recuerda al portal usado por los Cazas del Cielo para transferir su armamento.
 Cuando el camino se abre para quienes luchan por la paz, un nuevo poder despierta para superar la adversidad.
@@ -2349,12 +2384,14 @@ coming soon
 Protectores que representan un nuevo aspecto para una chica elegida para manejar armamento tecnológico avanzado.
 Para quienes luchan por cambiar su destino.
 [IDS_ITEMDESC.ID1070139]
-coming soon
+Protectores que representan la fuerza combinada de poderosos dragones.
+Para quienes se dejan guiar por las estrellas.
 [IDS_ITEMDESC.ID1070140]
 Protectores que representan una evolución de "<card mrk='11413'/>" fomentada por el poder de Zexal.
 Para quienes buscan infundir esperanza en el futuro.
 [IDS_ITEMDESC.ID1070141]
-coming soon
+Protectores que representan a quien guía el paso del alma al más allá.
+Para quienes juzgan a las almas de los muertos.
 [IDS_ITEMDESC.ID1070142]
 Protectores que representan al Señor Dorado, cuya codicia es insaciable.
 Para quienes quieren hacerse con todo lo que ven.
@@ -2555,6 +2592,9 @@ Protectores con un diseño del Yu-Gi-Oh! World Championship 2025: MASTER DUEL.
 Para aquellos que aspiran a convertirse en los mejores del mundo.
 [IDS_ITEMDESC.ID1073017]
 Un protector con el logotipo de la DC 2025 SEP. 
+Para los que participaron la Duelist Cup e hicieron que el evento sea todo un éxito.
+[IDS_ITEMDESC.ID1073018]
+Un protector con el logotipo de la DC 2025 DEC. 
 Para los que participaron la Duelist Cup e hicieron que el evento sea todo un éxito.
 [IDS_ITEMDESC.ID1075001]
 Protectores que representan una escena de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
@@ -3073,7 +3113,8 @@ coming soon
 Partes del Campo inspiradas en dos fantasmas blancos.
 Esta noche se celebra un banquete para los monstruos más raros e inusuales. Disfrutemos de lo que está por venir.
 [IDS_ITEMDESC.ID1101041]
-coming soon
+Partes del Campo inspiradas en el aro decorativo conocido como guirnalda.
+Las guirnaldas sirven para muchos fines, por lo que se desconoce el uso de esta.
 [IDS_ITEMDESC.ID1101042]
 coming soon
 [IDS_ITEMDESC.ID1101043]
@@ -3371,6 +3412,9 @@ Parece que estas burbujas rosas con forma de huevo no van a crecer más.
 [IDS_ITEMDESC.ID1111066]
 Un enclave inspirado en un círculo mágico cuyo inmenso poder se ha desbordado.
 Existen incluso casos en los que su invocador se ha fusionado con los monstruos, y ha conocido un trágico fin.
+[IDS_ITEMDESC.ID1111071]
+Un enclave inspirado en el horóscopo de <category id='110'/>.
+Te guía usando el poder místico de las estrellas.
 [IDS_ITEMDESC.ID1112001]
 Un enclave de un Coliseo.
 El fuego brillante baila como si cantara las alabanzas de los valientes guerreros que allí combaten.
@@ -3763,12 +3807,14 @@ coming soon
 [IDS_ITEMDESC.ID1130102]
 coming soon
 [IDS_ITEMDESC.ID1130103]
-coming soon
+Las propias estrellas guían el resplandor de estos dragones entrelazados.
+Invoca el poder de los dragones con tus propias manos.
 [IDS_ITEMDESC.ID1130104]
 El antiguo progenitor de un gran linaje de dragones.
 Este señor de los dragones dominaba todo con su poder incomparable y una sed insaciable de batalla.
 [IDS_ITEMDESC.ID1130105]
-coming soon
+Otra bruja ataviada de blanco.
+Se encuentra inmersa en una solitaria historia de venganza.
 [IDS_ITEMDESC.ID1130106]
 coming soon
 [IDS_ITEMDESC.ID1130107]
@@ -3788,6 +3834,9 @@ Siempre sorprende a los aficionados con su técnica insuperable y sus jugadas in
 [IDS_ITEMDESC.ID1132003]
 "He creado mi propia y perversa página web que recrea a la perfección el pueblo donde nací".
 Dicho esto, corrió felizmente a los foros a medida que la décima visita llegaba.
+[IDS_ITEMDESC.ID1132004]
+Un rey que gobierna una ciudadela mágica.
+Es capaz de hacer milagros aprovechando la energía almacenada en las piedras mágicas que se encuentran en su cuerpo.
 [IDS_ITEMDESC.ID1140001]
 Un tique que te permite comprar un sobre del Legado.
 ¿Cuál será tu legado?
@@ -3860,7 +3909,8 @@ coming soon
 Una moneda cuyo motivo es un arsenal tecnológico superavanzado y el país que lo desarrolló.
 El emblema grabado en su superficie brilla intensamente.
 [IDS_ITEMDESC.ID1180013]
-coming soon
+Una moneda cuyo motivo es el horóscopo de <category id='110'/>.
+El poder de las estrellas brilla intensamente.
 [IDS_ITEMDESC.ID1180014]
 Una moneda cuyo motivo es una carta que da mucha suerte. Sus alas blancas brillan resplandecientes.
 [IDS_ITEMDESC.ID1180015]

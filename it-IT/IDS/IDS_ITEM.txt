@@ -142,6 +142,8 @@ Sarcofago del Re
 Diapason Oscuro
 [IDS_ITEM.ID1001037]
 Tartaruga-Gemma
+[IDS_ITEM.ID1001038]
+Il Favoloso Lurrie
 [IDS_ITEM.ID1002001]
 Pallone da calcio
 [IDS_ITEM.ID1002002]
@@ -416,8 +418,18 @@ Morgana la Strega degli Occhi
 Diabellstar la Strega Nera
 [IDS_ITEM.ID1010122]
 Cavaliere Valoroso
+[IDS_ITEM.ID1010125]
+Medius il Puro
+[IDS_ITEM.ID1010126]
+Dracocoda Faimena
+[IDS_ITEM.ID1010127]
+L'Uomo con il Marchio
 [IDS_ITEM.ID1010128]
 Ragazza Gagagaga
+[IDS_ITEM.ID1010129]
+Babbo Artigli
+[IDS_ITEM.ID1010131]
+Network di Emergenza Accademia Gagaga
 [IDS_ITEM.ID1011001]
 Pallone da calcio
 [IDS_ITEM.ID1011002]
@@ -542,6 +554,12 @@ Finalista Oro DC 2025 SEP
 Finalista Argento DC 2025 SEP
 [IDS_ITEM.ID1011062]
 Finalista Bronzo DC 2025 SEP
+[IDS_ITEM.ID1011063]
+Finalista Oro DC 2025 DEC
+[IDS_ITEM.ID1011064]
+Finalista Argento DC 2025 DEC
+[IDS_ITEM.ID1011065]
+Finalista Bronzo DC 2025 DEC
 [IDS_ITEM.ID1012001]
 X-Krawler Sinapsisi
 [IDS_ITEM.ID1012002]
@@ -706,6 +724,8 @@ Duellante Nero e Blu
 Duellante Bianco e Blu
 [IDS_ITEM.ID1013010]
 eFootball™
+[IDS_ITEM.ID1013011]
+Selene, Regina dei Maghi Maestri
 [IDS_ITEM.ID1020001]
 Duellante principiante
 [IDS_ITEM.ID1020002]
@@ -1083,17 +1103,17 @@ Guerriero Ossidiana dell'Accatastamento
 [IDS_ITEM.ID1020188]
 Guerriero Azzurro del Collegamento
 [IDS_ITEM.ID1020189]
-coming soon
+Top 10 DC 2025 DEC
 [IDS_ITEM.ID1020190]
-coming soon
+Top 100 DC 2025 DEC
 [IDS_ITEM.ID1020191]
-coming soon
+Top 500 DC 2025 DEC
 [IDS_ITEM.ID1020192]
-coming soon
+Top 1000 DC 2025 DEC
 [IDS_ITEM.ID1020193]
-coming soon
+Top 10000 DC 2025 DEC
 [IDS_ITEM.ID1020194]
-coming soon
+Duellante 2nd stage DC 2025 DEC
 [IDS_ITEM.ID1020195]
 coming soon
 [IDS_ITEM.ID1020196]
@@ -1184,6 +1204,8 @@ Cornice gialla e blu
 Diabellstar la Strega Nera
 [IDS_ITEM.ID1030039]
 Fusione Cavaliere-Gemma
+[IDS_ITEM.ID1030040]
+Cornice blu e bianca
 [IDS_ITEM.ID1031001]
 Il cammino dell'Assaltatrice del Cielo blu
 [IDS_ITEM.ID1031002]
@@ -1522,8 +1544,12 @@ Signora Labrinto del Castello d'Argento
 Giara della Prodigalità
 [IDS_ITEM.ID1070138]
 Assaltatrice del Cielo Asso = Zero
+[IDS_ITEM.ID1070139]
+Dracocoda Arthalion
 [IDS_ITEM.ID1070140]
 Numero F0: Futuro Utopico Zexal
+[IDS_ITEM.ID1070141]
+Anubi l'Ultimo Giudice
 [IDS_ITEM.ID1070142]
 Spettrolisir della Gloriosa Terra Dorata
 [IDS_ITEM.ID1070143]
@@ -1652,6 +1678,8 @@ Celebrazione del "WCS 2025"
 Premio di partecipazione al "WCS 2025"
 [IDS_ITEM.ID1073017]
 Celebrazione DC 2025 SEP
+[IDS_ITEM.ID1073018]
+Celebrazione DC 2025 DEC
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -1988,6 +2016,8 @@ Corona Floreale
 Salvagente
 [IDS_ITEM.ID1101040]
 Fantasma di Halloween
+[IDS_ITEM.ID1101041]
+Ghirlanda
 [IDS_ITEM.ID1102001]
 Colosseo
 [IDS_ITEM.ID1102002]
@@ -2164,6 +2194,8 @@ Flamvell, i Guerrieri Scarlatti
 Rosa Multifascinante
 [IDS_ITEM.ID1111066]
 Collasso Magico
+[IDS_ITEM.ID1111071]
+Dracocoda
 [IDS_ITEM.ID1112001]
 Colosseo
 [IDS_ITEM.ID1112002]
@@ -2436,14 +2468,20 @@ Signora Labrinto del Castello d'Argento
 Stratagemma Spettrale dell'Arcidemone
 [IDS_ITEM.ID1130098]
 Spettralich il Signore Dorato
+[IDS_ITEM.ID1130103]
+Ketu Dracocoda
 [IDS_ITEM.ID1130104]
 Primo dei Signoredrago
+[IDS_ITEM.ID1130105]
+Diabellze la Custode del Peccato Originale
 [IDS_ITEM.ID1132001]
 Coniglio da Soccorso
 [IDS_ITEM.ID1132002]
 Neymar
 [IDS_ITEM.ID1132003]
 Quello è un 10!
+[IDS_ITEM.ID1132004]
+Endymion, il Magnifico Maestro della Magia
 [IDS_ITEM.ID1140001]
 Coupon busta Eredità
 [IDS_ITEM.ID1141001]
@@ -2499,7 +2537,7 @@ coming soon
 [IDS_ITEM.ID1180012]
 Assaltatrice del Cielo Asso
 [IDS_ITEM.ID1180013]
-coming soon
+Ketu Dracocoda
 [IDS_ITEM.ID1180014]
 Kuriboh Alato
 [IDS_ITEM.ID1180015]

@@ -218,7 +218,8 @@ coming soon
 Die Pyroxen-Krieger, besonnene Ritter mit einem Herzen, das sich insgeheim nach Gerechtigkeit sehnt.
 Sie besitzen die Fähigkeit, nach Bedarf zu fusionieren.
 [IDS_ITEMDESC.ID1001038]
-coming soon
+<category id='79'/> lebt in der Unterwelt und dient als Kundschafter.
+Sie erkunden die menschliche Welt im Auftrag des Dröhnenden Reichs.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
@@ -709,18 +710,25 @@ coming soon
 [IDS_ITEMDESC.ID1010124]
 coming soon
 [IDS_ITEMDESC.ID1010125]
-coming soon
+Ein Symbol, das einen jungen Mann darstellt, der über die Kraft verfügt, eine unausweichliche Zukunft zu sehen.
+Seit seiner Kindheit hat er unzählige Zukünfte miterlebt.
 [IDS_ITEMDESC.ID1010126]
-coming soon
+Ein Symbol, das eine Magierin darstellt, die die Sterne anruft, um Drachen herbeizubeschwören.
+Sie nutzt die Macht der Drachen, um eine neue Gestalt anzunehmen.
 [IDS_ITEMDESC.ID1010127]
-coming soon
+Ein Symbol, das einen Mann mit einem Mal auf beiden Wangen darstellt.
+Er beschützt „<card mrk='5231'/>“ und strahlt dabei eine majestätische Erscheinung aus.
 [IDS_ITEMDESC.ID1010128]
 Ein Symbol, das ein Mädchen darstellt, das zu einem Xyz-Monster geworden ist.
 Dank der Weiterentwicklung von Mobiltelefonen hat sie sich den Schlüssel zum Erfolg gesichert.
 [IDS_ITEMDESC.ID1010129]
-coming soon
+Ein Symbol, das einen rötlichen Dämon darstellt, der einen großen Sack hochhebt.
+Er trägt eine große, kreuzförmige Narbe auf der Brust.
 [IDS_ITEMDESC.ID1010130]
 coming soon
+[IDS_ITEMDESC.ID1010131]
+Ein Symbol, das das Emblem der Akademie darstellt.
+Im Notfall müssen sich die Schüler sofort versammeln.
 [IDS_ITEMDESC.ID1011001]
 Ein Symbol, das einen Ball, der aus schwarzen und weißen Panels besteht, darstellt.
 3 Duelle in Folge zu gewinnen nennt man nicht einen Hattrick.
@@ -908,11 +916,14 @@ Wurde an diejenigen verliehen, die beim Duelist Cup beachtliche Leistungen erbra
 Ein Symbol mit einem bronzenen „DC 2025 SEP“-Logo. 
 Wurde an diejenigen verliehen, die beim Duelist Cup viele Kämpfe für sich entschieden haben.
 [IDS_ITEMDESC.ID1011063]
-coming soon
+Ein Symbol mit einem goldenen „DC 2025 DEC“-Logo. 
+Wurde an diejenigen verliehen, die beim Duelist Cup überdurchschnittliche Leistungen erbracht haben.
 [IDS_ITEMDESC.ID1011064]
-coming soon
+Ein Symbol mit einem silbernen „DC 2025 DEC“-Logo. 
+Wurde an diejenigen verliehen, die beim Duelist Cup beachtliche Leistungen erbracht haben.
 [IDS_ITEMDESC.ID1011065]
-coming soon
+Ein Symbol mit einem bronzenen „DC 2025 DEC“-Logo. 
+Wurde an diejenigen verliehen, die beim Duelist Cup viele Kämpfe für sich entschieden haben.
 [IDS_ITEMDESC.ID1012001]
 Ein Symbol, das einen „Krawler“ darstellt; Monster, die eine bestimmte Welt überrannt haben. Dieser gehört der höheren Klasse an.
 Sie zerstörten gnadenlos alle Mühen der menschlichen Zivilisation, die sich für Jahrhunderte hielten.
@@ -1157,6 +1168,9 @@ Ein exklusives Symbol, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1013010]
 Ein Symbol, das das Logo eines Fußballspiels darstellt, bei dem echte und Traumteams mit jeweils 11 Spielern um den Sieg kämpfen.
 Spannende Action, präsentiert von denen, die sich selbst immer wieder neuen Herausforderungen stellen.
+[IDS_ITEMDESC.ID1013011]
+Ein Symbol, das die wahre Variante von „<card mrk='14440'/>“ darstellt.
+Man sagt, nur „<card mrk='14439'/>“ könne ihr wahres Gesicht sehen.
 [IDS_ITEMDESC.ID1020001]
 Ein Titel, der Duellanten verliehen wird, die ihre Duellantenreise mit Yu-Gi-Oh! MASTER DUEL.
 Es ist nie zu spät, das Duellieren zu erlernen.
@@ -1720,6 +1734,24 @@ Bilde wie bei einer Rüstung eine unzerstörbare Vorhut, indem du Stück auf St�
 [IDS_ITEMDESC.ID1020188]
 Ein Titel, der an Duellanten vergeben wird, die mit einer Strategie, welche Link-Beschwörungen umfasste, beachtenswerte Erfolge erzielt haben.
 Verbinde Monster mit Monstern wie bei einem perfekt geformten Kettenglied, um eine Formation ohne Schwächen zu bilden.
+[IDS_ITEMDESC.ID1020189]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2025 DEC die Top 10 erreicht haben.
+Die Geschichten über ihre vielen großartigen Duelle und ihre Tapferkeit im Kampf um den Thron werden noch viele Jahre lang erzählt werden.
+[IDS_ITEMDESC.ID1020190]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2025 DEC die Top 100 erreicht haben.
+Dies ist ein Beweis für eine Leistung, die viele Duellanten anstreben.
+[IDS_ITEMDESC.ID1020191]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2025 DEC die Top 500 erreicht haben.
+Nur die Stärksten der Starken können ein Herz wie das deine besitzen, das durch viele hart umkämpfte Duelle gestählt wurde.
+[IDS_ITEMDESC.ID1020192]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2025 DEC die Top 1.000 erreicht haben.
+Hut ab vor den Duellanten, die kontinuierlich an ihren Decks und Taktiken gefeilt haben, um dieses Ergebnis zu erreichen.
+[IDS_ITEMDESC.ID1020193]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2025 DEC die Top 10000 erreicht haben.
+Er wurde durch einen Sieg nach dem anderen gegen die harte Konkurrenz in der 2nd STAGE verdient.
+[IDS_ITEMDESC.ID1020194]
+Ein Titel, der an Duellanten vergeben wird, die die 2nd Stage des DC 2025 DEC erreicht haben.
+Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage geschafft hast.
 [IDS_ITEMDESC.ID1020197]
 Ein Titel, der an Duellanten vergeben wird, die in einem Kampf zwischen drei Seiten Ergebnisse erzielt haben.
 Ganz gleich in welcher Situation, deine Fähigkeiten werden sich durchsetzen.
@@ -1841,6 +1873,9 @@ Die Stimme eines Mädchens ist zu hören, scheinbar aus dem Nirgendwo.
 [IDS_ITEMDESC.ID1030039]
 Ein Symbol-Rahmen, der die Kraft der Fusion heraufbeschwört – die Grundlage der Pyroxen-Krieger.
 Es belastet ihren Kern, kann aber mehrmals hintereinander verwendet werden.
+[IDS_ITEMDESC.ID1030040]
+Ein blauer und weißer Symbol-Rahmen, der an einen kalten Winterhimmel erinnert.
+Der weiße Schnee fällt vom klaren blauen Himmel und spiegelt die Harmonie des Lichts wider.
 [IDS_ITEMDESC.ID1031001]
 Ein Symbol-Rahmen, der an das Tor erinnert, das die Himmelsjäger benutzen, um ihre Ausrüstung zu transferieren.
 Wenn sich der Weg für diejenigen öffnet, die für den Frieden kämpfen, erwacht eine neue Kraft zur Überwindung der Not.
@@ -2349,12 +2384,14 @@ coming soon
 Kartenhüllen, die einen neuen Look für ein Mädchen darstellen, das ausgewählt wurde, um hochmoderne technologische Waffen zu führen.
 Für diejenigen, die darum kämpfen, ihr Schicksal zu ändern.
 [IDS_ITEMDESC.ID1070139]
-coming soon
+Kartenhüllen, die die vereinte Stärke mächtiger Drachen darstellen.
+Für all jene, die sich von den Sternen leiten lassen.
 [IDS_ITEMDESC.ID1070140]
 Kartenhüllen, die eine Weiterentwicklung von „<card mrk='11413'/>“ darstellen, angetrieben durch die Kraft von Zexal.
 Für diejenigen, die Hoffnung für die Zukunft wecken möchten.
 [IDS_ITEMDESC.ID1070141]
-coming soon
+Kartenhüllen, die denjenigen darstellen, der den Weg einer Seele ins Jenseits leitet.
+Für diejenigen, die über die Seelen der Toten richten.
 [IDS_ITEMDESC.ID1070142]
 Kartenhüllen, auf denen der goldene Lord abgebildet ist, dessen Gier unersättlich ist.
 Für diejenigen, die sich alles zu eigen machen wollen.
@@ -2555,6 +2592,9 @@ Kartenhüllen mit einem visuellen Design für die Yu-Gi-Oh! World Championship 2
 Für diejenigen, die die Besten der Welt werden wollen.
 [IDS_ITEMDESC.ID1073017]
 Eine Kartenhülle mit „DC 2025 SEP“-Logo. 
+Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen haben.
+[IDS_ITEMDESC.ID1073018]
+Eine Kartenhülle mit „DC 2025 DEC“-Logo. 
 Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen haben.
 [IDS_ITEMDESC.ID1075001]
 Ein Kartenhülle, auf der eine Szene aus Yu-Gi-Oh! CARD GAME THE CHRONICLES abgebildet ist.
@@ -3072,7 +3112,8 @@ coming soon
 Spielfeldteile nach dem Vorbild zweier weißer Geister.
 Heute Abend findet ein Fest für seltsame und ungewöhnliche Monster statt. Lasst uns die bevorstehende Fröhlichkeit genießen.
 [IDS_ITEMDESC.ID1101041]
-coming soon
+Spielfeldteile, die dem dekorativen Ring, dem sogenannten Kranz, nachempfunden sind.
+Kränze erfüllen viele Zwecke, daher ist die Absicht hinter diesem hier unbekannt.
 [IDS_ITEMDESC.ID1101042]
 coming soon
 [IDS_ITEMDESC.ID1101043]
@@ -3370,6 +3411,9 @@ Es scheint, dass die rosafarbenen, blasenartigen Ei-Formen nicht weiter wachsen.
 [IDS_ITEMDESC.ID1111066]
 Ein Stand, der von einem magischen Kreis inspiriert ist, der nach einem immensen Zustrom von Macht durcheinandergeraten ist.
 Es gibt sogar Fälle, in denen der Zauberer mit Monstern verschmilzt – ein wahrhaft schreckliches Schicksal.
+[IDS_ITEMDESC.ID1111071]
+Ein Stand nach dem Vorbild von <category id='110'/>s Horoskop.
+Er leitet dich mithilfe der mystischen Kraft der Sterne.
 [IDS_ITEMDESC.ID1112001]
 Der Stand eines Kolosseums.
 Die leuchtende Flamme tanzt, als ob sie die mutigen Krieger lobpreisen will, die hier kämpfen.
@@ -3762,12 +3806,14 @@ coming soon
 [IDS_ITEMDESC.ID1130102]
 coming soon
 [IDS_ITEMDESC.ID1130103]
-coming soon
+Die Sterne selbst lenken den Glanz dieser ineinander verschlungenen Drachen.
+Beschwöre die Macht der Drachen in deinen eigenen Händen.
 [IDS_ITEMDESC.ID1130104]
 Der uralte Stammvater einer großen Drachenlinie.
 Mit einem unstillbaren Kampfeslust beherrschte dieser Drachenherrscher mit seiner unvergleichlichen Macht alles.
 [IDS_ITEMDESC.ID1130105]
-coming soon
+Eine weitere Hexe in Weiß.
+Sie findet sich in einer einsamen Rachegeschichte wieder.
 [IDS_ITEMDESC.ID1130106]
 coming soon
 [IDS_ITEMDESC.ID1130107]
@@ -3787,6 +3833,9 @@ Sie verblüfft ihre Fans immer wieder mit unübertroffener Technik und unerwarte
 [IDS_ITEMDESC.ID1132003]
 „Ich habe meine eigene abgefahrene Website erstellt, die meine geliebte Heimatstadt perfekt wiedergibt.“
 Als der 10. Besucher kam, verschwand sie vergnügt in den Foren.
+[IDS_ITEMDESC.ID1132004]
+Ein König, der über eine magische Zitadelle herrscht.
+Er vollbringt Wunder, indem er die Energie nutzt, die sich in den magischen Steinen seines Körpers befinden.
 [IDS_ITEMDESC.ID1140001]
 Ein Ticket, das dir den Kauf eines Legacy-Packs gewährt.
 Was wird dein Vermächtnis sein?
@@ -3859,7 +3908,8 @@ coming soon
 Eine Münze, deren Motiv hochmoderne technologische Waffen und das Land darstellt, das sie entwickelt hat.
 Das in ihre Oberfläche eingravierte Emblem schimmert hell.
 [IDS_ITEMDESC.ID1180013]
-coming soon
+Eine Münze, deren Motiv <category id='110'/>s Horoskop ist.
+Die Kraft der Sterne strahlt hell.
 [IDS_ITEMDESC.ID1180014]
 Eine Münze, deren Motiv eine sehr glücksbringende Karte ist. Seine weißen Flügel schimmern prächtig.
 [IDS_ITEMDESC.ID1180015]
