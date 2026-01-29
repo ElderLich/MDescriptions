@@ -1914,6 +1914,8 @@ Estado de fútbol
 Coliseo
 [IDS_ITEM.ID1092002]
 WCS
+[IDS_ITEM.ID1092004]
+Campeonato de institutos de Japón
 [IDS_ITEM.ID1100001]
 Bosque
 [IDS_ITEM.ID1100002]
@@ -2034,6 +2036,8 @@ coming soon
 Reciclador de Chatarra y Recolector de Residuos
 [IDS_ITEM.ID1101023]
 Atrás a la Casilla Uno
+[IDS_ITEM.ID1101024]
+coming soon
 [IDS_ITEM.ID1101025]
 Santuario del Rey de Fuego
 [IDS_ITEM.ID1101026]
@@ -2058,6 +2062,8 @@ Guirnalda
 Coliseo
 [IDS_ITEM.ID1102002]
 WCS
+[IDS_ITEM.ID1102004]
+Campeonato de institutos de Japón
 [IDS_ITEM.ID1110001]
 Bosque
 [IDS_ITEM.ID1110002]
@@ -2238,6 +2244,8 @@ Dracocola
 Coliseo
 [IDS_ITEM.ID1112002]
 WCS
+[IDS_ITEM.ID1112004]
+Campeonato de institutos de Japón
 [IDS_ITEM.ID1113001]
 Recuerdo del WCS 2023
 [IDS_ITEM.ID1113002]
@@ -2560,6 +2568,12 @@ Mikanko
 coming soon
 [IDS_ITEM.ID1170008]
 Caza del Cielo As
+[IDS_ITEM.ID1170009]
+coming soon
+[IDS_ITEM.ID1170010]
+coming soon
+[IDS_ITEM.ID1170011]
+coming soon
 [IDS_ITEM.ID1180001]
 Dragón Blanco Alternativo de Ojos Azules
 [IDS_ITEM.ID1180002]

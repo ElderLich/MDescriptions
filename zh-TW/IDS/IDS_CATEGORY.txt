@@ -318,3 +318,23 @@ coming soon
 變形鬥士
 [IDS_CATEGORY.NAME_160]
 珀耳修斯
+[IDS_CATEGORY.NAME_161]
+coming soon
+[IDS_CATEGORY.NAME_162]
+coming soon
+[IDS_CATEGORY.NAME_163]
+coming soon
+[IDS_CATEGORY.NAME_164]
+coming soon
+[IDS_CATEGORY.NAME_165]
+coming soon
+[IDS_CATEGORY.NAME_166]
+coming soon
+[IDS_CATEGORY.NAME_167]
+coming soon
+[IDS_CATEGORY.NAME_168]
+coming soon
+[IDS_CATEGORY.NAME_169]
+coming soon
+[IDS_CATEGORY.NAME_170]
+coming soon

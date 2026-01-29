@@ -1914,6 +1914,8 @@ Evil★Twin
 콜로세움
 [IDS_ITEM.ID1092002]
 WCS
+[IDS_ITEM.ID1092004]
+고등학생 일본 제일 결정전
 [IDS_ITEM.ID1100001]
 숲
 [IDS_ITEM.ID1100002]
@@ -2034,6 +2036,8 @@ coming soon
 스크랩 리사이클러 & 가비지컬렉터
 [IDS_ITEM.ID1101023]
 원위치
+[IDS_ITEM.ID1101024]
+coming soon
 [IDS_ITEM.ID1101025]
 염왕의 성역
 [IDS_ITEM.ID1101026]
@@ -2058,6 +2062,8 @@ coming soon
 콜로세움
 [IDS_ITEM.ID1102002]
 WCS
+[IDS_ITEM.ID1102004]
+고등학생 일본 제일 결정전
 [IDS_ITEM.ID1110001]
 숲
 [IDS_ITEM.ID1110002]
@@ -2238,6 +2244,8 @@ coming soon
 콜로세움
 [IDS_ITEM.ID1112002]
 WCS
+[IDS_ITEM.ID1112004]
+고등학생 일본 제일 결정전
 [IDS_ITEM.ID1113001]
 WCS2023 출전 기념
 [IDS_ITEM.ID1113002]
@@ -2562,6 +2570,12 @@ coming soon
 coming soon
 [IDS_ITEM.ID1170008]
 섬도희
+[IDS_ITEM.ID1170009]
+coming soon
+[IDS_ITEM.ID1170010]
+coming soon
+[IDS_ITEM.ID1170011]
+coming soon
 [IDS_ITEM.ID1180001]
 푸른 눈의 아백룡
 [IDS_ITEM.ID1180002]

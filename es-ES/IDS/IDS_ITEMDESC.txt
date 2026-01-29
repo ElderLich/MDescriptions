@@ -1764,7 +1764,7 @@ Ganado victoria tras victoria frente a feroces competidores en la 2nd STAGE.
 Un título otorgado a los duelistas que llegaron a la 2nd Stage en la DC 2025 DEC.
 Es la prueba de tu logro de haber superado la reñida 1st Stage.
 [IDS_ITEMDESC.ID1020195]
-Un título que se otorga a los duelistas que han logrado resultados notables en el "Festival de Fusión y Sincronía +".
+Un título que se otorga a los duelistas que han logrado resultados notables en el "<exhibition id='033'/>".
 El orgullo de los duelistas despierta a causa de las cartas que más atesoran.
 [IDS_ITEMDESC.ID1020196]
 Un título que se concede a los duelistas que han aprovechado el poder de los monstruos legendarios y se han labrado una buena reputación.
@@ -2931,6 +2931,9 @@ Los vítores de los hinchas se oyen por todo el campo.
 [IDS_ITEMDESC.ID1092001]
 Un Campo que representa a dos guerreros inmersos en un violento combate.
 ¡No hay mejor momento para un enfrentamiento que ahora!
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 Partes del Campo de un bosque.
 El diseño grabado recuerda a las reliquias antiguas.
@@ -3170,7 +3173,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3460,6 +3464,9 @@ Te guía usando el poder místico de las estrellas.
 [IDS_ITEMDESC.ID1112001]
 Un enclave de un Coliseo.
 El fuego brillante baila como si cantara las alabanzas de los valientes guerreros que allí combaten.
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 Un enclave que conmemora la participación en el evento MASTER DUEL del Yu-Gi-Oh! World Championship 2023.
 Su diseño austero pone de manifiesto el prestigio de la competición.
@@ -3925,6 +3932,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 Archivo de Coleccionista que representa a unas chicas que cargan un cruel destino sobre sus hombros.
 Cuentan que cuando los <category id='002'/> se reúnan, las puertas de la tecnología más avanzada resplandecerá.
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Una moneda en la que aparece el dragón brillante que trae una nueva leyenda.
 Sus ojos celestes resplandecen.

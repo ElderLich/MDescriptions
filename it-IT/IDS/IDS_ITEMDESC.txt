@@ -1764,7 +1764,7 @@ Ottenuto grazie a una vittoria dopo l'altra contro avversari agguerriti nella 2�
 Titolo conferito ai Duellanti che hanno raggiunto la 2ª fase nella DC 2025 DEC.
 Questa è la prova del superamento della combattutissima 1ª fase.
 [IDS_ITEMDESC.ID1020195]
-Un titolo dato ai Duellanti che hanno raggiunto risultati importanti nel "Festival Fusione x Synchro +".
+Un titolo dato ai Duellanti che hanno raggiunto risultati importanti nel "<exhibition id='033'/>".
 L'orgoglio dei Duellanti viene risvegliato dalle carte a loro più care.
 [IDS_ITEMDESC.ID1020196]
 Un titolo dato ai Duellanti che hanno padroneggiato il potere dei Mostri Leggendari e si sono fatti un nome.
@@ -2930,6 +2930,9 @@ Le grida dei tifosi appassionati risuonano in tutto il campo.
 [IDS_ITEMDESC.ID1092001]
 Un Terreno che raffigura due guerrieri intenti a darsi battaglia.
 Non c'è momento migliore di questo per affrontare il tuo rivale!
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 Parti del Terreno provenienti da una foresta.
 Il loro motivo inciso ricorda delle rovine antiche.
@@ -3170,7 +3173,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3460,6 +3464,9 @@ Ti guida sfruttando il potere mistico delle stelle.
 [IDS_ITEMDESC.ID1112001]
 Uno stand proveniente da un Colosseo.
 La fiamma vivace danza come se stesse cantando le lodi dei coraggiosi guerrieri che si sfidano qui.
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 Uno stand per celebrare la partecipazione nell'evento di MASTER DUEL allo "Yu-Gi-Oh! World Championship 2023".
 Il suo design solenne indica la prestigiosa natura della competizione.
@@ -3925,6 +3932,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 Un Album del Collezionista che raffigura delle ragazze che portano il peso di un destino crudele.
 Si dice che quando si ottengono <category id='002'/>, le porte di una tecnologia all'avanguardia risplenderanno luminose.
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Una moneta con il motivo del drago luminoso che dà vita a una nuova leggenda.
 I suoi occhi blu risplendono.

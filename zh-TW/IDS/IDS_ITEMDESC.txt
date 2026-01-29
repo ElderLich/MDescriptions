@@ -1766,7 +1766,7 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL中十二強決鬥者的稱號。
 在「DC2025 DEC」中，取得晉級2nd STAGE成績的決鬥者可獲得此稱號。
 戰勝眾多決鬥者，從1st STAGE勝出的實力證明。
 [IDS_ITEMDESC.ID1020195]
-在「結合＆同步盃賽＋」中，取得好成績的決鬥者可獲得此稱號。
+在「<exhibition id='033'/>」中，取得好成績的決鬥者可獲得此稱號。
 魂之卡將喚醒決鬥者的榮耀。
 [IDS_ITEMDESC.ID1020196]
 將傳說怪獸運用到極致，留下佳績的決鬥者可獲得此稱號。
@@ -2934,6 +2934,9 @@ coming soon
 [IDS_ITEMDESC.ID1092001]
 身經百戰的強者們正面對決的決鬥場場地。
 現在就是一決雌雄的時候了！
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 設置在森林的場地配件。
 刻在上面的花紋，令人聯想到古代的遺物。
@@ -3174,7 +3177,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3466,6 +3470,9 @@ coming soon
 [IDS_ITEMDESC.ID1112001]
 設置於競技場中的底座。
 燦爛燃燒的火焰，向佇立於此的戰士致上最高榮譽。
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 Yu-Gi-Oh! World Championship 2023:MASTER DUEL參賽紀念底座。
 莊嚴的設計，表現出大賽的高規格。
@@ -3925,6 +3932,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 背負殘酷命運的少女們的蒐藏檔案。
 據說收集完<category id='002'/>後，超科學之門將散發光輝。
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 以創造新傳說的白龍為概念所設計的硬幣。
 青色的眼散發光芒。

@@ -1765,7 +1765,7 @@ Er wurde durch einen Sieg nach dem anderen gegen die harte Konkurrenz in der 2nd
 Ein Titel, der an Duellanten vergeben wird, die die 2nd Stage des DC 2025 DEC erreicht haben.
 Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage geschafft hast.
 [IDS_ITEMDESC.ID1020195]
-Ein Titel, der an Duellanten vergeben wird, die bei „Fusion x Synchro-Festival +“ bemerkenswerte Ergebnisse erzielt haben.
+Ein Titel, der an Duellanten vergeben wird, die bei „<exhibition id='033'/>“ bemerkenswerte Ergebnisse erzielt haben.
 Der Stolz der Duellanten erwacht durch die Karten, die sie am meisten schätzen.
 [IDS_ITEMDESC.ID1020196]
 Ein Titel, der Duellanten verliehen wird, die die Macht der legendären Monster genutzt und sich einen Namen gemacht haben.
@@ -2931,6 +2931,9 @@ Der Jubel der begeisterten Fans hallt über den Rasen.
 [IDS_ITEMDESC.ID1092001]
 Ein Spielfeld, das zwei Krieger darstellt, die in einem wilden Kampf verwickelt sind.
 Die beste Zeit für ein Kräftemessen ist immer jetzt!
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 Spielfeldteile eines Waldes.
 Das darauf eingravierte Muster erinnert an antike Relikte.
@@ -3171,7 +3174,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3461,6 +3465,9 @@ Er leitet dich mithilfe der mystischen Kraft der Sterne.
 [IDS_ITEMDESC.ID1112001]
 Der Stand eines Kolosseums.
 Die leuchtende Flamme tanzt, als ob sie die mutigen Krieger lobpreisen will, die hier kämpfen.
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 Ein Symbol zum Andenken an die Teilnahme am MASTER DUEL-Event der Yu-Gi-Oh! World Championship 2023.
 Das majestätische Design unterstreicht den prestigeträchtigen Charakter des Wettbewerbs.
@@ -3926,6 +3933,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 Ein Sammelordner, auf dem Mädchen abgebildet sind, die die Last eines grausamen Schicksals tragen.
 Es heißt, dass die Türen der hochmodernen Technologie hell erstrahlen wird, wenn die <category id='002'/> versammelt sind.
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.

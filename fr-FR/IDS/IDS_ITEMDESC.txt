@@ -1765,7 +1765,7 @@ Remporté grâce à des victoires successives contre des concurrents féroces lo
 Un titre donné aux Duellistes qui ont atteint la 2nd Stage dans la DC 2025 DEC.
 La preuve que vous avez réussi à passer la très disputée 1st Stage.
 [IDS_ITEMDESC.ID1020195]
-Un titre donné aux Duellistes qui ont obtenu des résultats remarquables dans le "Festival Fusion x Synchro +".
+Un titre donné aux Duellistes qui ont obtenu des résultats remarquables dans le "<exhibition id='033'/>".
 Les Duellistes sont fiers des cartes auxquelles ils tiennent le plus.
 [IDS_ITEMDESC.ID1020196]
 Un titre donné aux Duellistes ayant maîtrisé le pouvoir des monstres légendaires et s'étant fait un nom.
@@ -2930,6 +2930,9 @@ Les encouragements des fans enthousiastes y résonnent.
 [IDS_ITEMDESC.ID1092001]
 Un Terrain représentant deux guerriers en plein milieu d'un combat enragé.
 C'est le moment ou jamais de s'affronter !
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 Des parties de Terrain d'une forêt.
 Le motif gravé dessus rappelle des reliques anciennes.
@@ -3169,7 +3172,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3459,6 +3463,9 @@ Il vous guide grâce au pouvoir mystique des étoiles.
 [IDS_ITEMDESC.ID1112001]
 Un Stand issu d'un colisée.
 La flamme brillante danse comme si elle chantait les louanges des braves guerriers qui ont combattu ici.
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 Un Stand commémorant la participation à l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2023.
 Son design austère témoigne du caractère prestigieux du concours.
@@ -3924,6 +3931,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 Un Dossier de Collectionneur qui représente des filles portant sur leurs épaules le poids d'un cruel destin.
 Il paraît que lorsque les <category id='002'/> se réuniront, les portes de la technologie brilleront de mille feux.
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Une pièce dont le motif est le dragon lumineux qui écrit une nouvelle légende.
 Ses yeux céruléens brillent.

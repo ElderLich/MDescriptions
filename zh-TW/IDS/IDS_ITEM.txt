@@ -1910,6 +1910,8 @@ coming soon
 競技場
 [IDS_ITEM.ID1092002]
 WCS
+[IDS_ITEM.ID1092004]
+日本第一高中生決勝賽
 [IDS_ITEM.ID1100001]
 森林
 [IDS_ITEM.ID1100002]
@@ -2030,6 +2032,8 @@ coming soon
 廢鐵回收機 & 垃圾收集員
 [IDS_ITEM.ID1101023]
 回到起點
+[IDS_ITEM.ID1101024]
+coming soon
 [IDS_ITEM.ID1101025]
 炎王聖域
 [IDS_ITEM.ID1101026]
@@ -2054,6 +2058,8 @@ coming soon
 競技場
 [IDS_ITEM.ID1102002]
 WCS
+[IDS_ITEM.ID1102004]
+日本第一高中生決勝賽
 [IDS_ITEM.ID1110001]
 森林
 [IDS_ITEM.ID1110002]
@@ -2234,6 +2240,8 @@ coming soon
 競技場
 [IDS_ITEM.ID1112002]
 WCS
+[IDS_ITEM.ID1112004]
+日本第一高中生決勝賽
 [IDS_ITEM.ID1113001]
 WCS2023參賽紀念
 [IDS_ITEM.ID1113002]
@@ -2554,6 +2562,12 @@ coming soon
 coming soon
 [IDS_ITEM.ID1170008]
 閃刀姬
+[IDS_ITEM.ID1170009]
+coming soon
+[IDS_ITEM.ID1170010]
+coming soon
+[IDS_ITEM.ID1170011]
+coming soon
 [IDS_ITEM.ID1180001]
 青眼亞白龍
 [IDS_ITEM.ID1180002]

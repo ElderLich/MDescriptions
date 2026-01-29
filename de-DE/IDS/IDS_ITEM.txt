@@ -1914,6 +1914,8 @@ Fußballstadion
 Kolosseum
 [IDS_ITEM.ID1092002]
 WCS
+[IDS_ITEM.ID1092004]
+Japanische Highschool-Meisterschaft
 [IDS_ITEM.ID1100001]
 Wald
 [IDS_ITEM.ID1100002]
@@ -2034,6 +2036,8 @@ coming soon
 Schrottrecycler und Müllsammler
 [IDS_ITEM.ID1101023]
 Zurück zum Anfang 
+[IDS_ITEM.ID1101024]
+coming soon
 [IDS_ITEM.ID1101025]
 Heiligtum des Feuerkönigs
 [IDS_ITEM.ID1101026]
@@ -2058,6 +2062,8 @@ Kranz
 Kolosseum
 [IDS_ITEM.ID1102002]
 WCS
+[IDS_ITEM.ID1102004]
+Japanische Highschool-Meisterschaft
 [IDS_ITEM.ID1110001]
 Wald
 [IDS_ITEM.ID1110002]
@@ -2238,6 +2244,8 @@ Drachoschwanz
 Kolosseum
 [IDS_ITEM.ID1112002]
 WCS
+[IDS_ITEM.ID1112004]
+Japanische Highschool-Meisterschaft
 [IDS_ITEM.ID1113001]
 Geschenk zur WCS 2023
 [IDS_ITEM.ID1113002]
@@ -2560,6 +2568,12 @@ Mikanko
 coming soon
 [IDS_ITEM.ID1170008]
 Himmelsjäger-Ass
+[IDS_ITEM.ID1170009]
+coming soon
+[IDS_ITEM.ID1170010]
+coming soon
+[IDS_ITEM.ID1170011]
+coming soon
 [IDS_ITEM.ID1180001]
 Blauäugiger alternativer weißer Drache
 [IDS_ITEM.ID1180002]

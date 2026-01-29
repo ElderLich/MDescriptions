@@ -1765,7 +1765,7 @@ Foi conquistado através de vitória após vitória contra ferozes competidores 
 Um Título dado aos Duelistas que chegaram à 2ª Fase na DC 2025 DEC.
 Esta é uma prova de que conseguiu passar a altamente disputada 1ª Fase.
 [IDS_ITEMDESC.ID1020195]
-Um Título concedido a Duelistas que obtiveram resultados notáveis no Festival Fusão x Sincro +.
+Um Título concedido a Duelistas que obtiveram resultados notáveis no <exhibition id='033'/>.
 O orgulho dos Duelistas é despertado pelos cards que eles mais estimam.
 [IDS_ITEMDESC.ID1020196]
 Um título dado a Duelistas que dominaram o poder dos Monstros Lendários e marcaram seu próprio nome na história.
@@ -2932,6 +2932,9 @@ Os gritos de empolgação da torcida ecoam pelo gramado.
 [IDS_ITEMDESC.ID1092001]
 Um campo representando dois guerreiros presos em uma batalha ferrenha.
 O melhor momento para um confronto é agora!
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 Componentes de campo de uma floresta.
 O padrão entalhado é remanescente de relíquias antigas.
@@ -3172,7 +3175,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3462,6 +3466,9 @@ Orienta por meio do poder místico das estrelas.
 [IDS_ITEMDESC.ID1112001]
 Um pedestal de um Coliseu.
 A chama brilhante dança como se cantasse a ode dos bravos guerreiros que lutam aqui.
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 Pedestal comemorando a participação no evento MASTER DUEL do Yu-Gi-Oh! World Championship 2023.
 A aparência austera advém do prestígio da competição.
@@ -3927,6 +3934,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 Acervo de Colecionador que retrata garotas que carregam o fardo de um destino cruel.
 Dizem que ao reunir <category id='002'/>, as portas da tecnologia de ponta brilharão com fulgor.
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Uma Moeda gravada com o dragão luminoso que dá início a uma nova lenda.
 Seus olhos cerúleos brilham.

@@ -1914,6 +1914,8 @@ Stade de football
 Colisée
 [IDS_ITEM.ID1092002]
 WCS
+[IDS_ITEM.ID1092004]
+Championnat des lycées au Japon
 [IDS_ITEM.ID1100001]
 Forêt
 [IDS_ITEM.ID1100002]
@@ -2034,6 +2036,8 @@ coming soon
 Recycleur de Ferraille et Ramasse-Miettes
 [IDS_ITEM.ID1101023]
 Retour à la Case Départ
+[IDS_ITEM.ID1101024]
+coming soon
 [IDS_ITEM.ID1101025]
 Sanctuaire du Roi du Feu
 [IDS_ITEM.ID1101026]
@@ -2058,6 +2062,8 @@ Couronne
 Colisée
 [IDS_ITEM.ID1102002]
 WCS
+[IDS_ITEM.ID1102004]
+Championnat des lycées au Japon
 [IDS_ITEM.ID1110001]
 Forêt
 [IDS_ITEM.ID1110002]
@@ -2238,6 +2244,8 @@ Queudragon
 Colisée
 [IDS_ITEM.ID1112002]
 WCS
+[IDS_ITEM.ID1112004]
+Championnat des lycées au Japon
 [IDS_ITEM.ID1113001]
 Fête du WCS 2023
 [IDS_ITEM.ID1113002]
@@ -2560,6 +2568,12 @@ Mikanko
 coming soon
 [IDS_ITEM.ID1170008]
 Assaut de l'Air - As
+[IDS_ITEM.ID1170009]
+coming soon
+[IDS_ITEM.ID1170010]
+coming soon
+[IDS_ITEM.ID1170011]
+coming soon
 [IDS_ITEM.ID1180001]
 Dragon Blanc Alternatif aux Yeux Bleus
 [IDS_ITEM.ID1180002]

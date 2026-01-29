@@ -1765,7 +1765,7 @@ It was earned through victory after victory against fierce competitors in the 2n
 A Title given to Duelists who made it to the 2nd Stage in DC 2025 DEC.
 It is proof of your accomplishment in making it through the hotly contested 1st Stage.
 [IDS_ITEMDESC.ID1020195]
-A Title given to Duelists who achieved noteworthy results in the "Fusion x Synchro Festival +".
+A Title given to Duelists who achieved noteworthy results in the "<exhibition id='033'/>".
 The pride of Duelists is awoken by the cards they hold dearest.
 [IDS_ITEMDESC.ID1020196]
 A Title given to Duelists who have harnessed the power of Legendary Monsters and made a name for themselves.
@@ -2931,6 +2931,9 @@ The cheers of enthusiastic fans echo across the turf.
 [IDS_ITEMDESC.ID1092001]
 A Field depicting two warriors locked in a fierce battle.
 There's no better time for a showdown than now!
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 Field Parts from a forest.
 Its engraved pattern is reminiscent of ancient relics.
@@ -3171,7 +3174,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3461,6 +3465,9 @@ It guides you using the mystical power of the stars.
 [IDS_ITEMDESC.ID1112001]
 A Stand from a Colosseum.
 The brilliant flame dances as if singing the praise of the brave warriors who battle here.
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 A Stand commemorating participation in the MASTER DUEL event of the Yu-Gi-Oh! World Championship 2023.
 Its austere design speaks to the prestigious nature of the competition.
@@ -3926,6 +3933,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 A Collector's File depicting girls who carry the burden of a cruel fate.
  It is said that when the <category id='002'/> are gathered, the doors of cutting-edge technology will shine brightly.
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 A Coin whose motif is the luminous dragon who brings about a new legend.
 Its cerulean eyes glimmer.

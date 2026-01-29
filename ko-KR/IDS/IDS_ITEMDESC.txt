@@ -1766,7 +1766,7 @@ Yu-Gi-Oh! World Championship 2025 : MASTER DUEL 부문에서 BEST 12라는 결�
 「DC2025 DEC」에서 2nd STAGE 진출이라는 결과를 남긴 듀얼리스트에게 주어지는 칭호.
 수많은 듀얼리스트가 겨루는 1st STAGE를 뚫고, 실력을 나타낸 증표이다.
 [IDS_ITEMDESC.ID1020195]
-「퓨전 x 싱크로 페스티벌+」에서 결과를 남긴 듀얼리스트에게 주어지는 칭호.
+「<exhibition id='033'/>」에서 결과를 남긴 듀얼리스트에게 주어지는 칭호.
 영혼의 카드가 듀얼리스트의 긍지를 일깨운다.
 [IDS_ITEMDESC.ID1020196]
 전설의 몬스터들을 구사하여 결과를 남긴 듀얼리스트에게 주어지는 칭호.
@@ -2932,6 +2932,9 @@ coming soon
 [IDS_ITEMDESC.ID1092001]
 격렬한 싸움을 헤쳐나온 강자가 맞부딪히는 결투장의 필드.
 지금이야말로, 진정한 승자를 가릴때!
+[IDS_ITEMDESC.ID1092004]
+A Duel Field where young duelists clash with pride and soul.
+The time has come to fulfill the pact of destiny. With resonating bonds, seize the summit and claim the title of Japan’s high school champion!
 [IDS_ITEMDESC.ID1100001]
 숲에 설치된 필드 파츠.
 새겨진 문양은 고대의 유적을 떠올리게 한다.
@@ -3174,7 +3177,8 @@ coming soon
 [IDS_ITEMDESC.ID1102003]
 coming soon
 [IDS_ITEMDESC.ID1102004]
-coming soon
+Field parts set within the stadium.
+The fiery spirit of youth cannot be contained by any force.
 [IDS_ITEMDESC.ID1102005]
 coming soon
 [IDS_ITEMDESC.ID1102006]
@@ -3465,6 +3469,9 @@ coming soon
 [IDS_ITEMDESC.ID1112001]
 콜로세움에 설치된 대좌.
 눈부시게 타오르는 불꽃은, 그곳에 선 자의 영예를 기린다.
+[IDS_ITEMDESC.ID1112004]
+A Stand from a Stadium.
+Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113001]
 Yu-Gi-Oh! World Championship 2023 MASTER DUEL 부문 출전을 기념한 대좌.
 엄숙한 디자인은, 대회 격식의 높이를 말해준다.
@@ -3934,6 +3941,12 @@ coming soon
 [IDS_ITEMDESC.ID1170008]
 가혹한 운명을 짊어진 소녀들의 컬렉터즈 파일.
 <category id='002'/>을(를) 모았을 때, 초과학의 문이 빛난다고 한다.
+[IDS_ITEMDESC.ID1170009]
+coming soon
+[IDS_ITEMDESC.ID1170010]
+coming soon
+[IDS_ITEMDESC.ID1170011]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 새로운 전설을 만들어내는 하얀 드래곤을 모티브로 한 코인.
 푸른 눈이 반짝이며 빛난다.

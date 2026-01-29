@@ -542,6 +542,22 @@ coming soon
 ミラクル・レイヴン－供物の儀式－
 [IDS_ITEM.ID1010131]
 ガガガ学園の緊急連絡網
+[IDS_ITEM.ID1010132]
+coming soon
+[IDS_ITEM.ID1010133]
+coming soon
+[IDS_ITEM.ID1010134]
+coming soon
+[IDS_ITEM.ID1010135]
+coming soon
+[IDS_ITEM.ID1010136]
+coming soon
+[IDS_ITEM.ID1010137]
+coming soon
+[IDS_ITEM.ID1010138]
+coming soon
+[IDS_ITEM.ID1010139]
+coming soon
 [IDS_ITEM.ID1011001]
 サッカーボール
 [IDS_ITEM.ID1011002]
@@ -672,6 +688,12 @@ DC2025 DEC　ゴールドファイナリスト
 DC2025 DEC　シルバーファイナリスト
 [IDS_ITEM.ID1011065]
 DC2025 DEC　ブロンズファイナリスト
+[IDS_ITEM.ID1011066]
+coming soon
+[IDS_ITEM.ID1011067]
+coming soon
+[IDS_ITEM.ID1011068]
+coming soon
 [IDS_ITEM.ID1012001]
 エクスクローラー・シナプシス
 [IDS_ITEM.ID1012002]
@@ -1286,6 +1308,18 @@ DC2025 DEC 2nd STAGE進出
 CEO
 [IDS_ITEM.ID1020197]
 天地人
+[IDS_ITEM.ID1020198]
+coming soon
+[IDS_ITEM.ID1020199]
+coming soon
+[IDS_ITEM.ID1020200]
+coming soon
+[IDS_ITEM.ID1020201]
+coming soon
+[IDS_ITEM.ID1020202]
+coming soon
+[IDS_ITEM.ID1020203]
+coming soon
 [IDS_ITEM.ID1021001]
 盤石の布陣
 [IDS_ITEM.ID1021002]
@@ -1472,6 +1506,12 @@ Aiラブ融合
 coming soon
 [IDS_ITEM.ID1031020]
 P.U.N.K.JAM FEVER！
+[IDS_ITEM.ID1031021]
+coming soon
+[IDS_ITEM.ID1031022]
+coming soon
+[IDS_ITEM.ID1031023]
+coming soon
 [IDS_ITEM.ID1032001]
 祝祭のオーナメント
 [IDS_ITEM.ID1032002]
@@ -1831,6 +1871,32 @@ DDDD偉次元王アーク・クライシス
 [IDS_ITEM.ID1070149]
 超時空戦闘機ビック・バイパー
 [IDS_ITEM.ID1070150]
+coming soon
+[IDS_ITEM.ID1070151]
+coming soon
+[IDS_ITEM.ID1070152]
+coming soon
+[IDS_ITEM.ID1070153]
+coming soon
+[IDS_ITEM.ID1070154]
+coming soon
+[IDS_ITEM.ID1070155]
+coming soon
+[IDS_ITEM.ID1070156]
+coming soon
+[IDS_ITEM.ID1070157]
+coming soon
+[IDS_ITEM.ID1070158]
+coming soon
+[IDS_ITEM.ID1070159]
+coming soon
+[IDS_ITEM.ID1070160]
+coming soon
+[IDS_ITEM.ID1070161]
+coming soon
+[IDS_ITEM.ID1070162]
+coming soon
+[IDS_ITEM.ID1070163]
 coming soon
 [IDS_ITEM.ID1071001]
 天穹のパラディオン
@@ -2237,7 +2303,7 @@ ID=1081013
 [IDS_ITEM.ID1081014]
 ID=1081014
 [IDS_ITEM.ID1081015]
-coming soon
+シンクロカップ
 [IDS_ITEM.ID1081016]
 ID=1081016
 [IDS_ITEM.ID1081017]
@@ -2390,6 +2456,8 @@ coming soon
 coming soon
 [IDS_ITEM.ID1090040]
 フットボールスタジアム
+[IDS_ITEM.ID1090041]
+coming soon
 [IDS_ITEM.ID1092001]
 コロシアム
 [IDS_ITEM.ID1092002]
@@ -2397,7 +2465,7 @@ WCS
 [IDS_ITEM.ID1092003]
 coming soon
 [IDS_ITEM.ID1092004]
-coming soon
+高校生日本一決定戦
 [IDS_ITEM.ID1092005]
 coming soon
 [IDS_ITEM.ID1092006]
@@ -2502,6 +2570,8 @@ coming soon
 coming soon
 [IDS_ITEM.ID1100040]
 フットボールスタジアム
+[IDS_ITEM.ID1100041]
+coming soon
 [IDS_ITEM.ID1101001]
 落とし穴
 [IDS_ITEM.ID1101002]
@@ -2601,7 +2671,7 @@ WCS
 [IDS_ITEM.ID1102003]
 coming soon
 [IDS_ITEM.ID1102004]
-coming soon
+高校生日本一決定戦
 [IDS_ITEM.ID1102005]
 coming soon
 [IDS_ITEM.ID1102006]
@@ -2706,6 +2776,8 @@ coming soon
 coming soon
 [IDS_ITEM.ID1110040]
 フットボールスタジアム
+[IDS_ITEM.ID1110041]
+coming soon
 [IDS_ITEM.ID1111001]
 ウィジャ盤
 [IDS_ITEM.ID1111002]
@@ -2856,6 +2928,16 @@ coming soon
 coming soon
 [IDS_ITEM.ID1111075]
 coming soon
+[IDS_ITEM.ID1111076]
+coming soon
+[IDS_ITEM.ID1111077]
+coming soon
+[IDS_ITEM.ID1111078]
+coming soon
+[IDS_ITEM.ID1111079]
+coming soon
+[IDS_ITEM.ID1111080]
+coming soon
 [IDS_ITEM.ID1112001]
 コロシアム
 [IDS_ITEM.ID1112002]
@@ -2863,7 +2945,7 @@ WCS2023 出場記念
 [IDS_ITEM.ID1112003]
 coming soon
 [IDS_ITEM.ID1112004]
-coming soon
+高校生日本一決定戦
 [IDS_ITEM.ID1112005]
 coming soon
 [IDS_ITEM.ID1112006]
@@ -3188,6 +3270,34 @@ coming soon
 coming soon
 [IDS_ITEM.ID1130110]
 coming soon
+[IDS_ITEM.ID1130111]
+coming soon
+[IDS_ITEM.ID1130112]
+coming soon
+[IDS_ITEM.ID1130113]
+coming soon
+[IDS_ITEM.ID1130114]
+coming soon
+[IDS_ITEM.ID1130115]
+coming soon
+[IDS_ITEM.ID1130116]
+coming soon
+[IDS_ITEM.ID1130117]
+coming soon
+[IDS_ITEM.ID1130118]
+coming soon
+[IDS_ITEM.ID1130119]
+coming soon
+[IDS_ITEM.ID1130120]
+coming soon
+[IDS_ITEM.ID1130121]
+coming soon
+[IDS_ITEM.ID1130122]
+coming soon
+[IDS_ITEM.ID1130123]
+coming soon
+[IDS_ITEM.ID1130124]
+coming soon
 [IDS_ITEM.ID1132001]
 レスキューラビット
 [IDS_ITEM.ID1132002]
@@ -3234,6 +3344,12 @@ coming soon
 coming soon
 [IDS_ITEM.ID1170008]
 閃刀姫
+[IDS_ITEM.ID1170009]
+coming soon
+[IDS_ITEM.ID1170010]
+coming soon
+[IDS_ITEM.ID1170011]
+coming soon
 [IDS_ITEM.ID1180001]
 青眼の亜白龍
 [IDS_ITEM.ID1180002]
