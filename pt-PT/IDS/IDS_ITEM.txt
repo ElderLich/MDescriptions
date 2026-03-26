@@ -154,6 +154,8 @@ Fantasma Belle & Mansão Assombrada
 Tartaruga-Gema
 [IDS_ITEM.ID1001038]
 Lurrie Mitológico
+[IDS_ITEM.ID1001040]
+Engenhoca Marionete Cabeça de Ovo
 [IDS_ITEM.ID1002001]
 Bola de Futebol
 [IDS_ITEM.ID1002002]
@@ -454,10 +456,16 @@ Rede de Emergência da Academia Gagaga
 Graflare de Artmage
 [IDS_ITEM.ID1010133]
 Tufão Radiante Meghala
+[IDS_ITEM.ID1010134]
+HERÓI do Destino - Plasma
 [IDS_ITEM.ID1010136]
 Vaca
+[IDS_ITEM.ID1010137]
+Florescer Vermelho de Raiz Inferior
 [IDS_ITEM.ID1010138]
 Mago Negro
+[IDS_ITEM.ID1010139]
+Sangan
 [IDS_ITEM.ID1011001]
 Bola de Futebol
 [IDS_ITEM.ID1011002]
@@ -1318,6 +1326,8 @@ Izuna K9-17
 FEBRE P.U.N.K. JAM!
 [IDS_ITEM.ID1031021]
 Tufão Espacial Místico
+[IDS_ITEM.ID1031022]
+Mudar a Máscara II
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1654,6 +1664,8 @@ Segredos da Magia Negra
 Elfa Spright
 [IDS_ITEM.ID1070154]
 Tufão Espacial Místico
+[IDS_ITEM.ID1070155]
+Fusão do Destino
 [IDS_ITEM.ID1070157]
 Live☆Gêmea Lil-la Doce
 [IDS_ITEM.ID1070158]
@@ -1662,6 +1674,8 @@ Guerreiro Sucata Extremo
 Contagem de Bichos do Imperador Tanuki
 [IDS_ITEM.ID1070160]
 Ativar Modo de Ataque
+[IDS_ITEM.ID1070161]
+Atômico, o HERÓI Mascarado
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1924,6 +1938,8 @@ Diabellstar, a Bruxa Negra
 Labrinto
 [IDS_ITEM.ID1082026]
 "Um Caso para K9"
+[IDS_ITEM.ID1082027]
+Prisão da Torre do Relógio
 [IDS_ITEM.ID1083001]
 Branco e Azul
 [IDS_ITEM.ID1090001]
@@ -2656,10 +2672,14 @@ Explosão Gama Spright
 Clériga com Asas da Noite
 [IDS_ITEM.ID1130115]
 Tufão Radiante Fonix, a Grande Chama
+[IDS_ITEM.ID1130116]
+HERÓI do Destino - Fênix Executora Destruidora
 [IDS_ITEM.ID1130118]
 Júpiter, o Patrono do Poder da Destruição
 [IDS_ITEM.ID1130119]
 Espiral Dominus
+[IDS_ITEM.ID1130120]
+Lei Obscura, o HERÓI Mascarado
 [IDS_ITEM.ID1130124]
 I:P Mascarena & S:P Pequena Cavaleira
 [IDS_ITEM.ID1132001]
@@ -2703,7 +2723,7 @@ Força Celeste - Ás
 [IDS_ITEM.ID1170009]
 Mago Negro
 [IDS_ITEM.ID1170010]
-coming soon
+HERÓI do Destino
 [IDS_ITEM.ID1170011]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -2741,7 +2761,7 @@ EM:P Minamiau
 [IDS_ITEM.ID1180017]
 Mago Negro
 [IDS_ITEM.ID1180018]
-coming soon
+HERÓI do Destino
 [IDS_ITEM.ID1180019]
 coming soon
 [IDS_ITEM.ID1180020]

@@ -277,11 +277,11 @@ Glanztaifun
 [IDS_CATEGORY.NAME_139]
 Gouki
 [IDS_CATEGORY.NAME_140]
-coming soon
+Maskierter HELD
 [IDS_CATEGORY.NAME_141]
-coming soon
+Magnetkrieger
 [IDS_CATEGORY.NAME_142]
-coming soon
+Erzunterweltler
 [IDS_CATEGORY.NAME_143]
 coming soon
 [IDS_CATEGORY.NAME_144]
@@ -319,7 +319,7 @@ Morphtronisch
 [IDS_CATEGORY.NAME_160]
 Parshath
 [IDS_CATEGORY.NAME_161]
-coming soon
+Schicksals-HELD
 [IDS_CATEGORY.NAME_162]
 coming soon
 [IDS_CATEGORY.NAME_163]

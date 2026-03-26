@@ -236,7 +236,8 @@ Este monstruo vigila el mundo humano bajo las órdenes del Dominio Rugiente.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
-coming soon
+Un muñeco mecánico, grotesco y terrorífico.
+Te atrae con su actitud amable y, de repente, un horrible ser te ataca desde sus adentros.
 [IDS_ITEMDESC.ID1001041]
 coming soon
 [IDS_ITEMDESC.ID1001042]
@@ -753,12 +754,21 @@ Aunque es apasionado y audaz, siempre sigue las reglas.
 [IDS_ITEMDESC.ID1010133]
 Un icono que representa a la joven de "<card mrk='21827'/>", que sirve como receptáculo de un dios.
 Venera las tormentas e invoca el poder del dios del viento que hay en su interior.
+[IDS_ITEMDESC.ID1010134]
+Un icono que representa a <category id='161'/>, conocido como el D definitivo.
+Su poder definitivo oculto puede cambiar el destino cuando la cosa va mal.
 [IDS_ITEMDESC.ID1010136]
 Un icono que representa a una vaca flotando en el aire.
 Los temibles vientos mandan todo lo que hay en la zona por los aires.
+[IDS_ITEMDESC.ID1010137]
+Un icono que representa a una niña con una terrible guadaña.
+Por ahora, está sentada a los pies de un bonito cerezo.
 [IDS_ITEMDESC.ID1010138]
 Un icono que representa a un mago con un poder mágico inigualable.
 El círculo mágico que dibujó llevó al legendario Rey de los Duelos a la victoria.
+[IDS_ITEMDESC.ID1010139]
+Un icono que representa a un pequeño diablo de tres ojos.
+Desaparece después de partir en un viaje de vuelta al inframundo.
 [IDS_ITEMDESC.ID1011001]
 Un icono que representa una pelota con cuadros negros y blancos.
 Ganar 3 Duelos seguidos no se llama "hat-trick".
@@ -2037,6 +2047,9 @@ La danza shishimai, que combina todos los elementos imaginables, se ha convertid
 [IDS_ITEMDESC.ID1031021]
 Un marco de icono que evoca una feroz tormenta en la que irrumpe un potente trueno.
 Las ráfagas de viento protegen de cualquier amenaza externa.
+[IDS_ITEMDESC.ID1031022]
+Un marco de icono que evoca la transformación de un héroe.
+El conjunto de formas distintas representa la variedad de tácticas que tiene su arsenal.
 [IDS_ITEMDESC.ID1032001]
 Un marco de icono con forma de adorno circular que se puede ver en ciertas regiones a medida que el año se acerca a su fin.
 Se cuelgan con un deseo sincero de felicidad y alegría para los tiempos venideros.
@@ -2539,6 +2552,9 @@ Para aquellos con un resplandor incontrolable.
 [IDS_ITEMDESC.ID1070154]
 Protectores que representan una violenta tormenta en la que irrumpen numerosos rayos.
 Para quienes creen en los golpes veloces.
+[IDS_ITEMDESC.ID1070155]
+Protectores que representan el brillo de destinos que se cruzan.
+Para quienes sobrevivan al destino.
 [IDS_ITEMDESC.ID1070157]
 Protectores que muestran un streamer monísimo vestido de forma especial.
 Para aquellos que se enfrentan al mundo con el rostro impasible.
@@ -2551,6 +2567,9 @@ Para quienes rezan por su crecimiento personal y felicidad.
 [IDS_ITEMDESC.ID1070160]
 Protectores que muestran lo que yace tras la Invocación por Sincronía.
 Para quienes buscan nuevos horizontes.
+[IDS_ITEMDESC.ID1070161]
+Protectores que representan a un héroe invocado mediante la transformación.
+Para quienes buscan un Deck que les pertenezca.
 [IDS_ITEMDESC.ID1071001]
 Protectores que ilustran a un guerrero que ha madurado y guarda en su corazón las cicatrices de las batallas. 
 Perfectos para los que siempre quieren lo mejor para sus amigos.
@@ -2942,6 +2961,9 @@ Perfecta para Decks repletos de Cartas de Trampa.
 [IDS_ITEMDESC.ID1082026]
 Una caja de cartas que representa a <card mrk='21385'/>.
 Perfecta para Decks que resuelven crímenes sobrenaturales.
+[IDS_ITEMDESC.ID1082027]
+Una caja de cartas que representa a "<card mrk='6668'/>".
+Recomendada para un Deck que labre su propio destino.
 [IDS_ITEMDESC.ID1083001]
 Una caja de cartas exclusiva que se ofrece en ocasiones especiales.
 [IDS_ITEMDESC.ID1090001]
@@ -4052,12 +4074,18 @@ Esta imagen de ella representa su futuro como sacerdotisa que brinda apoyo.
 [IDS_ITEMDESC.ID1130115]
 El dios supremo de las tormentas libera una tremenda hecatombe.
 Con su poder, cambia el tiempo de todo el mundo a su voluntad.
+[IDS_ITEMDESC.ID1130116]
+<category id='161'/> es capaz de quebrar el mismo destino.
+Como un fénix inmortal que sobrevive a la muerte, regresa del campo de batalla una vez más.
 [IDS_ITEMDESC.ID1130118]
 "<card mrk='21810'/>", uno de los dioses del reino espiritual.
 Libera el poder de "<card mrk='21777'/>" y sus devastadores rayos verdes en el mundo.
 [IDS_ITEMDESC.ID1130119]
 Una enorme bestia ruge en respuesta al temible alarido.
 La furia de la naturaleza resuena por todo el terreno golpeando con feroces vendavales.
+[IDS_ITEMDESC.ID1130120]
+Uno de los héroes invocados mediante la transformación.
+Sus potentes patadas voladoras pueden atravesar sin esfuerzo a su objetivo.
 [IDS_ITEMDESC.ID1130124]
 La "perseguidora" y la "perseguida" buscan un nuevo futuro.
 La senda que recorrerán con sus ideales sigue siendo un misterio.
@@ -4119,7 +4147,8 @@ Cuentan que cuando los <category id='002'/> se reúnan, las puertas de la tecnol
 Un Archivo de Coleccionista que representa al mago de mayor confianza del legendario Rey de los Duelos.
 Cuentan que cuando los <category id='072'/> se reúnan, las puertas de la magia negra resplandecerán.
 [IDS_ITEMDESC.ID1170010]
-coming soon
+Un Archivo de Coleccionista para un héroe que soporte el peso del destino.
+Dicen que, al conseguir a <category id='161'/>, brillará la puerta hacia el D definitivo.
 [IDS_ITEMDESC.ID1170011]
 coming soon
 [IDS_ITEMDESC.ID1180001]
@@ -4170,7 +4199,8 @@ Parece brillar con osadía y confianza.
 Una moneda cuyo motivo es un mago que conoce la magia negra.
 Su tremendo poder mágico brilla intensamente.
 [IDS_ITEMDESC.ID1180018]
-coming soon
+Una moneda que representa el emblema de un héroe que soporta el peso del destino.
+El símbolo de la "D" brilla con fuerza.
 [IDS_ITEMDESC.ID1180019]
 coming soon
 [IDS_ITEMDESC.ID1180020]

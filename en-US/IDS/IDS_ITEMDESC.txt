@@ -236,7 +236,8 @@ They survey the human world on orders from the Roaring Domain.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
-coming soon
+A grotesque, mechanical nightmare doll.
+It charms you with a gentlemanly act, then tears open its own body to attack in a hideous form.
 [IDS_ITEMDESC.ID1001041]
 coming soon
 [IDS_ITEMDESC.ID1001042]
@@ -753,12 +754,21 @@ Though passionate and bold, he always follows the rules.
 [IDS_ITEMDESC.ID1010133]
 An Icon depicting the young girl from "<card mrk='21827'/>" who serves as a vessel for a god.
 She worships storms as she calls upon the power of the wind god within her.
+[IDS_ITEMDESC.ID1010134]
+An Icon depicting <category id='161'/>, known as the Ultimate D.
+Its hidden ultimate power can overturn a fate of certain defeat.
 [IDS_ITEMDESC.ID1010136]
 An Icon depicting a cow that has been carried high into the air.
 The fearsome winds sweep everything in the area skyward.
+[IDS_ITEMDESC.ID1010137]
+An Icon depicting a girl holding an ominous great scythe.
+For now, she sits at the base of a beautiful pink cherry blossom tree.
 [IDS_ITEMDESC.ID1010138]
 An Icon depicting a wizard of unparalleled magical power.
 The magical circle he drew led the legendary King of Games to victory.
+[IDS_ITEMDESC.ID1010139]
+An Icon depicting a small, three-eyed devil.
+It goes missing after setting out on a trip home to the underworld.
 [IDS_ITEMDESC.ID1011001]
 An Icon depicting a ball made of black and white panels.
 Winning 3 Duels in a row is not called a hat-trick.
@@ -2038,6 +2048,9 @@ The Shishimai Dance, combining every conceivable element, is etched into legend.
 [IDS_ITEMDESC.ID1031021]
 An Icon Frame evoking a ferocious storm pierced by a bolt of lightning.
 The gusts of wind defend against outside threats.
+[IDS_ITEMDESC.ID1031022]
+An Icon Frame reminiscent of a hero's transformation.
+The many different forms represent the variety of tactics in his arsenal.
 [IDS_ITEMDESC.ID1032001]
 An Icon Frame in the shape of a circular decoration, which can be seen in a certain region as the year draws to a close.
 They are hung with the sincere wish for happiness and joy in times to come.
@@ -2539,6 +2552,9 @@ For those with uncontainable radiance.
 [IDS_ITEMDESC.ID1070154]
 Protectors depicting a violent storm pierced through with lightning.
 For those who believe in striking quickly.
+[IDS_ITEMDESC.ID1070155]
+Protectors that depict the radiance of intersecting destinies.
+For those who transcend fate.
 [IDS_ITEMDESC.ID1070157]
 Protectors depicting an ultra-cute streamer in a special outfit.
 For those who take on the world with a deadpan face.
@@ -2551,6 +2567,9 @@ For those who pray for personal growth and happiness.
 [IDS_ITEMDESC.ID1070160]
 Protectors depicting what lies beyond Synchro Summoning.
 For those who seek out new horizons.
+[IDS_ITEMDESC.ID1070161]
+Protectors that depict a hero summoned through transformation.
+For those who seek a Deck of their very own.
 [IDS_ITEMDESC.ID1071001]
 Protectors that illustrate a warrior who has matured and taken the scars etched in his heart during battles. 
 Perfect for those who always want the best for their dear friends.
@@ -2942,6 +2961,9 @@ Perfect for Decks filled with plenty of Trap Cards.
 [IDS_ITEMDESC.ID1082026]
 A Card Case depicting <card mrk='21385'/>.
 Perfect for Decks that crack down on supernatural crime.
+[IDS_ITEMDESC.ID1082027]
+A Card Case depicting "<card mrk='6668'/>".
+Recommended for a Deck that carves its own destiny.
 [IDS_ITEMDESC.ID1083001]
 An exclusive Card Case offered on special occasions.
 [IDS_ITEMDESC.ID1090001]
@@ -4053,12 +4075,18 @@ This image of her depicts her future as a supportive cleric.
 [IDS_ITEMDESC.ID1130115]
 The supreme god of storms unleashes a fiery inferno.
 With its power, it freely changes the weather throughout the world.
+[IDS_ITEMDESC.ID1130116]
+<category id='161'/> shatters even fate itself.
+Like an immortal phoenix transcending death, it returns to the battlefield once more.
 [IDS_ITEMDESC.ID1130118]
 "<card mrk='21810'/>", one of the gods of the spirit realm.
 It unleashed "<card mrk='21777'/>", crackling with green lightning, upon the world.
 [IDS_ITEMDESC.ID1130119]
 A massive beast roars in response to the mighty shriek.
 Nature's fury echoes throughout the land in swirling eddies.
+[IDS_ITEMDESC.ID1130120]
+One of the heroes summoned through transformation.
+A flying kick unleashed from its powerful legs blasts a hole clean through the target.
 [IDS_ITEMDESC.ID1130124]
 "The pursuer" and the "the pursued" seize a new future.
 The path they'll shape from their ideals remains a mystery.
@@ -4120,7 +4148,8 @@ A Collector's File depicting girls who carry the burden of a cruel fate.
 A Collector's File featuring the magician most trusted by the legendary King of Games.
 It is said that when the <category id='072'/> are gathered, the doors of black magic will shine brightly.
 [IDS_ITEMDESC.ID1170010]
-coming soon
+A Collector's File for a hero bearing the weight of destiny.
+They say that when you gather <category id='161'/>, the door to Ultimate D will shine.
 [IDS_ITEMDESC.ID1170011]
 coming soon
 [IDS_ITEMDESC.ID1180001]
@@ -4172,7 +4201,8 @@ Its daring expression gleams with confidence.
 A Coin whose motif is a magician wielding black magic.
 Its supreme magical power shines brightly.
 [IDS_ITEMDESC.ID1180018]
-coming soon
+A Coin depicting the emblem of a hero bearing the weight of destiny.
+The "D" symbol glitters brightly.
 [IDS_ITEMDESC.ID1180019]
 coming soon
 [IDS_ITEMDESC.ID1180020]

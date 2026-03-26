@@ -277,11 +277,11 @@ K9(케이나인)
 [IDS_CATEGORY.NAME_139]
 강귀
 [IDS_CATEGORY.NAME_140]
-coming soon
+마스크드 히어로
 [IDS_CATEGORY.NAME_141]
-coming soon
+마그넷 워리어
 [IDS_CATEGORY.NAME_142]
-coming soon
+데몬
 [IDS_CATEGORY.NAME_143]
 coming soon
 [IDS_CATEGORY.NAME_144]
@@ -319,7 +319,7 @@ D(디포머)
 [IDS_CATEGORY.NAME_160]
 파샤스
 [IDS_CATEGORY.NAME_161]
-coming soon
+데스티니 히어로
 [IDS_CATEGORY.NAME_162]
 coming soon
 [IDS_CATEGORY.NAME_163]

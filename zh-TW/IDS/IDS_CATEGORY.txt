@@ -277,11 +277,11 @@ K9
 [IDS_CATEGORY.NAME_139]
 剛鬼
 [IDS_CATEGORY.NAME_140]
-coming soon
+假面－英雄
 [IDS_CATEGORY.NAME_141]
-coming soon
+磁石戰士
 [IDS_CATEGORY.NAME_142]
-coming soon
+惡魔
 [IDS_CATEGORY.NAME_143]
 coming soon
 [IDS_CATEGORY.NAME_144]
@@ -319,7 +319,7 @@ coming soon
 [IDS_CATEGORY.NAME_160]
 珀耳修斯
 [IDS_CATEGORY.NAME_161]
-coming soon
+命運－英雄
 [IDS_CATEGORY.NAME_162]
 coming soon
 [IDS_CATEGORY.NAME_163]

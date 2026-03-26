@@ -277,11 +277,11 @@ Radiant Typhoon
 [IDS_CATEGORY.NAME_139]
 Gouki
 [IDS_CATEGORY.NAME_140]
-coming soon
+Masked HERO
 [IDS_CATEGORY.NAME_141]
-coming soon
+Magnet Warrior
 [IDS_CATEGORY.NAME_142]
-coming soon
+Archfiend
 [IDS_CATEGORY.NAME_143]
 coming soon
 [IDS_CATEGORY.NAME_144]
@@ -319,7 +319,7 @@ Morphtronic
 [IDS_CATEGORY.NAME_160]
 Parshath
 [IDS_CATEGORY.NAME_161]
-coming soon
+Destiny HERO
 [IDS_CATEGORY.NAME_162]
 coming soon
 [IDS_CATEGORY.NAME_163]

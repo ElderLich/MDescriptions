@@ -277,11 +277,11 @@ Tifone Radiante
 [IDS_CATEGORY.NAME_139]
 Gouki
 [IDS_CATEGORY.NAME_140]
-coming soon
+EROE Mascherato
 [IDS_CATEGORY.NAME_141]
-coming soon
+Guerriero Magnetico
 [IDS_CATEGORY.NAME_142]
-coming soon
+Arcidemone
 [IDS_CATEGORY.NAME_143]
 coming soon
 [IDS_CATEGORY.NAME_144]
@@ -319,7 +319,7 @@ Morfotronico
 [IDS_CATEGORY.NAME_160]
 Parshath
 [IDS_CATEGORY.NAME_161]
-coming soon
+EROE del Destino
 [IDS_CATEGORY.NAME_162]
 coming soon
 [IDS_CATEGORY.NAME_163]

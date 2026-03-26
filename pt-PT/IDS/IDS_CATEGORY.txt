@@ -277,11 +277,11 @@ Tufão Radiante
 [IDS_CATEGORY.NAME_139]
 Gouki
 [IDS_CATEGORY.NAME_140]
-coming soon
+HERÓI Mascarado
 [IDS_CATEGORY.NAME_141]
-coming soon
+Guerreiro Ímã
 [IDS_CATEGORY.NAME_142]
-coming soon
+Arquidemônio
 [IDS_CATEGORY.NAME_143]
 coming soon
 [IDS_CATEGORY.NAME_144]
@@ -319,7 +319,7 @@ Morfotrônico(a)
 [IDS_CATEGORY.NAME_160]
 Parshath
 [IDS_CATEGORY.NAME_161]
-coming soon
+HERÓI do Destino
 [IDS_CATEGORY.NAME_162]
 coming soon
 [IDS_CATEGORY.NAME_163]

@@ -253,7 +253,8 @@ coming soon
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
-coming soon
+機械仕掛けの奇怪な地獄人形。
+紳士的に魅せて自らの身体を割き、悍ましい姿で攻撃する。
 [IDS_ITEMDESC.ID1001041]
 coming soon
 [IDS_ITEMDESC.ID1001042]
@@ -771,19 +772,22 @@ coming soon
 「<card mrk='21827'/>」にて神を宿した少女の姿が描かれたアイコン。
 嵐を信奉し、風神をその身に宿して権能を振るう。
 [IDS_ITEMDESC.ID1010134]
-coming soon
+究極のDと呼ばれる<category id='161'/>の姿が描かれたアイコン。
+秘められた究極の力で敗北の運命すら覆す。
 [IDS_ITEMDESC.ID1010135]
 coming soon
 [IDS_ITEMDESC.ID1010136]
 吹き飛ばされる牛の姿が描かれたアイコン。
 凄まじい突風が周囲一帯を巻き上げる。
 [IDS_ITEMDESC.ID1010137]
-coming soon
+禍々しい大鎌を持つ少女の姿が描かれたアイコン。
+今はまだ美しい桃色の桜の木の根本に座している。
 [IDS_ITEMDESC.ID1010138]
 最高クラスの魔力を持つ魔法使いの姿が描かれたアイコン。
 彼が描く魔導陣は、伝説の決闘王を勝利に導いた。
 [IDS_ITEMDESC.ID1010139]
-coming soon
+三つ眼の小さな悪魔が描かれたアイコン。
+自身のルーツである魔界旅行をきっかけに行方不明になってしまう。
 [IDS_ITEMDESC.ID1011001]
 白と黒のパネルで構成されたボールが描かれたアイコン。
 デュエルで３連勝してもハットトリックとは言わない。
@@ -2172,7 +2176,8 @@ coming soon
 稲妻走る暴風を想起させるアイコンフレーム。
 吹き付ける突風が外敵から身を護る。
 [IDS_ITEMDESC.ID1031022]
-coming soon
+ヒーローの変身を想起させるアイコンフレーム。
+様々なフォームは多彩な戦術を持つことを表している。
 [IDS_ITEMDESC.ID1031023]
 coming soon
 [IDS_ITEMDESC.ID1032001]
@@ -2709,7 +2714,8 @@ coming soon
 迅雷伴う暴風がデザインされたプロテクター。
 速攻を信条とするあなたに。
 [IDS_ITEMDESC.ID1070155]
-coming soon
+運命が交差する輝きがデザインされたプロテクター。
+さだめを超越するあなたに。
 [IDS_ITEMDESC.ID1070156]
 coming soon
 [IDS_ITEMDESC.ID1070157]
@@ -2725,7 +2731,8 @@ coming soon
 シンクロ召喚のその先へ至る姿がデザインされたプロテクター。
 境地を求めるあなたに。
 [IDS_ITEMDESC.ID1070161]
-coming soon
+変身によって召喚されるヒーローの姿がデザインされたプロテクター。
+オレ自身のデッキを求めるあなたに。
 [IDS_ITEMDESC.ID1070162]
 coming soon
 [IDS_ITEMDESC.ID1070163]
@@ -3329,7 +3336,8 @@ coming soon
 <card mrk='21385'/>がデザインされたカードケース。
 異能犯罪を取り締まるデッキにおススメ。
 [IDS_ITEMDESC.ID1082027]
-coming soon
+「<card mrk='6668'/>」がデザインされたカードケース。
+運命を刻むデッキにおススメ。
 [IDS_ITEMDESC.ID1082028]
 coming soon
 [IDS_ITEMDESC.ID1083001]
@@ -4566,7 +4574,8 @@ coming soon
 豪炎を巻き起こす嵐の神々の最高神。
 世界を様々な天候へと自在に変化させる。
 [IDS_ITEMDESC.ID1130116]
-coming soon
+運命すら破壊する<category id='161'/>。
+死を超越した不死鳥のように再び戦場へ舞い戻る。
 [IDS_ITEMDESC.ID1130117]
 coming soon
 [IDS_ITEMDESC.ID1130118]
@@ -4576,7 +4585,8 @@ coming soon
 その叫びに応え、咆哮する巨躯なる獣。
 螺旋状に放たれる大自然の雄叫びが大地に響く。
 [IDS_ITEMDESC.ID1130120]
-coming soon
+変身によって召喚されるヒーローの一体。
+強靭なる脚力から放たれる飛び蹴りが対象に風穴を開ける。
 [IDS_ITEMDESC.ID1130121]
 coming soon
 [IDS_ITEMDESC.ID1130122]
@@ -4650,7 +4660,8 @@ coming soon
 伝説の決闘王が最も信頼する魔導師のコレクトファイル。
 <category id='072'/>を集めし時、黒魔術の扉が輝くという。
 [IDS_ITEMDESC.ID1170010]
-coming soon
+運命を背負ったヒーローのコレクトファイル。
+<category id='161'/>を集めし時、究極のDの扉が輝くという。
 [IDS_ITEMDESC.ID1170011]
 coming soon
 [IDS_ITEMDESC.ID1180001]
@@ -4703,7 +4714,8 @@ coming soon
 黒魔術を操る魔導師の姿をモチーフとしたコイン
 最高クラスの魔法の力がキラリと光る。
 [IDS_ITEMDESC.ID1180018]
-coming soon
+運命を背負ったヒーローのマークをモチーフとしたコイン。
+Dのシンボルがキラリと光る。
 [IDS_ITEMDESC.ID1180019]
 coming soon
 [IDS_ITEMDESC.ID1180020]

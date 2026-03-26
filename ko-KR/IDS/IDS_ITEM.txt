@@ -154,6 +154,8 @@ PSY프레임기어 γ
 젬터틀
 [IDS_ITEM.ID1001038]
 마굉신 루리
+[IDS_ITEM.ID1001040]
+기믹 퍼핏－폭탄 에그
 [IDS_ITEM.ID1002001]
 축구공
 [IDS_ITEM.ID1002002]
@@ -454,10 +456,16 @@ K9－17호 이즈나
 아르토메기아 그라플레어
 [IDS_ITEM.ID1010133]
 현람한 메가라
+[IDS_ITEM.ID1010134]
+데스티니 히어로 블루－D
 [IDS_ITEM.ID1010136]
 소
+[IDS_ITEM.ID1010137]
+붉은 벚꽃
 [IDS_ITEM.ID1010138]
 블랙 매지션
+[IDS_ITEM.ID1010139]
+크리터
 [IDS_ITEM.ID1011001]
 축구공
 [IDS_ITEM.ID1011002]
@@ -1318,6 +1326,8 @@ K9－17호 이즈나
 P.U.N.K.JAM FEVER!
 [IDS_ITEM.ID1031021]
 싸이크론
+[IDS_ITEM.ID1031022]
+마스크 체인지 세컨드
 [IDS_ITEM.ID1032001]
 축제의 오너먼트
 [IDS_ITEM.ID1032002]
@@ -1654,6 +1664,8 @@ K9－ØØ호 루푸스
 스프라이트 엘프
 [IDS_ITEM.ID1070154]
 싸이크론
+[IDS_ITEM.ID1070155]
+퓨전 데스티니
 [IDS_ITEM.ID1070157]
 Live☆Twin 리일라 스위트
 [IDS_ITEM.ID1070158]
@@ -1662,6 +1674,8 @@ Live☆Twin 리일라 스위트
 너구러운 너구리부부
 [IDS_ITEM.ID1070160]
 버스터 모드
+[IDS_ITEM.ID1070161]
+마스크드 히어로 아토믹
 [IDS_ITEM.ID1071001]
 천궁의 파라디온
 [IDS_ITEM.ID1071002]
@@ -1924,6 +1938,8 @@ Yum☆Yum☆야미즈
 라뷰린스
 [IDS_ITEM.ID1082026]
 “Case of K9”
+[IDS_ITEM.ID1082027]
+유옥의 시계탑
 [IDS_ITEM.ID1083001]
 화이트 & 블루
 [IDS_ITEM.ID1090001]
@@ -2656,10 +2672,14 @@ K9－EX “Werewolf”
 나이트윙 프리스트
 [IDS_ITEM.ID1130115]
 현람호화 포닉스
+[IDS_ITEM.ID1130116]
+데스티니 히어로 디스트로이 피닉스 가이
 [IDS_ITEM.ID1130118]
 괴감옥신 유피테르
 [IDS_ITEM.ID1130119]
 도미나스 스파이럴
+[IDS_ITEM.ID1130120]
+마스크드 히어로 다크 로우
 [IDS_ITEM.ID1130124]
 아이:피 마스카레나 & 에스:피 리틀나이트
 [IDS_ITEM.ID1132001]
@@ -2705,7 +2725,7 @@ coming soon
 [IDS_ITEM.ID1170009]
 블랙 매지션
 [IDS_ITEM.ID1170010]
-coming soon
+데스티니 히어로
 [IDS_ITEM.ID1170011]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -2743,7 +2763,7 @@ K9(케이나인)
 [IDS_ITEM.ID1180017]
 블랙 매지션
 [IDS_ITEM.ID1180018]
-coming soon
+데스티니 히어로
 [IDS_ITEM.ID1180019]
 coming soon
 [IDS_ITEM.ID1180020]

@@ -154,6 +154,8 @@ Geistermädchen & Spukhaus
 Edelstein-Schildkröte
 [IDS_ITEM.ID1001038]
 Sagenhafter Lurrie
+[IDS_ITEM.ID1001040]
+Gimmick-Marionette Eierkopf
 [IDS_ITEM.ID1002001]
 Fußball
 [IDS_ITEM.ID1002002]
@@ -454,10 +456,16 @@ Gagaga-Akademie-Notfallnetzwerk
 Kunstmagus Graflare
 [IDS_ITEM.ID1010133]
 Glanztaifun Meghala
+[IDS_ITEM.ID1010134]
+Schicksals-HELD - Plasma
 [IDS_ITEM.ID1010136]
 Kuh
+[IDS_ITEM.ID1010137]
+Rote Blüten aus dem Unterholz
 [IDS_ITEM.ID1010138]
 Dunkler Magier
+[IDS_ITEM.ID1010139]
+Sangan
 [IDS_ITEM.ID1011001]
 Fußball
 [IDS_ITEM.ID1011002]
@@ -1318,6 +1326,8 @@ K9-17 Izuna
 P.U.N.K. JAM-FIEBER!
 [IDS_ITEM.ID1031021]
 Mystischer Raum-Taifun
+[IDS_ITEM.ID1031022]
+Maskenwechsel II
 [IDS_ITEM.ID1032001]
 Festliches Ornament
 [IDS_ITEM.ID1032002]
@@ -1654,6 +1664,8 @@ Geheimnisse der Dunklen Magie
 Spright Elfe
 [IDS_ITEM.ID1070154]
 Mystischer Raum-Taifun
+[IDS_ITEM.ID1070155]
+Fusionsschicksal
 [IDS_ITEM.ID1070157]
 Live☆Zwilling Lil-la-Süßigkeit
 [IDS_ITEM.ID1070158]
@@ -1662,6 +1674,8 @@ Extremer Gerümpelkrieger
 Kreaturenanzahl von Kaiser Tanuki
 [IDS_ITEM.ID1070160]
 Angriffsmodus aktivieren
+[IDS_ITEM.ID1070161]
+Maskierter HELD Atomic
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1924,6 +1938,8 @@ Diabellstar die schwarze Hexe
 Labrynth
 [IDS_ITEM.ID1082026]
 „Ein Fall für K9“
+[IDS_ITEM.ID1082027]
+Gefängnisuhrturm
 [IDS_ITEM.ID1083001]
 Weiß & Blau
 [IDS_ITEM.ID1090001]
@@ -2656,10 +2672,14 @@ Spright-Gamma-Ausbruch
 Nachtflügelklerikerin
 [IDS_ITEM.ID1130115]
 Glanztaifun Fonix, die große Flamme
+[IDS_ITEM.ID1130116]
+Schicksals-HELD - Destroyer Phoenix Enforcer
 [IDS_ITEM.ID1130118]
 Jupiter der Machtpatron der Zerstörung
 [IDS_ITEM.ID1130119]
 Dominus-Spirale
+[IDS_ITEM.ID1130120]
+Maskierter HELD Dunkles Gesetz
 [IDS_ITEM.ID1130124]
 I:P Maskerena und S:P Kleine Ritterin
 [IDS_ITEM.ID1132001]
@@ -2703,7 +2723,7 @@ Himmelsjäger-Ass
 [IDS_ITEM.ID1170009]
 Dunkler Magier
 [IDS_ITEM.ID1170010]
-coming soon
+Schicksals-HELD
 [IDS_ITEM.ID1170011]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -2741,7 +2761,7 @@ EM:P-Miaumine
 [IDS_ITEM.ID1180017]
 Dunkler Magier
 [IDS_ITEM.ID1180018]
-coming soon
+Schicksals-HELD
 [IDS_ITEM.ID1180019]
 coming soon
 [IDS_ITEM.ID1180020]

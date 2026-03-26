@@ -236,7 +236,8 @@ Sondam o mundo humano às ordens do Domínio do Rugido.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
-coming soon
+Uma grotesca boneca mecânica dos pesadelos.
+Seduz com atos cavalheirescos, depois rasga o próprio corpo para atacar em uma forma horrenda.
 [IDS_ITEMDESC.ID1001041]
 coming soon
 [IDS_ITEMDESC.ID1001042]
@@ -753,12 +754,21 @@ Ele é ousado e impetuoso, mas sempre segue as regras.
 [IDS_ITEMDESC.ID1010133]
 Ícone que retrata uma menina de "<card mrk='21827'/>" que serve como receptáculo de uma divindade.
 Ela venera tempestades conforme invoca o poder da divindade do vento que nela habita.
+[IDS_ITEMDESC.ID1010134]
+Ícone que retrata <category id='161'/>, conhecido como Supremo D.
+Seu poder supremo e oculto pode mudar os rumos de uma derrota inevitável.
 [IDS_ITEMDESC.ID1010136]
 Ícone que retrata uma vaca voando nas alturas.
 Os pavorosos ventos arremessam tudo pelos ares.
+[IDS_ITEMDESC.ID1010137]
+Ícone que retrata uma garota segurando uma foice grande e sinistra.
+Por ora, ela repousa na base de uma linda cerejeira rosa.
 [IDS_ITEMDESC.ID1010138]
 Um ícone que retrata um mago de poder sem igual.
 O círculo mágico que ele traçou levou o lendário Rei dos Jogos à vitória.
+[IDS_ITEMDESC.ID1010139]
+Ícone que retrata um pequeno diabo de três olhos.
+Desapareceu após partir em uma viagem de volta à casa, no submundo.
 [IDS_ITEMDESC.ID1011001]
 Um ícone representando uma bola feita de painéis preto e branco.
 Vencer 3 Duelos seguidos não é considerado um triplete.
@@ -2038,6 +2048,9 @@ A Dança Shishimai, combinando todos os elementos imagináveis, virou uma arte l
 [IDS_ITEMDESC.ID1031021]
 Moldura de Ícone que evoca um relâmpago rasgando uma tempestade feroz.
 As rajadas de vento protegem contra ameaças externas.
+[IDS_ITEMDESC.ID1031022]
+Moldura de Ícone reminiscente da transformação de um herói.
+As várias formas representam a variedade de táticas que ele tem no arsenal.
 [IDS_ITEMDESC.ID1032001]
 Uma Moldura de Ícone em forma de decoração circular que pode ser vista em uma certa região conforme o ano chega ao fim.
 São penduradas com o desejo sincero de felicidade e alegria nos tempos vindouros.
@@ -2540,6 +2553,9 @@ Para aqueles cuja radiância não pode ser contida.
 [IDS_ITEMDESC.ID1070154]
 Protetores que retratam um relâmpago rasgando uma tempestade violenta.
 Para quem acredita em atacar com rapidez.
+[IDS_ITEMDESC.ID1070155]
+Protetores que retratam o esplendor de destinos que se cruzam.
+Para quem transcende o inevitável.
 [IDS_ITEMDESC.ID1070157]
 Protetores que retratam uma streamer ultrameiga em um traje especial.
 Para aqueles que encaram o mundo com uma expressão impassível.
@@ -2552,6 +2568,9 @@ Para quem reza por prosperidade e felicidade.
 [IDS_ITEMDESC.ID1070160]
 Protetores que retratam o que há além da Invocação-Sincro.
 Para quem busca novos horizontes.
+[IDS_ITEMDESC.ID1070161]
+Protetores que representam um herói invocado mediante transformação.
+Para quem busca um Deck com assinatura própria.
 [IDS_ITEMDESC.ID1071001]
 Protetores que ilustram um guerreiro que amadureceu e tirou as cicatrizes gravadas em seu coração durante as batalhas. 
 Perfeito para aqueles que querem sempre o melhor para os seus amigos mais queridos.
@@ -2943,6 +2962,9 @@ Perfeito para Decks repletos de Cards de Armadilha.
 [IDS_ITEMDESC.ID1082026]
 Um Porta-cards retratando <card mrk='21385'/>.
 Perfeito para Decks que investigam crimes sobrenaturais.
+[IDS_ITEMDESC.ID1082027]
+Porta-cards que retrata "<card mrk='6668'/>".
+Ideal para um Deck que escreve o próprio destino.
 [IDS_ITEMDESC.ID1083001]
 Porta-cards exclusivo, disponível em ocasiões especiais.
 [IDS_ITEMDESC.ID1090001]
@@ -4054,12 +4076,18 @@ Imagem que retrata o futuro dela como uma clériga diligente.
 [IDS_ITEMDESC.ID1130115]
 A divindade suprema das tempestades invoca uma tormenta infernal.
 Tem tanto poder que é capaz de mudar o clima mundo afora quando quer.
+[IDS_ITEMDESC.ID1130116]
+<category id='161'/> estilhaça até o destino.
+Como uma Fênix imortal que transcende a morte, volta ao campo de batalha mais uma vez.
 [IDS_ITEMDESC.ID1130118]
 "<card mrk='21810'/>", uma das divindades do reino espiritual.
 Libertou "<card mrk='21777'/>", descarregando relâmpagos verdes mundo afora.
 [IDS_ITEMDESC.ID1130119]
 Uma fera colossal urra em resposta ao estridente berro.
 A fúria da natureza ecoa pela terra em turbilhões vorazes.
+[IDS_ITEMDESC.ID1130120]
+Um dos heróis invocados mediante transformação.
+Chute voador desferido com suas pernas poderosas, capaz de abrir um buraco no alvo.
 [IDS_ITEMDESC.ID1130124]
 "A perseguidora" e "a perseguida" buscam um novo futuro.
 O caminho que elas vão moldar a partir de seus ideais permanece um mistério.
@@ -4121,7 +4149,8 @@ Dizem que ao reunir <category id='002'/>, as portas da tecnologia de ponta brilh
 Um Acervo de Colecionador que retrata o mago de maior confiança do lendário Rei dos Jogos.
 Dizem que, quando os <category id='072'/> se reunirem, as portas da magia negra brilharão intensamente.
 [IDS_ITEMDESC.ID1170010]
-coming soon
+Acervo de Colecionador de um herói que carrega o peso do destino.
+Dizem que, quando você reunir <category id='161'/>, a porta para o Supremo D reluzirá.
 [IDS_ITEMDESC.ID1170011]
 coming soon
 [IDS_ITEMDESC.ID1180001]
@@ -4173,7 +4202,8 @@ Sua expressão ousada brilha com confiança.
 Moeda cujo emblema é um mago empunhando magia negra.
 Seu poder mágico supremo brilha intensamente.
 [IDS_ITEMDESC.ID1180018]
-coming soon
+Moeda que retrata o emblema de um herói que carrega o peso do destino.
+O símbolo "D" cintila com fulgor.
 [IDS_ITEMDESC.ID1180019]
 coming soon
 [IDS_ITEMDESC.ID1180020]

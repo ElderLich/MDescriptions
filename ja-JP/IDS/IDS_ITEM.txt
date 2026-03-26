@@ -177,7 +177,7 @@ coming soon
 [IDS_ITEM.ID1001039]
 coming soon
 [IDS_ITEM.ID1001040]
-coming soon
+ギミック・パペット－ボム・エッグ
 [IDS_ITEM.ID1001041]
 coming soon
 [IDS_ITEM.ID1001042]
@@ -323,7 +323,7 @@ coming soon
 [IDS_ITEM.ID1010021]
 凶導者アルベル
 [IDS_ITEM.ID1010022]
-Ｄ－ＨＥＲＯ　デストロイフェニックスガイ
+D-HERO デストロイフェニックスガイ
 [IDS_ITEM.ID1010023]
 聖殿の水遣い
 [IDS_ITEM.ID1010024]
@@ -547,17 +547,17 @@ K９－１７号 イヅナ
 [IDS_ITEM.ID1010133]
 絢嵐たるメガラ
 [IDS_ITEM.ID1010134]
-coming soon
+D-HERO Bloo-D
 [IDS_ITEM.ID1010135]
 coming soon
 [IDS_ITEM.ID1010136]
 牛
 [IDS_ITEM.ID1010137]
-coming soon
+カクリヨノチザクラ
 [IDS_ITEM.ID1010138]
 ブラック・マジシャン
 [IDS_ITEM.ID1010139]
-coming soon
+クリッター
 [IDS_ITEM.ID1011001]
 サッカーボール
 [IDS_ITEM.ID1011002]
@@ -1527,7 +1527,7 @@ P.U.N.K.JAM FEVER！
 [IDS_ITEM.ID1031021]
 サイクロン
 [IDS_ITEM.ID1031022]
-coming soon
+マスク・チェンジ・セカンド
 [IDS_ITEM.ID1031023]
 coming soon
 [IDS_ITEM.ID1032001]
@@ -1899,7 +1899,7 @@ K９－ØØ号 ルプス
 [IDS_ITEM.ID1070154]
 サイクロン
 [IDS_ITEM.ID1070155]
-coming soon
+フュージョン・デステニー
 [IDS_ITEM.ID1070156]
 coming soon
 [IDS_ITEM.ID1070157]
@@ -1911,7 +1911,7 @@ Live☆Twin リィラ・スウィート
 [IDS_ITEM.ID1070160]
 バスター・モード
 [IDS_ITEM.ID1070161]
-coming soon
+M・HERO アトミック
 [IDS_ITEM.ID1070162]
 coming soon
 [IDS_ITEM.ID1070163]
@@ -2387,7 +2387,7 @@ Yum☆Yum☆ヤミーズ
 [IDS_ITEM.ID1082026]
 “Case of K９”
 [IDS_ITEM.ID1082027]
-coming soon
+幽獄の時計塔
 [IDS_ITEM.ID1082028]
 coming soon
 [IDS_ITEM.ID1082029]
@@ -3301,7 +3301,7 @@ S：Pリトルナイト
 [IDS_ITEM.ID1130115]
 絢嵐豪火フォニクス
 [IDS_ITEM.ID1130116]
-coming soon
+D-HERO デストロイフェニックスガイ
 [IDS_ITEM.ID1130117]
 coming soon
 [IDS_ITEM.ID1130118]
@@ -3309,7 +3309,7 @@ coming soon
 [IDS_ITEM.ID1130119]
 命王の螺旋
 [IDS_ITEM.ID1130120]
-coming soon
+M・HERO ダーク・ロウ
 [IDS_ITEM.ID1130121]
 coming soon
 [IDS_ITEM.ID1130122]
@@ -3367,7 +3367,7 @@ coming soon
 [IDS_ITEM.ID1170009]
 ブラック・マジシャン
 [IDS_ITEM.ID1170010]
-coming soon
+D-HERO
 [IDS_ITEM.ID1170011]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3405,7 +3405,7 @@ EM：Pグレニャード
 [IDS_ITEM.ID1180017]
 ブラック・マジシャン
 [IDS_ITEM.ID1180018]
-coming soon
+D-HERO
 [IDS_ITEM.ID1180019]
 coming soon
 [IDS_ITEM.ID1180020]

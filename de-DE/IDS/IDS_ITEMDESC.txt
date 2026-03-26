@@ -236,7 +236,8 @@ Sie erkunden die menschliche Welt im Auftrag des Dröhnenden Reichs.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
-coming soon
+Eine groteske, mechanische Albtraumpuppe.
+Sie bezaubert dich mit einer gentlemanhaften Geste, dann reißt sie ihren eigenen Körper auf, um in einer abscheulichen Gestalt anzugreifen.
 [IDS_ITEMDESC.ID1001041]
 coming soon
 [IDS_ITEMDESC.ID1001042]
@@ -753,12 +754,21 @@ Obwohl er leidenschaftlich und kühn ist, hält er sich stets an die Regeln.
 [IDS_ITEMDESC.ID1010133]
 Ein Symbol, das das junge Mädchen aus „<card mrk='21827'/>“ darstellt, das als Gefäß für eine Gottheit dient.
 Sie verehrt Stürme, indem sie die Macht des Windgottes in sich anruft.
+[IDS_ITEMDESC.ID1010134]
+Ein Symbol, das <category id='161'/> darstellt, bekannt als das Ultimative D.
+Seine verborgene, ultimative Macht kann ein Schicksal der sicheren Niederlage abwenden.
 [IDS_ITEMDESC.ID1010136]
 Ein Symbol, das eine hoch in die Luft gewehte Kuh darstellt.
 Die furchtbaren Winde fegen alles in der Gegend in die Höhe.
+[IDS_ITEMDESC.ID1010137]
+Ein Symbol, das ein Mädchen mit einer bedrohlich wirkenden, großen Sense darstellt.
+Im Moment sitzt sie am Fuße eines wunderschönen rosa Kirschbaums.
 [IDS_ITEMDESC.ID1010138]
 Ein Symbol, das einen Zauberer mit unvergleichlicher magischer Macht darstellt.
 Der magische Kreis, den er zog, führte den legendären König der Spiele zum Sieg.
+[IDS_ITEMDESC.ID1010139]
+Ein Symbol, das einen kleinen, dreiäugigen Teufel darstellt.
+Er verschwindet spurlos, nachdem er sich auf den Weg zurück in die Unterwelt gemacht hat.
 [IDS_ITEMDESC.ID1011001]
 Ein Symbol, das einen Ball, der aus schwarzen und weißen Panels besteht, darstellt.
 3 Duelle in Folge zu gewinnen nennt man nicht einen Hattrick.
@@ -2038,6 +2048,9 @@ Der Shishimai-Tanz, der alle erdenklichen Elemente vereint, ist in die Legende e
 [IDS_ITEMDESC.ID1031021]
 Ein Symbol-Rahmen, der an einen heftigen Sturm erinnert, der von einem Blitz durchbohrt wird.
 Die Windböen schützen vor äußeren Bedrohungen.
+[IDS_ITEMDESC.ID1031022]
+Ein Symbol-Rahmen, der an die Transformation eines Helden erinnert.
+Die vielen verschiedenen Formen spiegeln die Vielfalt der Taktiken in seinem Arsenal wider.
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2540,6 +2553,9 @@ Für alle mit unbändiger Ausstrahlung.
 [IDS_ITEMDESC.ID1070154]
 Kartenhüllen, die einen heftigen Sturm darstellen, der von Blitzen durchbohrt wird.
 Für diejenigen, die an schnelles Zuschlagen glauben.
+[IDS_ITEMDESC.ID1070155]
+Kartenhüllen, die den Glanz sich kreuzender Schicksale verkörpern.
+Für jene, die dem Schicksal entfliehen.
 [IDS_ITEMDESC.ID1070157]
 Kartenhüllen, die eine ultraniedliche Streamerin in einem besonderen Outfit darstellen.
 Für all jene, die der Welt mit ausdrucksloser Miene begegnen.
@@ -2552,6 +2568,9 @@ Für all jene, die um persönliches Wachstum und Glück beten.
 [IDS_ITEMDESC.ID1070160]
 Kartenhüllen, die das veranschaulichen, was jenseits der Synchrobeschwörung liegt.
 Für alle, die neue Horizonte suchen.
+[IDS_ITEMDESC.ID1070161]
+Kartenhüllen, die einen durch Transformation herbeigerufenen Helden darstellen.
+Für alle, die sich ein ganz eigenes Deck wünschen.
 [IDS_ITEMDESC.ID1071001]
 Kartenhüllen, die einen Krieger darstellen, der gereift ist und die Narben, die während der Kämpfe in sein Herz geätzt wurden, akzeptiert hat. 
 Perfekt für alle, die immer das Beste für ihre geliebten Freunde wollen.
@@ -2942,6 +2961,9 @@ Perfekt für Decks, die viele Fallenkarten enthalten.
 [IDS_ITEMDESC.ID1082026]
 Ein Kartenetui, auf dem <card mrk='21385'/> abgebildet ist.
 Perfekt für Decks, die gegen übernatürliche Verbrechen vorgehen.
+[IDS_ITEMDESC.ID1082027]
+Ein Kartenetui, auf dem „<card mrk='6668'/>“ abgebildet ist.
+Empfohlen für ein Deck, das seinen eigenen Weg geht.
 [IDS_ITEMDESC.ID1083001]
 Ein exklusives Kartenetui, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1090001]
@@ -4053,12 +4075,18 @@ Dieses Bild von ihr veranschaulicht ihre Zukunft als hilfsbereite Geistliche.
 [IDS_ITEMDESC.ID1130115]
 Der oberste Gott der Stürme entfesselt ein feuriges Inferno.
 Mit seiner Kraft verändert es nach Belieben das Wetter auf der ganzen Welt.
+[IDS_ITEMDESC.ID1130116]
+<category id='161'/> zerschmettert sogar das Schicksal selbst.
+Wie ein unsterblicher Phönix, der den Tod überwindet, kehrt er ein weiteres Mal auf das Schlachtfeld zurück.
 [IDS_ITEMDESC.ID1130118]
 „<card mrk='21810'/>“, einer der Götter der Geisterwelt.
 Entfesselte ein „<card mrk='21777'/>“, das von grünen Blitzen durchzuckt wurde, auf die Welt.
 [IDS_ITEMDESC.ID1130119]
 Als Antwort auf den gewaltigen Schrei brüllt ein riesiges Tier.
 Die Wut der Natur hallt in wirbelnden Strudeln durch das Land.
+[IDS_ITEMDESC.ID1130120]
+Einer der durch Transformation beschworenen Helden.
+Ein fliegender Tritt aus seinen kräftigen Beinen reißt ein Loch in das Ziel.
 [IDS_ITEMDESC.ID1130124]
 „Jäger“ und „Gejagter“ ergreifen eine neue Zukunft.
 Welchen Weg sie aus ihren Idealen heraus einschlagen werden, bleibt ein Rätsel.
@@ -4120,7 +4148,8 @@ Es heißt, dass die Türen der hochmodernen Technologie hell erstrahlen wird, we
 Ein Sammelordner, der einen Magier darstellt, dem der legendäre König der Spiele am meisten vertraute.
 Es heißt, dass die Tore der Schwarzen Magie hell erstrahlen werden, wenn die <category id='072'/> versammelt sind.
 [IDS_ITEMDESC.ID1170010]
-coming soon
+Ein Sammelordner für einen Helden, der die Last des Schicksals trägt.
+Man sagt, wenn man <category id='161'/> versammelt, wird die Tür zum Ultimativen D erstrahlen.
 [IDS_ITEMDESC.ID1170011]
 coming soon
 [IDS_ITEMDESC.ID1180001]
@@ -4172,7 +4201,8 @@ Der kühne Ausdruck strahlt Selbstbewusstsein aus.
 Eine Münze, deren Motiv ein Magier ist, der schwarze Magie ausübt.
 Seine überragende magische Kraft strahlt hell.
 [IDS_ITEMDESC.ID1180018]
-coming soon
+Eine Münze mit dem Emblem eines Helden, der die Last des Schicksals trägt.
+Das Symbol „D“ glänzt hell.
 [IDS_ITEMDESC.ID1180019]
 coming soon
 [IDS_ITEMDESC.ID1180020]

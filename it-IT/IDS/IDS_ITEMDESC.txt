@@ -236,7 +236,8 @@ Sorveglia il mondo degli umani su ordine del Dominio Ruggente.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
-coming soon
+Una grottesca bambola da incubo meccanica.
+Ti conquista con un gesto cortese, per poi aprire il proprio corpo e attaccare in una forma mostruosa.
 [IDS_ITEMDESC.ID1001041]
 coming soon
 [IDS_ITEMDESC.ID1001042]
@@ -753,12 +754,21 @@ Pur essendo appassionato e audace, segue sempre le regole.
 [IDS_ITEMDESC.ID1010133]
 Un'icona che raffigura la giovane ragazza di "<card mrk='21827'/>", che funge da tramite per una divinità.
 Venera le tempeste mentre richiama il potere del dio del vento dentro di lei.
+[IDS_ITEMDESC.ID1010134]
+Un'icona che raffigura <category id='161'/>, conosciuto come Ultimate D.
+Il suo potere supremo nascosto può ribaltare un destino inevitabile, come una sconfitta certa.
 [IDS_ITEMDESC.ID1010136]
 Un'icona che raffigura una mucca che è stata sollevata in aria.
 I temibili venti spazzano via tutto nell'area sovrastante.
+[IDS_ITEMDESC.ID1010137]
+Un'icona che raffigura una ragazza che impugna una grande falce dall'aspetto sinistro.
+Per ora, siede alla base di uno splendido ciliegio dai fiori rosa.
 [IDS_ITEMDESC.ID1010138]
 Un'icona che raffigura un mago dai poteri magici senza pari.
 Il cerchio magico che ha tracciato ha portato alla vittoria il leggendario Re dei Giochi.
+[IDS_ITEMDESC.ID1010139]
+Un'icona che raffigura un piccolo demone con tre occhi.
+È scomparso dopo essersi messo in viaggio per tornare negli inferi.
 [IDS_ITEMDESC.ID1011001]
 Un'icona che rappresenta un pallone composto da elementi bianchi e neri.
 Vincere 3 Duelli di fila non è considerata una tripletta.
@@ -2037,6 +2047,9 @@ La Danza del Leone, combinando ogni elemento possibile, è entrata nella leggend
 [IDS_ITEMDESC.ID1031021]
 Una cornice icona che evoca una furiosa tempesta squarciata da un fulmine.
 Le raffiche di vento proteggono dalle minacce esterne.
+[IDS_ITEMDESC.ID1031022]
+Una cornice icona che ricorda la trasformazione di un eroe.
+Le molte forme diverse rappresentano la varietà delle tattiche nel suo arsenale.
 [IDS_ITEMDESC.ID1032001]
 Una cornice icona a forma di decorazione circolare, che viene usata in determinate regioni quando l'anno volge al termine.
 Vengono appese in segno di sincero augurio di felicità e gioia per il futuro.
@@ -2538,6 +2551,9 @@ Per coloro che sono dotati di una radiosità incontenibile.
 [IDS_ITEMDESC.ID1070154]
 Protettori che raffigurano una furiosa tempesta squarciata dai fulmini.
 Per coloro che credono nel colpire rapidamente.
+[IDS_ITEMDESC.ID1070155]
+Protettori che raffigurano la radiosità dei destini interconnessi.
+Per coloro che trascendono il destino.
 [IDS_ITEMDESC.ID1070157]
 Protettori che raffigurano una streamer super carina in un completo speciale.
 Per coloro che affrontano il mondo con un'espressione impassibile.
@@ -2550,6 +2566,9 @@ Per coloro che desiderano felicità e crescita personale.
 [IDS_ITEMDESC.ID1070160]
 Protettori che raffigurano cosa si trova oltre la Synchro Evocazione.
 Per coloro che sono alla ricerca di nuovi orizzonti.
+[IDS_ITEMDESC.ID1070161]
+Protettori che raffigurano un eroe evocato tramite la trasformazione.
+Per coloro che sono alla ricerca di un Deck tutto per sé.
 [IDS_ITEMDESC.ID1071001]
 Protettori che rappresentano un guerriero che ha imparato a convivere con le ferite inferte al suo cuore durante le battaglie. 
 Perfetti per chi pretende sempre il meglio per gli amici più cari.
@@ -2941,6 +2960,9 @@ Perfetta per Deck con molte Carte Trappola.
 [IDS_ITEMDESC.ID1082026]
 Una custodia carte che raffigura <card mrk='21385'/>.
 Perfetta per Deck che combattono i crimini soprannaturali.
+[IDS_ITEMDESC.ID1082027]
+Una custodia carte che raffigura "<card mrk='6668'/>".
+Consigliata per un Deck che forgia il proprio destino.
 [IDS_ITEMDESC.ID1083001]
 Una Custodia carte esclusiva offerta in occasioni speciali.
 [IDS_ITEMDESC.ID1090001]
@@ -4052,12 +4074,18 @@ Questa sua immagine ritrae il suo futuro come chierica di supporto.
 [IDS_ITEMDESC.ID1130115]
 Il dio supremo delle tempeste scatena un inferno di fuoco.
 Con la sua potenza, cambia liberamente le condizioni meteorologiche in tutto il mondo.
+[IDS_ITEMDESC.ID1130116]
+<category id='161'/> annienta persino il destino.
+Come una fenice immortale che trascende la morte, torna sul campo di battaglia un'altra volta.
 [IDS_ITEMDESC.ID1130118]
 "<card mrk='21810'/>", uno degli dei del regno degli spiriti.
 Ha scatenato "<card mrk='21777'/>", crepitante di fulmini verdi sul mondo.
 [IDS_ITEMDESC.ID1130119]
 Una bestia enorme ruggisce in risposta al possente grido.
 La furia della natura riecheggia nel territorio in vortici turbinanti.
+[IDS_ITEMDESC.ID1130120]
+Uno degli eroi evocati attraverso la trasformazione.
+Un calcio volante scagliato dalle sue potenti gambe apre un foro netto attraverso il bersaglio.
 [IDS_ITEMDESC.ID1130124]
 "L'inseguitrice" e "l'inseguita" conquistano un nuovo futuro.
 La strada che tracceranno seguendo i propri ideali resta un mistero.
@@ -4119,7 +4147,8 @@ Si dice che quando si ottengono <category id='002'/>, le porte di una tecnologia
 Un Album del Collezionista con il mago di maggior fiducia del leggendario Re dei Giochi.
 Si dice che quando si ottengono <category id='072'/>, le porte della magia nera risplenderanno luminose.
 [IDS_ITEMDESC.ID1170010]
-coming soon
+Un Album del Collezionista per un eroe che porta il peso del destino.
+Si dice che quando si ottengono <category id='161'/>, la porta per Ultimate D risplenderà.
 [IDS_ITEMDESC.ID1170011]
 coming soon
 [IDS_ITEMDESC.ID1180001]
@@ -4171,7 +4200,8 @@ Dalla sua espressione audace traspare sicurezza.
 Una moneta il cui motivo è un mago che padroneggia la magia nera.
 Il suo supremo potere magico brilla intensamente.
 [IDS_ITEMDESC.ID1180018]
-coming soon
+Una moneta che raffigura lo stemma di un eroe che porta il peso del destino.
+Il simbolo "D" brilla luminoso.
 [IDS_ITEMDESC.ID1180019]
 coming soon
 [IDS_ITEMDESC.ID1180020]

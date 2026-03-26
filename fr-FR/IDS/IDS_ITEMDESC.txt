@@ -236,7 +236,8 @@ Il surveille le monde des humains sur ordres du Domaine rugissant.
 [IDS_ITEMDESC.ID1001039]
 coming soon
 [IDS_ITEMDESC.ID1001040]
-coming soon
+Une poupée mécanique cauchemardesque et grotesque.
+Elle vous charme avec ses bonnes manières avant de fendre son corps en deux pour attaquer sous une forme hideuse.
 [IDS_ITEMDESC.ID1001041]
 coming soon
 [IDS_ITEMDESC.ID1001042]
@@ -753,12 +754,21 @@ Bien que passionné et audacieux, il respecte toujours les règles.
 [IDS_ITEMDESC.ID1010133]
 Une icône représentant une jeune fille de "<card mrk='21827'/>" dont le corps est habité par un dieu.
 Elle vénère les orages et canalise la puissance du dieu du vent en elle.
+[IDS_ITEMDESC.ID1010134]
+Une Icône représentant <category id='161'/>, connu comme étant le D Ultime.
+Son pouvoir ultime caché peut changer le cours d'un destin voué à la défaite.
 [IDS_ITEMDESC.ID1010136]
 Une icône représentant une vache projetée haut dans les airs.
 Les vents redoutables de cette zone envoient tout valser dans le ciel.
+[IDS_ITEMDESC.ID1010137]
+Une Icône représentant une fille tenant une grande faux inquiétante.
+Elle est assise sous un magnifique cerisier en fleur.
 [IDS_ITEMDESC.ID1010138]
 Une icône représentant un sorcier doté d'un pouvoir magique sans égal.
 Le cercle magique qu'il dessina offrit la victoire au légendaire Roi des Jeux.
+[IDS_ITEMDESC.ID1010139]
+Une Icône représentant un petit diablotin à trois yeux.
+Il disparaît après avoir décidé de rentrer chez lui en enfer.
 [IDS_ITEMDESC.ID1011001]
 Une icône représentant un ballon constitué de panneaux noirs et blancs.
 Remporter 3 Duels d'affilée ne s'appelle pas un coup du chapeau.
@@ -2038,6 +2048,9 @@ La Danse Shishimai, qui associe tous les éléments possibles, est gravée dans 
 [IDS_ITEMDESC.ID1031021]
 Un cadre d'icône évoquant une tempête féroce traversée d'un éclair.
 Les bourrasques de vent servent de barrière contre les menaces extérieures.
+[IDS_ITEMDESC.ID1031022]
+Un Cadre d'icône rappelant la transformation d'un héros.
+Les nombreuses formes différentes représentent la variété des tactiques dans son arsenal.
 [IDS_ITEMDESC.ID1032001]
 Un Cadre d'icône de forme circulaire pouvant être aperçu dans certaines régions du monde lorsque l'année arrive à son terme.
 On l'accroche en faisant le vœu sincère que les jours à venir apportent joie et bonheur.
@@ -2539,6 +2552,9 @@ Pour ceux qui rayonnent d'un éclat incontrôlable.
 [IDS_ITEMDESC.ID1070154]
 Des Protège-cartes représentant un orage violent traversé par des éclairs.
 Pour ceux qui pensent qu'il faut frapper vite.
+[IDS_ITEMDESC.ID1070155]
+Des Protège-cartes représentant le rayonnement de destins croisés.
+Pour ceux qui transcendent leur destinée.
 [IDS_ITEMDESC.ID1070157]
 Protège-cartes représentant une streameuse ultra mignonne dans une tenue spéciale.
 Pour ceux qui affrontent le monde en restant impassibles.
@@ -2551,6 +2567,9 @@ Pour ceux qui sont en quête de développement personnel et de bonheur.
 [IDS_ITEMDESC.ID1070160]
 Des Protège-cartes représentant ce qui réside au-delà de l'Invocation Synchro.
 Pour ceux qui sont en quête de nouveaux horizons.
+[IDS_ITEMDESC.ID1070161]
+Des Protège-cartes représentant un héros invoqué par une transformation.
+Pour ceux qui recherchent un Deck qui leur est propre.
 [IDS_ITEMDESC.ID1071001]
 Des protège-cartes illustrant un guerrier qui a mûri et accepté les cicatrices gravées dans son cœur au cours des batailles. 
 Parfaits pour ceux qui veulent toujours le meilleur pour leurs amis.
@@ -2941,6 +2960,9 @@ Idéal pour les Decks remplis de Cartes Piège.
 [IDS_ITEMDESC.ID1082026]
 Une boîte de cartes illustrée avec <card mrk='21385'/>.
 Parfait pour les Decks luttant contre les crimes surnaturels.
+[IDS_ITEMDESC.ID1082027]
+Une Boîte de cartes illustrée avec "<card mrk='6668'/>".
+Recommandée pour un Deck qui décide de son propre destin.
 [IDS_ITEMDESC.ID1083001]
 Une Boîte de cartes exclusive offerte lors d'occasions spéciales.
 [IDS_ITEMDESC.ID1090001]
@@ -4051,12 +4073,18 @@ Cette image représente son futur en tant qu'ecclésiastique charitable.
 [IDS_ITEMDESC.ID1130115]
 Le dieu suprême des tempêtes libère une fournaise infernale.
 Son pouvoir lui permet de modifier la météo partout dans le monde.
+[IDS_ITEMDESC.ID1130116]
+<category id='161'/> brise le fil du destin.
+Tel un phénix immortel qui transcende la mort, il revient encore une fois sur le champ de bataille.
 [IDS_ITEMDESC.ID1130118]
 "<card mrk='21810'/>", l'un des dieux du royaume des esprits.
 Il a libéré "<card mrk='21777'/>" sur le monde, crépitant d'éclairs verts.
 [IDS_ITEMDESC.ID1130119]
 Une bête immense rugit en réponse au puissant cri perçant.
 La fureur de la nature résonne en tourbillon à travers tout le territoire.
+[IDS_ITEMDESC.ID1130120]
+L'un des héros invoqués par une transformation.
+Le coup asséné par ses jambes puissantes peut perforer sa cible.
 [IDS_ITEMDESC.ID1130124]
 "La pourchasseuse" et sa "proie" forgent un nouvel avenir.
 La voie qu'elles traceront en suivant leurs idéaux reste inconnue.
@@ -4118,7 +4146,8 @@ Il paraît que lorsque les <category id='002'/> se réuniront, les portes de la 
 Un Dossier de Collectionneur consacré au magicien le plus apprécié du légendaire Roi des Jeux.
 On dit que lorsque les <category id='072'/> seront réunis, les portes de la magie noire brilleront de mille feux.
 [IDS_ITEMDESC.ID1170010]
-coming soon
+Un Dossier de Collectionneur représentant l'emblème d'un héros qui porte le poids du destin.
+On dit que lorsque les <category id='161'/> seront réunis, les portes du D Ultime brilleront de mille feux.
 [IDS_ITEMDESC.ID1170011]
 coming soon
 [IDS_ITEMDESC.ID1180001]
@@ -4170,7 +4199,8 @@ Son expression audacieuse est pleine d'assurance.
 Une Pièce dont le motif représente un magicien pratiquant la magie noire.
 Son pouvoir magique suprême brille de mille feux.
 [IDS_ITEMDESC.ID1180018]
-coming soon
+Une Pièce représentant l'emblème d'un héros qui porte le poids du destin.
+La lettre "D" scintille.
 [IDS_ITEMDESC.ID1180019]
 coming soon
 [IDS_ITEMDESC.ID1180020]
